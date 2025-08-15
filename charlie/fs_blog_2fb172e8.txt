@@ -1,0 +1,111 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+In his 1986 speech at the commencement of Harvard-Westlake School in Los Angeles (found inPoor Charlie’s Almanack)Charlie Mungergave a short Johnny Carson-like speech on the things to avoid to end up with a happy and successful life. One of his most salient prescriptions comes from the life of Charles Darwin:
+
+It is my opinion, as a certified biography nut, that Charles Robert Darwin would have ranked in the middle of the Harvard School graduating class if 1986. Yet he is now famous in the history of science. This is precisely the type of example you should learn nothing from if bent on minimizing your results from your own endowment.
+
+Darwin’s result was due in large measure to his working method, which violated all my rules for misery and particularly emphasized a backward twist in that he always gave priority attention to evidence tending to disconfirm whatever cherished and hard-won theory he already had. In contrast, most people early achieve and later intensify a tendency to process new and disconfirming information so that any original conclusion remains intact. They become people of whom Philip Wylie observed: “You couldn’t squeeze a dime between what they already know and what they will never learn.”
+
+The life of Darwin demonstrates how a turtle may outrun a hare, aided by extreme objectivity, which helps the objective person end up like the only player without a blindfold in a game of Pin the Tail on the Donkey.
+
+
+
+The great Harvard biologist E.O. Wilson agreed. In his book,Letters to a Young Scientist, Wilsonargued thatDarwin would have probably scored in the 130 range on a standard IQ test. And yet there he is, buried next to the calculus-inventing genius Isaac Newton in Westminster Abbey. (As Munger often notes.)
+
+[quote]I had, also, during many years, followed a golden rule, namely, that whenever a published fact, a new observation or thought came across me, which was opposed to my general results, to make a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from memory than favorable ones.[/quote]
+
+What can we learn from the working and thinking habits of Darwin?
+
+The first clue comes from his own autobiography. Darwin was ahooverof information related to a topic he was interested in. After describing some of his specific areas of study while aboard the H.M.S. Beagle, Darwin concludes in hisAutobiography:
+
+The above various special studies were, however, of no importance compared with the habit of energetic industry and of concentrated attention to whatever I was engaged in, which I then acquired. Everything about which I thought or read was made to bear directly on what I had seen and was likely to see; and this habit of mind was continued during the five years of the voyage. I feel sure that it was this training which has enabled me to do whatever I have done in science.
+
+This habit of pure and attentive focus to the task at hand is, of course, echoed in many of our favorite thinkers, fromSherlock Holmes, toE.O. Wilson,Feynman, Einstein, and others. Munger himself remarked that“I did not succeed in life by intelligence. I succeeded because I have a long attention span.”
+
+In Darwin’s quest, there was almost nothing relevant to his task at hand — the problem of understanding the origin and development of species — which might have escaped his attention. He had an extremely broad antenna. Says David Quammen in his fabulousThe Reluctant Mr. Darwin:
+
+One of Darwin’s great strengths as a scientist was also, in some ways, a disadvantage: his extraordinary breadth of curiosity. From his study at Down House he ranged widely and greedily, in his constant search for data, across distances (by letter) and scientific fields. He read eclectically and kept notes like a pack rat. Over the years he collected an enormous quantity of interconnected facts. He looked for patterns but was intrigued equally by exceptions to the patterns, and exceptions to the exceptions. He tested his ideas against complicated groups of organisms with complicated stories, such as the barnacles, the orchids, the social insects, the primroses, and the hominids.
+
+Not only was Darwin thinking broadly, taking in facts at all turns and on many subjects, but he was thinkingcarefully, This is where Munger’s admiration comes in: Darwin wanted to look at the exceptions. The exceptions to the exceptions. He was on the hunt fortruthand not necessarily to confirm some highly-loved idea. Simply put, he didn’t want to be wrong about the nature of reality. To get the theory whole and correct would take lots of detail and time, as we will see.
+
+***
+
+The habit of study and observation didn’t stop at the plant and animal kingdom for Darwin. In a move that might seem strange by today’s standards, Darwin even opened a notebook to study the development of his own newborn son, William. This is from one of his notebooks:
+
+Natural History of Babies
+
+Do babies start (i.e., useless sudden movement of muscles) very early in life. Do they wink, when anything placed before their eyes, very young, before experience can have taught them to avoid danger. Do they know frown when they first see it?
+
+From there, as his child grew and developed, Darwin took close notes. How did he figure out that the reflection in the mirror was him? How did he then figure out it was only animageof him, and that any other images that showed up (say, Dad standing behind him) were mere images too – not reality? These were further data in Darwin’s mental model of the accumulation of gradual changes, but more importantly, displayed hisattention to detail. Everything eventually came to “bear directly on what I had seen and what I was likely to see.”
+
+And in a practical sense, Darwin was a relentlessnote-taker. Notebook A, Notebook B, Notebook C, Notebook M, Notebook N…all filled with observations from his study of journals and texts, his own scientific work, his travels, and his life. Once he sat down to write, he had an enormous amount of prior written thought to draw on. He could also see gaps in his understanding, which he diligently filled in.
+
+You can learn much about Darwin (and truthfully about anyone) by who he studied and admired. If Darwin held anyone in high esteem, it was Charles Lyell, whosePrinciples of Geologywas his faithful companion on theH.M.S. Beagle. Here is his description of Lyell from his autobiography, which tells us something of the traits Darwin valued and sought to emulate:
+
+I saw more of Lyell than of any other man before and after my marriage. His mind was characterized, as it appeared to me, by clearness, caution, sound judgment and a good deal of originality. When I made any remark to him on Geology, he never rested until he saw the whole case clearly and often made me see it more clearly than I had done before. He would advance all possible objections to my suggestions, and even after these were exhausted would long remain dubious. A second characteristic was his hearty sympathy with the work of other scientific men.
+
+Studying Lyell and geology enhanced Darwin’s (probably natural) suspicion that careful, detailed, and objective work was required to create scientific breakthroughs. And once Darwin had expertise and grounding in the level of expertise required by Lyell to understand and explain the theory of geology, he had a basis for the rest of his scientific work. From his autobiography:
+
+After my return to England, it appeared to me that by following the example of Lyell in Geology, and by collecting all facts which bore in any way on the variation of animals and plants under domestication and nature, some light might perhaps be thrown on the whole subject.
+
+In fact, it was Darwin’s study and understanding of geology itself that gave him something to lean on conceptually. Lyell’s, and his own, theory of geology was of a slow-moving process that accumulated massive gradual changes over time. This seems like common knowledge today, but at the time, people weren’t so sure that the mountains and the islands could have been created by such slow moving and incremental processes.
+
+Wallace & Gruber’s bookCreative People at Work, an analysis of a variety of thinkers and artists, argues that this basic mental model carried Darwin pretty far:
+
+Why was the acquisition of expert knowledge in geology so important to the development of Darwin’s overall thinking? Because in learning geology Darwin ground a conceptual lens — a device for bringing into focus and clarifying the problems to which he turned his attention. When his attention shifted to problems beyond geology, the lens remained and Darwin used it in exploring new problems.
+
+[…]
+
+(Darwin’s) coral reef theory shows that he had become an expert in one field…(and) the central idea in Darwin’s understanding of geology was “gradualism” — that great things could be produced by long, continued accumulation of very small effects. The next phase in the development of this thought-form would involve his use of it as the basis for the construction of analogies between geology and new, unfamiliar subjects.
+
+[…]
+
+Darwin wrote his most explicit and concise statement of the nature and utility of his gradualism thought-form: “This multiplication of little means and brinigng the mind to grapple with great effect produced is a most laborious & painful effort of the mind.” He recognized that it took patience and discipline to discover the “little means” that were responsible for great effects. With the necessary effort, however, this gradualism thought-form could become the vehicle for explaining many remarkable phenomena in geology, biology, and even psychology.
+
+It is amazing to note that Darwin did not writeThe Origin of Speciesuntil 1859 even though his notebooks show he had been pretty close to the correct idea at least 15 or 20 years prior. What was hedoingin all that time? Well, for eight years at least, he was studying barnacles.
+
+***
+
+One of the reasons Darwin went on a crusade of classifying and studying the barnacles in minute detail was his concern that if he wasn’t a primary expert on some portion of the natural world, his work on a larger and more general thesis would not be taken seriously, and that it would probably have holes. He said as much to his friend Frederic Gerard, a French botanist, before he had begun his barnacle work:“How painfully (to me) true is your remark that no one has hardly a right to examine the question of species who has not minutely described many.”And, of course, Darwin being Darwin, he spent eight years remedying that unfathomable situation.
+
+It seemed like extraordinarily tedious work, unrelated to anything a scientist would consider important on a grand scale. It was taxonomy. Classification. Even Darwin admitted later on that he doubted it was worth the years he spent on it. Yet, in his detail-oriented journey for expertise on barnacles, he hit upon some key ideas that would make his theory of natural selection complete. Says Quammen:
+
+He also found notable differences on another categorical level;withinspecies. Contrary to what he’d believed all along about the rarity of variation in the wild, barnacles turned out to be highly variable. A species wasn’t a Platonic essence or a metaphysical type. A species was a population of differing individuals.
+
+He wouldn’t have seen that if he hadn’t assigned himself the trick job of drawing lines between one species and another. He wouldn’t have seen it if he hadn’t used his network of contacts and his good reputation as a naturalist to gather barnacle specimens, in quantity, from all over the world. The truth of variation only reveals itself in crowds. He wouldn’t have seen it if he hadn’t examined multiple individuals, not just single representatives, of as many species as possible….Abundant variation among barnacles filled a crucial role in his theory. Here they were, the minor differences on which natural selection works.
+
+Darwin was so diligent it could be breathtaking at times. Quammen describes him gathering up various species to assess the data about their development and their variation. Birds, dead or alive, as many as possible. Foxes, dogs, ducks, pigeons, rabbits, cats…nothing escaped his purview. As many specimens as he could get his hands on. All while living in a secluded house in Victorian England, beset by constant illness. He was Big Data before Big Data was a thing, trying to suss out conclusions from a mass of observation.
+
+Eventually, his work led him to something new: Species are not immutable, they are all part of the same family tree. They evolve through a process of variation — he didn’t know how; that took years for others to figure out through the study of genetics — and differential survival through natural selection.
+
+Darwin was able to put his finger on why it took so long for humanity to come to this correct theory: It was extremely counter-intuitive to how one would naturally see the world. He admitted as much in theOrigin of Species‘ concluding chapter:
+
+The chief cause of our natural unwillingness to admit that one species has given birth to other and distinct species, is that we are always slow in admitting any great changes of which we do not see the steps. The difficulty is the same as that felt by so many geologists, when Lyell first insisted that long lines of inland cliffs had been formed, and great valleys excavated, by the agencies which we still see at work. The mind cannot possibly grasp the full meaning of the term of even a million years; it cannot add up and perceive the full effects of many slight variations, accumulated during an almost infinite number of generations.
+
+Counter-intuition was Darwin’s specialty. And the reason he was so good was he had a very simple habit of thought, described in the autobiography and so cherished by Charlie Munger: He paid special attention to collecting facts which did not agree with his prior conceptions. He called this agolden rule.
+
+I had, also, during many years, followed a golden rule, namely, that whenever a published fact, a new observation or thought came across me, which was opposed to my general results, to make a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from memory than favorable ones. Owing to this habit, very few objections were raised against my views which I had not at least noticed and attempted to answer.
+
+So we see that Darwin’s great success, by his own analysis, owed to his ability to see, note, and learn from objections to his cherished thoughts.The Origin of Specieshas stood up in the face of 157 years of subsequent biological research because Darwin was so careful to make sure the theory was nearly impossible to refute. Later scientists would find the book slightlyincomplete, but not incorrect.
+
+This passage reminds one of, and probably influenced,Charlie Munger‘s prescription on thework required to hold an opinion: You must understand the opposite side of the argumentbetterthan the personholdingthat side does. It’s a very difficult way to think, tremendously unnatural in the face of our genetic makeup (the more typical response is to look for as muchconfirming evidenceas possible). Harnessed properly, though, it is a powerful way to beat your own shortcomings and become a seeing man amongst the blind.
+
+Thus, we can deduce that, in addition to good luck and good timing, it was Darwin’s habits ofcompleteness, diligence, accuracy, and habitual objectivitywhich ultimately led him to make his greatest breakthroughs. It was tedious. There was no spark of divine insight that gave him his edge. He just started with the right basic ideas and the right heroes, and then worked for a long time and with extreme focus and objectivity, always keeping his eye on reality.
+
+In the end, you can do worse than to read all you can find on Charles Darwin and try to copy his mental habits. They will serve you well over a long life.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

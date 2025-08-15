@@ -1,0 +1,7 @@
+Dec 20 2005
+Fix the Search Interface First
+Barry Diller wants Ask.com to grow market share
+. I’m sure there’s lots to be done on improving distribution deals, the crawler, back-end algorithms, etc., but how about starting with some simple, obvious UI fixes? Here are the results of a search for “Search Engine” on the 4 majors:
+At 1024×768, the UI differences are glaring. I’ve marked the ads in red and the information of dubious value in blue. The green checks indicate relevant, high-quality results.
+To the average surfer, the info in white is all that matters. Note to everyone else except Google – fix the UI first – it’s the low-hanging fruit.
+Related

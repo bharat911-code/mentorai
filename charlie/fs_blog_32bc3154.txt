@@ -1,0 +1,69 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+FromThe Signal And The Noise:
+
+Successful gamblers – and successful forecasters of any kind – do not think of the future in terms of no-lose best, unimpeachable theories, and infinitely precise measurements. These are the illusions of the sucker, the sirens of his over-confidence. Successful gamblers, instead, think of the future as speckles of probability, flickering upward and downward like a stock market ticker to every new jolt of information. When their estimates of these probabilities diverge by a sufficient margin from the odds on offer, they may place a bet.
+
+This sounds an awful lot like how Warren Buffett, Charlie Munger, and Benjamin Graham think about investing.
+
+In his 1987letterto shareholders, Warren Buffett explains Graham’sconcept of Mr. Market:
+
+Ben Graham, my friend and teacher, long ago described the mental attitude toward market fluctuations that I believe to be most conducive to investment success. He said that you should imagine market quotations as coming from a remarkably accommodating fellow named Mr. Market who is your partner in a private business. Without fail, Mr. Market appears daily and names a price at which he will either buy your interest or sell you his.
+
+Even though the business that the two of you own may have economic characteristics that are stable, Mr. Market’s quotations will be anything but. For, sad to say, the poor fellow has incurable emotional problems. At times he feels euphoric and can see only the favorable factors affecting the business. When in that mood, he names a very high buy-sell price because he fears that you will snap up his interest and rob him of imminent gains. At other times he is depressed and can see nothing but trouble ahead for both the business and the world. On these occasions he will name a very low price, since he is terrified that you will unload your interest on him.
+
+Mr. Market has another endearing characteristic: He doesn’t mind being ignored. If his quotation is uninteresting to you today, he will be back with a new one tomorrow. Transactions are strictly at your option. Under these conditions, the more manic-depressive his behavior, the better for you.
+
+But, like Cinderella at the ball, you must heed one warning or everything will turn into pumpkins and mice: Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful. If he shows up some day in a particularly foolish mood, you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence. Indeed, if you aren’t certain that you understand and can value your business far better than Mr. Market, you don’t belong in the game. As they say in poker, “If you’ve been in the game 30 minutes and you don’t know who the patsy is, you’re the patsy.”
+
+And Charlie Munger’stake:
+
+The model I like—to sort of simplify the notion of what goes on in a market for common stocks—is the pari-mutuel system at the racetrack. If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet. That’s what happens in the stock market.
+
+Any damn fool can see that a horse carrying a light weight with a wonderful win rate and a good post position etc., etc. is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet using the mathematics of Fermat and Pascal. The prices have changed in such a way that it’s very hard to beat the system.
+
+And then the track is taking 17% off the top. So not only do you have to outwit all the other betters, but you’ve got to outwit them by such a big margin that on average, you can afford to take 17% of your gross bets off the top and give it to the house before the rest of your money can be put to work.
+
+Given those mathematics, is it possible to beat the horses only using one’s intelligence? Intelligence should give some edge, because lots of people who don’t know anything go out and bet lucky numbers and so forth. Therefore, somebody who really thinks about nothing but horse performance and is shrewd and mathematical could have a very considerable edge, in the absence of the frictional cost caused by the house take.
+
+Unfortunately, what a shrewd horseplayer’s edge does in most cases is to reduce his average loss over a season of betting from the 17% that he would lose if he got the average result to maybe 10%. However, there are actually a few people who can beat the game after paying the full 17%.
+
+I used to play poker when I was young with a guy who made a substantial living doing nothing but bet harness races…. Now, harness racing is a relatively inefficient market. You don’t have the depth of intelligence betting on harness races that you do on regular races. What my poker pal would do was to think about harness races as his main profession. And he would bet only occasionally when he saw some mispriced bet available. And by doing that, after paying the full handle to the house—which I presume was around 17%—he made a substantial living.
+
+You have to say that’s rare. However, the market was not perfectly efficient. And if it weren’t for that big 17% handle, lots of people would regularly be beating lots of other people at the horse races. It’s efficient, yes. But it’s not perfectly efficient. And with enough shrewdness and fanaticism, some people will get better results than others.
+
+The stock market is the same way—except that the house handle is so much lower. If you take transaction costs—the spread between the bid and the ask plus the commissions—and if you don’t trade too actively, you’re talking about fairly low transaction costs. So that with enough fanaticism and enough discipline, some of the shrewd people are going to get way better results than average in the nature of things.
+
+It is not a bit easy. And, of course, 50% will end up in the bottom half and 70% will end up in the bottom 70%. But some people will have an advantage. And in a fairly low transaction cost operation, they will get better than average results in stock picking.
+
+How do you get to be one of those who is a winner—in a relative sense—instead of a loser?
+
+Here again, look at the pari-mutuel system. I had dinner last night by absolute accident with the president of Santa Anita. He says that there are two or three betters who have a credit arrangement with them, now that they have off-track betting, who are actually beating the house. They’re sending money out net after the full handle—a lot of it to Las Vegas, by the way—to people who are actually winning slightly, net, after paying the full handle. They’re that shrewd about something with as much unpredictability as horse racing.
+
+And the one thing that all those winning betters in the whole history of people who’ve beaten the pari-mutuel system have is quite simple. They bet very seldom.
+
+It’s not given to human beings to have such talent that they can just know everything about everything all the time. But it is given to human beings who work hard at it—who look and sift the world for a mispriced be—that they can occasionally find one.
+
+And the wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple.
+
+That is a very simple concept. And to me it’s obviously right—based on experience not only from the pari-mutuel system, but everywhere else.
+
+And yet, in investment management, practically nobody operates that way. We operate that way—I’m talking about Buffett and Munger. And we’re not alone in the world. But a huge majority of people have some other crazy construct in their heads. And instead of waiting for a near cinch and loading up, they apparently ascribe to the theory that if they work a little harder or hire more business school students, they’ll come to know everything about everything all the time.
+
+Silver concludes, “Finding patterns is easy in any kind of data-rich environment; that’s what mediocre gamblers do. The key is in determining whether the patterns represent signal or noise.”
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

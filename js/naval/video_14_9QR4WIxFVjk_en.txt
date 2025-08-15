@@ -1,0 +1,1903 @@
+welcome to the after out podcast
+I'm your host prop Reid and this is a
+series of conversations with thinkers
+founders and scientists take a little
+time and stretch out because these talks
+are unhurried and meant to bring you to
+a top percentile understanding of
+something important
+so whether you're into startups or ideas
+a techie or a live major take your time
+engage your mind and you'll be glad you
+did it especially this week when we'll
+be talking to and of all ravikant
+and this is part two of my conversation
+with navall about existential risks part
+one went up a couple days ago depending
+on where you are in the world it was
+probably time-stamped March 19th
+although in a few places it may be
+time-stamped March 18th either way if
+you haven't heard part one yet you may
+want to give it a listen first it should
+be positioned immediately before this
+episode in your podcast player if it
+isn't you can find it on my website
+which is at after - on Comm or you can
+just listen to this part first with no
+characters or storylines to keep track
+of it's not imperative that you listen
+to the two sections in order one quick
+thing as those of you who have heard
+part one will know the catalyst for this
+conversation was in the fall was a
+four-part article that I wrote which
+medium.com published behind their pay
+wall back in October it's by no means
+necessary that you read that in order to
+enjoy listening to today's conversation
+but if at some point you'd like to you
+should be able to access it via my
+Twitter feed whether you're a paying
+medium subscriber or not specifically
+over the past few days I've tweeted
+links to all four parts of that article
+from my Twitter account which is at Rob
+underscore read re ID and if you click
+on the links in Twitter you should be
+spirited or right past mediums pay well
+indirectly to the writing at least
+that's what I've been told and now
+without further ado part two of my
+conversation with navall Rafa Conte
+[Music]
+at any given time on the planet there's
+a few people and one is too many one is
+too many
+if we gave them a button that would and
+this planet they would press the button
+if there were such a button and one day
+everybody woke up and they had access to
+that button the world would have to be a
+very civilized place yeah you would
+basically have to make everybody really
+happy but that's what we're talking
+about a long enough time scale
+everyone's gonna have that button again
+long enough time scale that's where
+we're headed so going back to the
+physicist for a second one of our
+favorites Enrico Fermi is well known for
+the Fermi paradox and the Fermi paradox
+is well if the universe is so large and
+so old how can we haven't encountered
+any other intelligent life yet and for a
+little while we had this very parochial
+point of view which seemed like an
+offshoot of the hypothesis that the
+earth was the center of the universe
+before Tycho Brahe hey and Johannes
+Kepler disabuse this of that people you
+say this notion well the earth is unique
+the earth is special there's only one
+planet with water and with life but now
+we've found thousands tens of thousands
+of planets as we launch bigger and
+bigger telescopes they are capable of
+bearing life so the universe is littered
+with them and we've only been around as
+a civilization for five seven thousand
+years we've only been around as a
+species for a few hundred thousand years
+we've only been around as life on this
+planet for a few billion years where is
+everybody I actually think the most
+likely plausible explanation is the
+great filter hypothesis and the great
+filter hypothesis is that any
+sufficiently advanced civilization blows
+itself up when people started first
+wrestling with that possibility back
+probably in the 50s when the Drake
+Equation was first created that asked
+how many advanced civilizations might be
+out there they were thinking in terms of
+nuclear danger but today we're seeing
+other technologies that are on the
+intermediate or even near-term horizon
+that could also potentially have an
+annihilating impact yeah before we even
+get to our favorite topics in bio which
+is a square much of the near-term danger
+comes from on the great filter
+hypothesis there's another one that I
+was recently popularized by I believe
+she should apologize if I get his name
+wrong but famous sci-fi author he wrote
+the three-body problem he is a
+hypothesis called a dark forest
+hypothesis where the universe that
+dangerous dark force that we're all
+tiptoeing through and whoever makes a
+noise identifies themselves to the other
+predators in the forest who immediately
+kill it because we all have killing
+power and first strikes are so powerful
+in a technologically advanced society
+that whoever finds it one first
+instead of saying hello they just wipe
+you out just in case yeah it's the exact
+opposite of the prime directive from
+Star Trek the problem with the dark
+forest hypothesis is that any species
+that is capable of destroying another
+species immediately on contact was first
+capable of destroying itself so how did
+it make it through that whole situation
+that great filter and the only solution
+that can come up with is not a great one
+but it's the Borg solution which is you
+all become one thing I don't try to kill
+myself you don't try to kill yourself
+even though individual cells may go
+rogue they don't have the ability to
+shut your whole body down because we've
+decided the unit is one thing and as a
+central intelligence a central command
+he's the presumption that Borg like
+intelligences would and an abundance of
+caution annihilate any species that they
+came across on that one I'm a little
+optimistic because I think to become a
+Borg liked civilization you would have
+to have become pacifist first yeah in
+order to survive that's right even more
+about the collective yeah well you had
+mentioned sin bio to me the powerful
+example is the Human Genome Project
+which is really technically a step
+before synthetic biology it's about
+reading DNA matter rather than altering
+it but there's something there's
+sometimes referred to as the Carlson
+curve which is the curve the traces how
+rapidly the price and performance
+improves in the realm of genomic
+sequencing and synthetic biology in
+general and it makes the Moore's Law
+curve of computing look pokey and so the
+statistic is the human genome project
+ended in 2003 it took 13 years it cost
+about three billion dollars it involved
+thousands of the top scientists
+throughout the world
+and its result was a single haploid
+genome and today substantially more work
+can be achieved for about a thousand
+dollars so one three millionth the cost
+of the human genome project by a lone
+lab tech which might very well be an
+undergrad or even a high school kid
+working with the proper equipment in the
+span of about a day or maybe two days so
+that's the rate of improvement that we
+have and
+contemplating what might become possible
+with synthetic biology particularly
+viewing it through this grim lens that
+we're looking at things through right
+now try to imagine the field of
+synthetic biology today everything that
+it's doing that's amazing with CRISPR
+and with other technologies imagine the
+total output of that field over the
+coming 15 years who knows what it'll be
+but we can imagine it'll be profound and
+then imagine that unit of work that
+which the entire field achieves in 15
+years eventually becoming an easy day's
+work for a lone undergraduate would that
+be a more or less stable world than a
+world of thousands of sovereign nuclear
+powers because if we had gotten as good
+and efficient with nukes after the
+Manhattan Project you would have had
+nuclear weapons in thousands of garages
+and college laboratories by the mid
+1960s right synthetic biology will be
+the first one to deliver world-ending
+capability to individuals it'll come
+before nanotechnology yeah nanotech is
+still way off and other technologies
+that sometimes people cite as
+potentially having very asymmetric
+powers in the future include
+geoengineering there's always a
+possibility for a black swan by
+definition they're unpredictable but
+just the clear current progress rate of
+synthetic bio may have already gotten us
+there you had this horrific example you
+gave about how they modified one of the
+flu viruses yeah and this was in the
+ancient year of 2011 so this is the kind
+of thing that not only could be done but
+has been done it has been done with
+tools that are by today's standards
+relatively primitive so back in 2011
+researchers in Holland and Wisconsin
+we're working with something called h5n1
+flu now h5n1 flu is literally three
+thousand times more lethal than swine
+flu and swine flu is very rightly feared
+but h5n1 kills 60% of the people that it
+infects whereas swine flu kills 0.02
+percent of the people and in fact so
+3,000 times more lethal the one thing we
+can like about h5n1 flu it is not very
+contagious at all so why there's only
+been I believe a few dozen deaths from
+h5 n wide flu in the entire history of
+the world what these researchers did is
+they created a highly contagious version
+of h5n1 and they kept it under lock in
+he and they did it as part of a viral
+ageia 'kz parent these weren't bad guys
+but the journal science writing about
+this experiment and science is one of
+the two most revered publications in the
+world of scientific research the other
+being nature the news arm of the journal
+science wrote this strain could quote
+change world history if it were set free
+by trigging a pandemic of again quote
+quite possibly with many millions of
+deaths and at the same time there was a
+person whose title was the US National
+Science Advisory Board chairman for
+biosecurity his name was Paul Keim he
+said I can't think of another pathogenic
+organism that is as scary is this one
+I don't think anthrax is scary at all
+compared to this and this guy was an
+anthrax expert so that happened back in
+2011
+now there's an optimistic way of viewing
+this which is that this was a very
+carefully sequestered critter it was
+probably deep in some biosafety vault on
+both sides of the Atlantic and there was
+no way it was going to teleport into
+your Caesar salad tomorrow another way
+of looking at it is they created
+basically very tiny data files the whole
+flew genome is about 15,000 letters
+that's very very small and the number of
+modifications that went into this
+particular mod I don't know but my guess
+is they could probably fit on a post-it
+note and anybody who gets their hands on
+that tiny list of changes whether it's
+in 2011 today or thirty years in the
+future
+would have a trivially easy time
+reanimating that particularly contagious
+strain of h5n1 now 2011 was before
+CRISPR was invented CRISPR is an editing
+technology which is radically enabled
+and radically ease the process of
+editing a genome and it is diffused to
+the point where CRISPR is widely
+practiced in high-end high school
+biology labs and I'd say that's a good
+thing I think synthetic biology has an
+enormous amount of promise for humans
+and it should be taught to young folks
+etc but there is this terrible danger
+that as this proliferates there will be
+more and more turbocharged pathogens
+generated what we've basically done is
+with synthetic biology we have taken
+designing and hacking humans from the
+physical domain to the digital domain
+it's a similar problem that people keep
+creating new computer viruses but unlike
+computers when a human crashes it's
+fatal
+there's no reboot and I think it's safe
+to guess that a desktop DNA synthesizer
+from the year 2038 will be capable of
+things that the entire project of
+synthetic biology is incapable of today
+and there's a writer named Richard
+Preston who wrote a book that some
+people probably know called the hot zone
+he's written fiction that's based on
+bioterror and bio error he's written
+science fact that's based on bioterror
+and bio error and the quote of his that
+resonates with me is this the main thing
+that stands between the human species
+and the creation of a super virus is a
+sense of responsibility among the
+individual biologists and the danger is
+that we'll become vulnerable to the
+ethics of ever larger groups of people
+we were vulnerable to the ethics of two
+people in 2011 there were good guys they
+were actually virologist today there's
+probably hundreds of people who enabled
+by CRISPR could do the things that were
+done in 2011 and at some point that's
+going to extend to the world's elite
+life science grad students and at some
+point it's going to extend beyond them
+it seems like this is one of those fears
+that is almost built into the human
+species we all realize that this at some
+level everyone watches zombie movies why
+it's basically warning you what to do
+when the plague comes now when the real
+plague comes unfortunate I don't think
+people will look gray and green and be
+lumbering around slowly they'll be your
+loved ones coughing and feeling sick
+very quickly or if it's an engineered
+virus it could be something that shows
+no symptoms until everybody drops dead
+ten days later so we do have some sense
+of alarm already built into our science
+fiction genres I would argue that
+science fiction and movies actually warn
+people
+Peter Thiel famously critiqued sci-fi
+because he said there's no more
+optimistic sci-fi in the 50s and 60s we
+had all this optimistic sci-fi Star Trek
+was very positive and optimistic but
+nowadays all apocalyptic and negative
+and I think that's because a lot of
+filmmakers rightly recognized that we
+are approaching a singularity but a
+singularity of a different kind where a
+single individual can end everything
+yeah and particularly we start talking
+about synthetic biology I worry more
+about the
+loan nihilist then the organized terror
+groups because with relatively few
+exceptions and really the only exception
+I've been able to identify was called
+Amish in riku they famously attacked the
+Tokyo subway with sarin gas back in the
+90s but generally speaking terror groups
+are discriminate by nature and the kind
+of attack that you would carry out with
+synthetic biology or perhaps with
+nanotechnologies some other things are
+indiscriminate by nature so I do worry
+more about the lone nihilist I'll give
+you our scenario I think it requires a
+lone nihilist I think you can actually
+easily assemble a group of nihilists
+once again you've said pessimistic as
+you are Rob you're being too optimistic
+here so tell me how you assemble my to
+be a pessimist I don't want it I don't
+want to create a world war 3 or the
+reason we're having this conversation is
+I don't think you're a pessimist I
+actually think you're a realist yeah I'm
+a big believer in human freedoms and I'm
+not convinced that we need to like start
+forbidding things quite the opposite as
+well disgust right but I think it's
+quite easy to organize a group to work
+on this there are multiple groups in
+history that have been wiped out that
+have been eradicated genocided and very
+often groups of people have essentially
+all committed mass suicide because they
+knew they were going to die so there's a
+famous one with some Jews who were
+surrounded by the Romans and rather than
+let themselves be enslaved by the Romans
+that killed their own families drew
+straws and then kill themselves when
+India was being invaded by Islam castles
+that were under siege when they were
+falling everybody inside would kill
+themselves now the worst scenario again
+the popular movies and literature's so
+far ahead of us is the dr. Strangelove
+scenario dr. Strangelove the movie came
+out after the nuclear weapons were
+created in World War two and the fear
+was that the US and the Soviet Union had
+created doomsday devices doomsday
+devices basically said don't try and
+kill me because if you kill me this
+automatically goes off and kills
+everybody the problem is that doomsday
+devices will not stop at the nation
+state level
+they'll populate to the group level so
+if you are in a sub group a minority
+that is being eliminated and eradicated
+what you may do is create a doomsday
+device and you say if we get taken out
+everybody gets taken out and this is
+where you can get a group of intelligent
+people together to work on the problem
+that's really have a proliferation of
+multiple doomsday devices using the
+Masada example which is the one from
+Jewish history you
+could hypothetically say well if the
+State of Israel was about to get
+annihilated exactly if they had my
+unveil a doomsday device they might say
+oh by the way we got one of these and
+then it turns out sort of the North
+Koreans and so do the Kurds and so does
+Isis and so on and so forth and so do
+smaller and smaller groups I mean it
+might be the Rohingya in Burma in
+Myanmar who decide to create such a
+thing if you get sufficient group
+loyalty it's very easy to create a
+suicide cult
+even the anti-natal is their extreme
+environmentalists who might go in on
+this because they're like well humans
+are kind of a plague that's infesting
+the earth and let's get rid of humans
+and it goes back to paradise yeah
+and again movies warned about this if
+you remember the 12 monkeys Terry
+Gilliam's famous thriller about a sin
+bioattack
+or a 28 days later the zombie movie and
+one reason why my delusion that it would
+really be nihilistic individuals that we
+needed it could be concerned about was
+soothing to me is because groups are of
+course far more dangerous than
+individuals because they can pull skills
+and they can be in more places than one
+at once they can do it with current or
+close to current technology yeah and
+when I think about the lone nihilist I
+worry about people like the person who
+shot up that theater in Aurora Colorado
+was a Batman premiere the guy who
+famously dressed as a Joker he was an
+elite life sciences PhD student so he
+was in that relatively narrow circle of
+people that we would have to worry about
+because as time passes and a group of
+people grows the odds of somebody from
+that group doing something terrible and
+bizarre and completely off the rails
+goes somewhere from being slim to being
+somewhere like high to being somewhere
+like near certainty okay so we've posed
+this terrible instability that we
+believe to varying degrees lies in the
+intermediate future you're probably more
+pessimistic than I am I believe there
+are things that we can do to preclude
+illusions yeah yeah I have a set of
+potential solutions but it's just not
+the world I want to live in so I've been
+denial in that sense I don't want the
+extreme ones and so here's what I think
+we need to do you talked about dr.
+Strangelove I think that's a very
+powerful example we did survive the Cold
+War and I think part of the reason for
+that was we got very good at telling
+ourselves ghost stories we got very good
+at freaking out in a way that turned out
+to be very very productive that is a
+great point I mean the first thing I
+worried about even doing this podcast is
+should we be sounding an alarm do we
+want to be alarmist and the problem is
+if you stick your head in the sand it's
+not going away as you said this is on
+the Carlson curve the Carlson curve yes
+which is much steeper than Moore's Law
+curve much less not even like AGI where
+it's theoretical it's sort of inevitable
+it comes so at this point you know one
+way out of this is to create such an
+allergic and immune response in every
+human that when they get the idea that
+someone is capable of something like
+this that it just creates an immune
+response for the whole species right
+where essentially every cell in the body
+becomes a white blood cell and that may
+buy us quite a bit of time I have young
+kids I want people to be aware I want
+people to be on their guard for it
+rather than having some horribly
+catastrophic thing that happens is sort
+of a near-miss which wakes us up because
+the crack down in the wake of that could
+be far worse
+we lost 3,000 people on 9/11 and we're
+still paying for it today when in terms
+of her lost freedoms and all these extra
+wars that we ended up fighting better to
+be informed and prepared you just said
+two things that make me think of immune
+systems first of all you had said all of
+us could be white blood cells to
+counteract this kind of attack and I
+really love that analogy because first
+of all obviously none of us would
+survive even a day without our immune
+systems and our immune systems and you
+get trained up when they get exposed to
+new viruses and training the societal
+immune system to start having some
+awareness and some concern about these
+scenarios now is maybe as kin to giving
+a vaccine of some sort yeah it's a very
+interesting problem and immune systems
+have to be trained very very carefully
+and then the other thing is what you
+just said about 9/11
+that's the immune system overreacting if
+you die of a sepsis infection it's
+usually because your immune system
+overreacted to an extent that it started
+causing damage to your organs on a more
+narrow level there's something called a
+cytokine response storm that's something
+that happens sometimes an immunotherapy
+cytokines are things that signal the
+immune system to make more and more
+white blood cells and sometimes you get
+into a situation where there are so many
+of these signals going out to make more
+and more white blood cells that the body
+essentially creates a crippling number
+of white blood cells and then kills
+itself and so
+9:11 example you just cited is an
+extreme case of that like we didn't nip
+the additional infection in the bud and
+then we had this radical sepsis like
+overreaction of spending trillions of
+dollars and killing a lot more than
+three thousand people and the Patriot
+Act what it did to our freedoms which
+are still gone to this day and we just
+live now in a surveillance state which
+is now all forgiven because of 9/11 in
+fact when 9/11 happened that day at work
+I said to one of my co-workers I said oh
+there's gonna be a war over this I
+didn't know who I didn't know where and
+I was wrong they were two in a drone
+strike on a commercial aviation scenario
+you could easily imagine that the
+overreaction that we have afterwards may
+be worse than the actual initial problem
+and so that's why you have to follow
+this very very careful and narrow
+balance between training the immune
+system to recognize a new threat which
+is really all what we're talking about
+today a lone wolf for a small
+organization doing terrible things with
+new technologies but the reason that you
+really have to train that immune system
+is if even a failed attack gets through
+the overreaction could be what really
+really cripples us if you consider the
+worst possible symbiote attack to be
+something that is eradicating of all of
+us right something that could be a
+trivial failure on that scale
+it kills 1% of us could just
+society it's very hard to do these
+counterfactuals for example 9/11 the
+response to that may be an overreaction
+but in a parallel universe that could
+have turned out if we hadn't had that
+reaction then they would have gotten
+their hands on a nuclear weapon it's
+impossible to say so the immune system
+is gonna react the way it's gonna react
+but I agree with you and that training
+it is very important we don't want
+everyone to be Big Brother every
+neighbor spying and everyone and
+constantly surveilling and reporting and
+everyone that's a nightmare scenario but
+at the same time these new categories of
+technologies just enable a new category
+of threats that the immune system has to
+be trained to recognize and then respond
+to so what are the things that we can do
+I like your idea of ghost stories yeah
+for example ex machina if you're more
+that movie brilliant movie brilliant
+movie it's about an hei threat we have
+the zombie movies it's been a while
+since I've seen a good sin biothreat
+movie it has been a while so to just go
+briefly back to the Cold War example
+we did tell herself these terrible ghost
+stories with names like wargames since
+dr. Strangelove and failsafe and on the
+beach and as a result of that everybody
+knew what the worst-case stakes were
+there was a time shortly after World War
+two when both the Soviet Union and the
+u.s. believed that a nuclear war was
+winnable yes exactly and we cured
+ourselves by that by talking about it
+and fearing it and working very very
+hard on contingency planning two
+scenarios like nuclear winters to show
+that even a small number of nuclear
+weapons being detonated in the
+atmosphere could end all life on Earth
+when it comes to plague stuff we've lost
+track like plagues in human history used
+to be far far far worse there was a
+plague in 536 they have now discovered a
+D between a third and a half of the
+people in the Eastern Roman Empire the
+Byzantine Roman Empire were believed to
+have died from plague
+think of 1/2 or 1/3 of all the people
+you know dying of plague Yan what's
+chilling about that is just thinking
+about how less resilient society is
+today I mean if you can imagine some
+kind of a sin by or other attack
+grievously sickening let's say 1% of the
+population
+most cities don't even have 1/5 that
+much hospital bed capacity whereas in
+the Middle Ages people were tough enough
+to shake off the deaths of 5 10 20 30 %
+of their neighbors I don't know what
+happens in an American urban area when
+80% of the people who are stampeding a
+hospital life-threatening situations are
+turned away for lack of beds one analogy
+does world war ii world war ii was
+highly devastating for communities that
+were fairly built up from a
+civilizational perspective not as much
+as we are today and they seemed to
+toughen up when they needed to because
+there is no other option but we are now
+much more densely packed in urban areas
+we have much more complex supply chains
+for even basic necessities like food and
+water and power so if we were out of
+food and water and power for example in
+Manhattan it would be a complete
+disaster much more so that would have
+been in the Manhattan of a hundred years
+ago yeah and it seems like we have these
+single service dependencies for lack of
+a better word today if the power goes
+out completely out that shuts down
+pretty much
+everything the food starts spoiling the
+cops can't communicate with one another
+there's no way to navigate after dark
+all exits from a city are going to be
+blocked
+yeah we've used civilization to put
+humans in more precarious locations and
+they would have been otherwise whether
+it's living on the floodplain or living
+in the desert or living behind bridges
+behind single roads or air delivery
+there's just a lot more humans who could
+be stranded yeah and also I'm thinking
+about what it would be like to be
+invaded in 1939
+I would imagine even in northern Europe
+there were very very large sections of
+cities that were unelect Rauf I'd or at
+least people that were living without
+electricity probably had fairly recent
+memories of being without it people were
+just much closer to living more directly
+off of the earth and more directly by
+their hands and the sweat of their labor
+than we are today
+but biological attack that fell
+radically short of the worst case
+scenario could just be so devastating
+because of the knock-on effect
+well biological attacks create a level
+of fear that it is ongoing that other
+kinds of problems don't so for example
+if there is a earthquake after the
+earthquake has passed everybody comes
+out to help everybody else but if
+there's a plague or a biological attack
+everyone goes into hiding and nobody
+wants to help anybody else because they
+get sick too which brings us to this
+amazing term you came up with when we
+were exchanging emails about my series
+of essays on these topics and later
+tweeted and it resonated with a lot of
+people which was the Ender yeah I
+believe that if you want to get a
+message out you sort of have to brand it
+and you have to put it in terms that
+people can easily synthesize understand
+immediately and transmit like you said
+that the Terminator scenario the Skynet
+scenario for AI everybody knows what
+that is so it's very easy to communicate
+and to me the idea of an individual
+trying to kill everyone on earth this
+person is an ender and I'm riffing a
+little bit off of that book Ender's Game
+it doesn't quite mean the same thing I
+thought it was a brilliant term when you
+came up with that I'd been thinking
+about these topics I won't say non-stop
+but an awful lot for a couple of months
+because I was writing those four long
+essays for medium that wrestled with it
+and I'd sent you the first draft of the
+first one or something like that and we
+started lobbying emails back and forth
+and you came up with this really really
+powerful term because it is so succinct
+it has an echo of something that we're
+familiar with the
+we've just spent most of the last hour
+defining the under and so it is a
+complicated topic that could benefit a
+great deal from traveling with just a
+couple of words and a few syllables
+another analogy I think I've mentioned
+to you before is this phrase the tipping
+point
+it's a powerful phrase probably most
+educated people understand what it means
+and have used it and the fact is that
+term has a birthdate it was coined by
+Malcolm Gladwell in an essay in The New
+Yorker probably 20-something years ago
+and he defined what a tipping point was
+he came up with the term and it's a
+great little essay later titled a book
+after it I'd be surprised if more than
+one percent of the people who
+successfully used that term actually
+read the essay it's a complicated term
+and it conveys a great deal and so I can
+now say hey you know the tipping point
+in this market or in this political
+situation or whatever was came at
+such-and-such a time when such and such
+happened and now all of a sudden
+thousands of words of defining something
+has been collapsed into something very
+concise or sophisticated conversations
+can be held the trouble is does it
+become aspirational like is the term too
+good we don't want it to become
+aspirational it's not something I want
+to see exists and nor doe when I turn in
+some sort of biblical prophecy where
+then people are looking forward to the
+Ender because there's always some
+psychopaths out there who are but I
+think it's important for us to recognize
+that these kinds of people exist
+I wouldn't lionize it it's not a
+positive thing right this is obviously a
+terrible unloved unlovable person to the
+extent that if they succeed obviously no
+one's around to applaud that applaud
+them yes and if they fail they'll be the
+most hated reviled person in history so
+they're not doing themselves or their
+progeny or their friends or family or
+even their ideologies any favors because
+they're forever gonna be associated with
+a horrible thing and let's face it most
+of them are gonna be inept
+it's one more chance to fail so I think
+every time any one of them fails the
+ideal would be to not give them any
+attention but as we've shown through
+terrorism we don't really do that we
+give it a lot of attention but I think
+the way to look upon this character is
+like a Gollum type character from Lord
+of the Rings this pathetic evil bumbling
+inept character that no one should
+aspire to be but at the same time it is
+important to get the message out we need
+terminology and vocabulary to be able to
+communicate we need to be able to
+transmit the information
+to absorb it and to keep an eye out for
+it and if someone says hey I think so
+and so wants to be an Ender that gets
+the point across to how we should
+investigate that person golem is
+actually a really really good example I
+hadn't thought of that one nobody wants
+to be golem when kids go around playing
+The Hobbit yeah I mean a real ender is
+likely to be a golem type character
+someone who is warped and distorted
+unhappy and miserable
+another term might be for the failed
+ender I was thinking last night
+underlings like an underling is somebody
+who tries and fails and most people are
+going to fail spectacularly in this
+objective some combination of credible
+attack by an ender ender ling thank you
+and Allah it combined with the cytokine
+response could it take out a lot of
+humanity and civil society as we know it
+which is why we need to marshal our
+immune system against underlings because
+there's gonna be thousands of them for
+every ender and hopefully there'll be an
+infinite ratio because I think if we
+think hard enough about it and early
+enough about it
+there won't be an ender but people have
+been attempting to kill as many people
+as possible in the act of dying for as
+long as we have records this is gonna be
+a little sappy but my conclusion is that
+you're not gonna be able to stop them
+purely through surveillance or creating
+totalitarian society your Big Brother
+watching because that creates its own
+immune response and you're not gonna be
+able to stop them by stopping technology
+for all the reasons we've already talked
+about so really the only way is to not
+create them in the first place yeah and
+to not create them means that we all
+just need to learn how to make sure
+nobody goes unloved the one point where
+the immune system analogy breaks down a
+little bit here is we're not talking
+about an external threat to the human
+body we're talking about an internal
+threat to the human body so it's more
+like a cancer cell exactly so don't let
+cancer arrive in the first place
+although one of the things that I
+learned at this wedding over the weekend
+is that our immune system actually is
+taking out cancer constant that's true
+it does successfully rally itself and
+it's only when cancer gets out of
+control and figures out a way to foil
+the immune system that it goes away so a
+cancer cell is still something that an
+immune system can rally against and I
+think you've really just hit on the
+first layer if we can talk about it like
+a communication stack the first layer is
+making sure that people don't feel
+unloved and in the first
+that's the first layer the second thing
+is also really inexpensive I'll just
+call it imagination for lack of a better
+term the 9/11 example is a really really
+strong one where we lacked that least
+expensive input of imagination when I
+look at that I can't say that it was a
+lack of foresight because we had
+actually hardened the airports
+throughout the world in reaction to
+terrorism in the 1970s it wasn't a lack
+of resources because the world
+governments have probably literally
+spent trillions of dollars preventing a
+sequel to 9/11 since it happened so we
+can't say we were impoverished for
+resources we can't say it was for a lack
+of brainpower because although Osama bin
+Laden was very charismatic he had a
+great deal of money he had a lot of
+strengths nobody ever thought that he
+was an Einstein level genius so he came
+up with a non ingenious plan and the
+team that he then assigned it to is
+fairly underpowered
+they're not very comfortable navigating
+in this alien society that they find
+themselves in probably not any more than
+I would be trying to navigate my way
+through Saudi Arabia they're fairly
+scrawny lot they're not all that bright
+a lot of the people didn't even realize
+that they were on a suicide mission and
+they pull this thing off so on our side
+we had the resources we had the
+foresight we had the brainpower that we
+never gave anyone the job of supplying
+the imagination we might have I don't
+know populated a conference room with a
+bunch of really smart people from a
+bunch of different cultural backgrounds
+probably over representing parts of the
+world that it had a lot of experience
+with terrorism in 2001 that would have
+been Sri Lanka maybe still Ireland
+certainly the Middle East you know as a
+country of immigrants we get to tap into
+all kinds of perspectives and just said
+hey you guys in this conference room but
+you do 40 hours a week 60 hours a week
+and give you all the pizza and beer that
+you need you just sit down and think
+really hard about the low-tech cheap
+things that relatively underfunded
+understaffed under genius organizations
+like al-qaeda might be able to pull off
+and just use your imagination like okay
+we're dealing with terrorists
+what have they done a lot of well since
+the 80s they've been a lot of suicide
+attacks starting in Lebanon kind of in a
+military situation okay
+two suicide attacks well they hijack a
+lot of planes that's thing number two
+maybe have seven things on the board
+right but you don't have a thousand
+things and then you start thinking well
+what some crazy suicide airplane thing
+have we ever seen such a thing
+and then hopefully somebody would say
+yeah there were 3000 of them in the
+biggest war in American imagination
+world war two you they were called
+kamikazes that doesn't feel like a
+terribly expensive investment just
+having some smart people ID aiding on
+what could be done with the tools that
+we have now and the tools that we have
+five years hence generally governments
+only tend to react to something after
+it's happened they're not proactive and
+they're not known for that private
+industry tends to be better being
+proactive this gatwick drone incident
+does increase the odds that now you will
+have governments thinking about what do
+drones mean for commercial aviation
+I should add as a disclaimer that I am
+an investor in one company sky safe that
+helps with security against drones but
+it's a tiny investment and the reality
+is although I think they're good for
+some things I don't think they can stop
+many of the scenarios that we mentioned
+from happening and there are other great
+drone security companies out there as
+well I think drone shield is another one
+of them I think air aware has some
+software
+yeah and correct me if I'm wrong you
+probably have several hundred small
+investments and various startups yes
+something like that soda
+I'm personally confident that there is
+zero chance that this entire
+conversation has been an ingenious
+manipulation by you to get sky safe
+equity more valuable but you are very
+the case they owed me a lot a lot more
+stock but you are very very good to note
+that it's always good to hoist a flag
+over potential conflicts but back to my
+original point the drone incident and
+gatwick music governments will start
+trying to develop an immune response
+yeah governments might start getting
+ham-fisted and reactive but we can also
+probably count on companies like DJI
+really powerful drone companies to say
+oh my god I don't want to be eradicated
+here I don't to be regulated out of
+existence I'm gonna start an immune
+response as well an interesting example
+might be the film industry there was
+concern that the government was going to
+start regulating so the industry came up
+with its own PG pg-13 rated G etc
+standards I think that the best defense
+particularly we talked about synthetic
+biology Canon should come from the
+industry itself and even from the
+professors and universities that train
+the
+who are going into the industry that
+euphemistic conference room in which
+people are constantly thinking about
+what could be done and what we could do
+now to protect against this that should
+be part of the discipline of synthetic
+biology and if that is to some degree
+formalized in training and it's
+formalized in sort of industry
+associations and maybe something like
+the w3c only force and bio that has
+regular meetings that could be
+potentially our most powerful weapon
+against this something like AI less
+likely much further away but it's scary
+because there's no time to develop an
+immune response it's too late once it
+happened it's instant when it happens
+exactly and even something like a major
+sin bio attack could get to a
+catastrophic level very quickly we
+haven't really seen minor designer sin
+bio attacks yet well I'll actually give
+you the example that kind of proves the
+rule the anthrax attacks in 2001 are
+really seared in my memory because that
+hasn't happened I was in the Senate
+Majority Leader's office Tom Daschle the
+day that a letter arrived at - his
+office with anthrax in it that
+particular letter didn't infect anybody
+but several people were killed and it
+ultimately was traced back to a very
+very senior weapons researcher and
+that's a chilling precedent when you
+think about it we were probably as well
+organized of a military-industrial
+complex as the world has ever seen and
+we even with all of our good intentions
+and open society and strong protection
+measures we couldn't prevent some highly
+weaponized anthrax from getting out of
+one of our bio labs and into the office
+of the Senate Majority Leader we
+couldn't do that so how can we expect an
+entire diffused industry of tens of
+thousands hundreds of thousands to send
+bio experts how can we expect all of
+that diffusion to keep a lid on itself
+it only can happen with a multi-level
+immune response starting with looking
+after people so they don't feel unloved
+secondly by infusing this imagination
+into the industry and also into
+government and elsewhere then next comes
+the training of the immune system which
+is any attack that does happen or was
+attempted to happen we figure out what
+that looked like what we can learn from
+it and we start training pockets of
+people around the world to keep an eye
+out for these things and respond to them
+ideally we could also
+crowdsourcing filtering the air for any
+unknown new pathogens you had George
+Church here a great podcast with him
+where he talked about essentially
+scanners that can figure out what's in
+the room they can map viruses crossing
+the globe in real time and these can be
+privatized almost like buildings can
+install them the new Tesla's have these
+amazing bio defense hepa filters they're
+really yeah there's a bio weapons
+defense mode in the new Tesla where you
+hit a button and the AQI comes down to
+seven even when i'm driving through the
+current smoke Laden bay area why aren't
+those installed in every new house these
+are all short to medium term and I think
+these are all things that we need to do
+but if you're talking about long term
+solutions this is a horrible dystopian
+one I don't want to live in it but
+you're born and there's a chip implanted
+inside of you and it basically monitors
+your mood and the moment you get
+actually suicidal it just turns you off
+talking about the storytellers who've
+prefigured certain things that almost
+sounds like the v-chip of South Park
+times 100 right exactly this would be to
+tell eteri a nightmare but maybe there's
+a more benign version of it where
+instead of surveillance from above its
+sousveillance from below where it's all
+of us keeping tabs on each other now
+unfortunately it's turned into a
+neighborhood watch creepy thing where
+it's like you neighbors are watching you
+but if someone is going suicidal
+especially if their life sciences PhD
+student you don't necessarily treat them
+as someone who should just get help it's
+someone who should actually be watched
+and maybe even put inside an institution
+until they are better I think there's
+the obvious practical stuff of just
+being far more careful and regulated
+about who gets access to these
+facilities these technologies and this
+know-how but even that's only gonna work
+for so long for me I get my relative
+optimism first of all from some of those
+examples from the past like getting
+through their Cold War and there's also
+the positive aspect that we outnumber
+this hypothetical person or group that
+might want to bring the curtains down on
+humanity by a factor of several billion
+to one there's more of us and we're
+thinking about this earlier these people
+who detonate in a rampage murder way
+when they go off they tend to grab the
+implements at hand that's why there's so
+many mass shootings in the United States
+mass
+things in China occasionally the thing
+that's at hand might be the throttle of
+an airplane but this isn't an
+aspirational career true you don't learn
+to fly a plane so you can fly it into
+the ground
+exactly when somebody snaps as they have
+done in thousands of well documented
+cases they tend to grab the implements
+in hand with the training they already
+have now sometimes they might plan and
+scheme for a period of days maybe even
+weeks I don't know maybe even months but
+it's not like you have an adult Stewie
+Griffin you know the evil baby and
+Family Guy that spends decades
+positioning him or herself to annihilate
+the entire world if andreas lubitz the
+Germanwings pilot wasn't a pilot he
+might have gone crazy with a knife
+because he was in Germany he probably
+couldn't get a machine gun at retail
+right
+he wouldn't gone to flight school for
+four years and worked his way into the
+position that he could do his thing so
+the immune system that rises up is gonna
+be inside that environment where that
+person might be empowered so again back
+to sin bio nobody I don't think it's
+gonna become a synthetic biologist so
+that after they get their PhD and do
+their post doc and the professorship and
+they get great access to a lab that will
+have 20 years from now technology
+they'll be able then in the world know
+well we have to worry about somebody in
+that inner sanctum snapping and then
+doing something within a span of
+probably a few days to weeks to months
+that is diabolical and catastrophic and
+that's a much narrower set of things
+that could potentially be done because
+of the inherently narrow time frame
+I mean 99.99 something high percent of
+synthetic biologists sure as hell don't
+want this to happen they will come up
+with and be able to access ideas that
+you and I can't because they're expert
+in their technology in one relatively
+simple thing that's already being done
+is if somebody is requesting a printout
+of a pathogenic sequence of DNA the
+system writ large
+should a refuse to make that pathogen
+and be alert the authorities now in this
+early time that we're living in right
+now there aren't desktop printers that
+are capable of making full-blown viruses
+but when an organization like twist
+bioscience which recently went public
+they work as a Service Bureau and they
+will provide people with sequences and
+when a pathogenic sequence is ordered I
+don't know if one ever has been but my
+understanding is that the protocol is if
+one
+is ever ordered they ain't going to fill
+that order and they're going to help
+people get to the bottom of what's going
+on I think we can rely on the good
+intentions and the imagination of the
+crushing majority of people in any given
+field like synthetic biology to think
+through those catastrophic scenarios
+provided that there is an
+institutionalized desire to use our
+imagination in that manner there's an
+institutionalized desire to think about
+the most twisted things people could do
+with the tools that are coming online
+before somebody else thinks of those
+things and that's why I'm confident that
+if this imagination and it's a painful
+imagining she won't be fun to think
+these things through but if that's part
+of the discipline of sin bio most of the
+really crazy things will probably be
+thought of years in advance and
+countermeasures can be taken that aren't
+that intrusive but are just clever and
+foresighted
+there are a couple of ways I can
+far-fetched that can imagine out even a
+long term one is we just invent some
+brand new technology that is defensive
+in nature we did that recently with
+encryption encryption is much better for
+the defender than the attacker the
+attacker has to brute force and nearly
+infinite number of solutions whereas the
+defender can very easily protect
+themselves on digital encryption that's
+a really good example so that is an
+asymmetry in which the defender is
+asymmetrically empowered against an
+attack exactly so the question is can we
+invent something like that in synthetic
+biology is there an advance to be made
+especially if we had a lot of resources
+and a lot of good people looking at it
+that could aid the defender then let's
+talk about what not to do and I think
+that the top of your list and mine is a
+technology ban well it's impossible the
+problem is if you banned technology then
+a few countries would say well we're
+still gonna keep developing technology
+let's say North Korea and China go for
+it then all your best left yourself
+behind so the only weight of a
+technology ban is basically to start
+World War three yeah and internally
+within your own society it's worth
+noting that illicit drug labs are both
+illegal and ubiquitous this is not
+something like the creation of a nuclear
+bomb which needs to marshal the entire
+resources of a nation-state you could be
+doing amazing synthetic biology in your
+own living room and the neighbors
+wouldn't necessarily notice the other
+reason that I'm personally very much
+pose your technology ban is because I
+look at some of the things that are
+going on right now in synthetic biology
+and I find it to be purely exhilarating
+I believe that synthetic biology is on
+the cusp of curing the organ shortage
+that's going to relieve so much death
+and misery from all quarters of this
+world it's amazing
+I think synthetic biology is gonna make
+clean meat which is going to be an
+ethical triumph for conscious systems in
+general and also for issues like global
+warming Simba is gonna accomplish so
+much and throttling in its crib would be
+a impossible as you just pointed out and
+be a terrible immorality it's not
+something we want to do technology's a
+coin and one side of it is immortality
+and the other side is annihilation
+that's a very good way of putting did
+you just come up with that yeah I like
+that I like that you know I'm a happy
+libertarian but I think this is one of
+those cases where it does make sense for
+the government to pay attention it goes
+back to your original point which is now
+the gains are privatized the losses are
+socialized and you're dealing with very
+catastrophic outcomes humanity is a
+public good the survival of humanity is
+the ultimate public good there are other
+good scenarios if we want a little bit
+of Hope let's it's time for a little
+short supply if you look at how we
+connect with our phones all the time
+we're much more in tune with other
+people and their feelings and where they
+are their lives and so on it's not too
+much of a stretch to imagine that our
+children will actually get cybernetic
+implants which will keep them connected
+to the Internet at all times so once
+your cybernetically implanted and
+connected to the rest of humanity you
+become almost like a cell in a
+multicellular organism that's voluntary
+it's not some involuntary horrible thing
+but now your friends and family and
+loved ones can see your mood and see
+when you're about to detonate for
+example so I think there are support
+systems that we can create through
+technology that will help raise our
+consciousness to a new level in our
+connectedness to a new level I mean at
+some point if somebody tries to end the
+world it'll be because they weren't
+loved enough yeah and that gets to your
+other point of let's not make more of
+these people who get to this horrible
+horrible point easy as it would be to
+have feelings of hatred for Andre's
+Lubitz the pilot for Germanwings
+this was a person who was in horrible
+agony and pain and suffering and did
+something reprehensible we should not
+create people like that if we're at a
+gentler society or social media behaves
+in a more supportive and less tearing
+down way fewer and fewer people are
+going to be pushed in that direction
+before we used to find love and longing
+in our family in our tribe and now we
+live in cities disconnected from our
+ancestors and our immediate family and
+we're looking for ways to connect we're
+looking to create new tribes and new
+families and I think people are using
+all tools their disposal to do that
+Burning Man is kind of this crazy
+festival in the desert where people go
+and connect with 70,000 strangers if
+their family they're radically inclusive
+and a society like that is just gonna
+have a lot fewer people detonating and
+if they do they can be easily
+intercepted and noticed and cared for
+you know generally when someone is
+depressed and they kill themselves
+deeply internally they feel alone and so
+we are headed towards a society of more
+and more connectedness whether it's
+through meditation whether it's through
+spirituality whether it's through
+psychedelics whether it's through
+consciousness festivals whether it's a
+parties whether social media whether
+it's through the internet whether it's
+through cell phones it doesn't matter
+but the more connected we can be as
+humans the better off we are and I think
+there's also less reluctance to use
+certain tools that might be very
+powerful in counteracting these things
+so when we think in terms of these
+thousand people who detonate annually
+even if Society or a government takes
+the most self-centered approach to that
+the inevitable conclusion is that things
+like treatment resistant depression and
+treatment-resistant post-traumatic
+stress are societal dangers they don't
+just present a danger to the person who
+is suffering from PTSD or suffering from
+treatment resistant depression but they
+could present a danger to anybody in the
+movie theater if they go nuts with a
+machine gun or perhaps anybody in the
+world if they go crazy with a DNA
+synthesizer in 30 years and it seems
+that there are some pretty powerful
+tools to fight these things there are
+advanced phase 3 trials in Europe using
+psilocybin for treatment resistant
+depression showing enormous amount of
+promise and I interviewed the people
+behind that experiment in an earlier
+episode of this podcast and
+simultaneously in the United States
+there is a phase 3 trial going on under
+the auspices of the FDA testing the
+potential for MDMA Molly or ecstasy in
+treating treatment-resistant PTSD and we
+got the societal aversion to using these
+chemicals in any kind of a clinical
+setting and in the wake of the 60s
+because of the horror that the
+psychedelic era are imposed on certain
+elements of society it's insane that we
+take any substance that's bioactive when
+you take it in your mouth and it's
+caused a change in your feelings and we
+ban it and the reality is some of these
+make you much better off so if you have
+a chance of detonating I would rather
+the society spirts you off into a
+beautiful farm somewhere to hang out in
+the fields and do all the psilocybin and
+MDMA that you need until you basically
+get through accelerated therapy that's
+worth it MDMA actually dates back to
+World War 1 that's when the molecule was
+first created and psilocybin I think was
+discovered by non indigenous cultures
+around the 50s LSD was first synthesized
+in the 1930s these are very much in
+their zero-point-nine form and then we
+banned any kind of clinical research
+into their potential not only their
+potential but into their modification
+and their enhancement imagine if all the
+muscle and budget and imaginative
+resources that the pharmaceutical
+industry has available to it if they had
+spent 30 or 40 years trying to create
+the 2.0 3.0 4.0 versions of these
+molecules that we stumbled into back
+during World War one given that these
+seem to have tremendous potential
+against PTSD depression and other things
+we would probably have far more
+effective remedies today well it seems
+that kind of development and invention
+and imagination is about to be applied
+to these fields maybe that is something
+that can radically reduce the number of
+people who are inclined to detonate and
+I think related to that meditation is
+making a huge surge I mean the normal
+general and actually the reason I was
+slightly late when you came today it was
+because my meditation was too good so
+good I ignored the time and when it went
+off going and that's not the humble brag
+or anything it's just that I've just
+found that if you can really get into it
+it's so good that
+just brings a sense of peace and joy
+into your life that no one can take from
+you yeah and it's a shame that it's not
+really on offer like let's say in high
+school yeah why not just be part of gym
+class yeah it's exercising your mind but
+we don't teach that skill it doesn't
+cost anything and you don't need
+anything and it's probably better than
+most drugs over a long period of time
+and it's better than most therapies I
+would even argue at least from my
+personal experience so I think these
+kinds of consciousness-raising tactics
+combined with prudence scenario planning
+restricting access on some things that
+individuals should not have access to
+creating a shared vocabulary
+popularizing the concepts so that
+essentially every human has their own
+immune response to this and understands
+it identifying when people are taking
+privatised gains and socializing the
+losses calling that out and saying hey
+there's no amount of skin in the game
+you can have that makes it worthwhile
+because you're putting our skin in the
+game without our permission yeah making
+that like the ultimate crime creating an
+enormous amount of social awareness and
+also social shame apps around
+socializing accost you know I give
+credit to people like Elon Musk for
+starting to speak out on it and he's
+financed the opening I project and
+thinks he's gonna give us the Mars but
+that's not enough he actually should
+even talk louder he does talk I really
+appreciate thank God for that but we
+need 10 more like it more a thousand
+more like a thousand more like him so
+the antibodies that we can muster first
+of all a gentler society that has fewer
+people detonating fewer people killing
+themselves here people being lonely is
+using the tools and allowing the
+pharmaceutical industry to develop the
+tools that are most promising in this
+area what if he rated pharmaceuticals on
+how much they lowered suicide risk yeah
+maybe the fact that a very significant
+external risk is being posed by these
+types of mental states could raise the
+urgency around it I would also vote to
+have a Manhattan Project around the
+kinds of scanners that George church was
+talking about bio scanners exactly I'd
+give very very early warnings we need to
+take it to the next level
+the other thing is some people could
+listen to this talk and say well the
+last thing we want to do is have CRISPR
+education in high schools I actually say
+the first thing we want to do is have
+CRISPR education in high schools I think
+we need to acknowledge that the vast
+majority of people are good guys rather
+than bad guys I mean I've researched it
+pretty carefully I can think of four
+instances in which commercial pilots
+have down their planes intentionally
+everybody on board that's over a span of
+decades there are tens of thousands of
+commercial flights every single day the
+crushing overwhelming majority of
+commercial pilots obviously refrain from
+doing that even though they could the
+crushing majority of synthetic
+biologists would refrain from doing that
+if they could and if part of their
+training was also thinking about what
+one bad seed might possibly do if that
+was part of the discipline of sin bio
+than the more synthetic biologists we
+have the safer we are not the more
+endangered we are right we just need to
+have that imagination slightly paranoid
+imagination yes but that imagination
+those ghost stories there's nightmares
+be part of the training process and
+that's how we create an immune system
+that can prevent this and these will pay
+benefits even if there is not an
+incident like the one we're talking
+about don't you have less colds you'll
+have less Ebola you'll have less of
+every kind of virus and bacteria
+spreading I guess a big question is
+whether people and society writ large
+want to mentally engage with these
+dangers for decades I mean all the time
+we spent envisioning nuclear winter
+might have saved our lives but it wasn't
+exactly fun yeah I think just like
+there's a tendency to not look at the
+screen the horror movie and to not want
+to get bad news and to shoot the
+messenger for bad news you know it's
+built into us as humans and instinct to
+face away from it to deny it
+much as I enjoy hanging out with you I
+think this has been a very fun
+conversation no this is not gonna be a
+viral podcast no pun intended because I
+think people don't want to spread bad
+news or even bad thoughts because people
+think that if I don't think the bad
+thoughts it won't happen but think of it
+sort of like as the Union for Concerned
+Scientists came up after nuclear weapons
+were invented these were people who knew
+them well they knew what they were
+capable of and they did their best to
+get the message out they built the
+Doomsday Clock they worked tirelessly
+against nuclear proliferation they did
+come up with the horror scenarios of
+nuclear winter ending all life on the
+earth and so on and they had to
+popularize that and you know yes there
+were some over reactions they were kids
+doing drills running in the basement and
+haida gonna be three deaths in case of a
+nuclear strike but we needed that to get
+the message of nuclear non-proliferation
+out there very very strongly and I would
+argue that nuclear proliferation is a
+genie that has been kept
+in the bottle to a much greater degree
+than anyone imagined in the 1950s
+against all odds
+I mean what's smart observer in 1946
+would have imagined that 70 plus years
+would go by without a nuclear weapon
+being fired in anger right so it's
+better to have a slow measured train
+immune system response then wait until
+something happens then there's a
+cytokine storm then there's multiple war
+surveillance crackdowns police state
+that's not we want to end up we want to
+be a free and civil society and so that
+means having a measured approach to
+these rather than having a reactive
+approach to these the nuclear example is
+an incredibly powerful one and triples
+my confidence that hopefully getting
+this term and are out there in a way
+that people understand the term and
+spread it and hopefully people not
+shunning this odious grim conversation
+that we've had and spreading it to some
+degree can spread the kind of awareness
+that we need I mean one of the most
+amazing things in geopolitical history
+in my opinion was in 1990-91 after the
+fall of the Soviet Union for newly born
+countries voluntarily denuclearized I
+think it was Ukraine Kazakhstan maybe
+use becca stan and i think one of the
+other post-soviet Republic's had nukes
+on their land and how improbable when
+you think about it for four countries
+that's probably more countries than have
+nuclearized since 1990 I think there's
+really only been three India Pakistan
+and North Korea and the reason that they
+did that
+that's crazy geopolitical move was
+because humanity had spent 45 years
+telling itself ghost stories about what
+could happen and what we wanted to avoid
+and that's an amazing nine miraculous
+thing that did happen because we were
+brave enough to think about it and worry
+about it
+so these disaster modeling exercises
+which are kind of like prophylactic
+nightmares can be very effective and of
+course let's hope this in bio nightmares
+and the AI nightmares we're promoting
+right now will look like totally
+unnecessary exercises fifty years from
+now kind of like the duck-and-cover
+drills that schools used to do during
+the Cold War but we're happy when
+precautions turn out to be unnecessary I
+mean if we fasten the seat belt when we
+start our car
+we're not annoyed if we don't get into
+an accident there's a great Arabic
+aphorism that I love that says trust in
+Allah but tire camel it's good well
+thank you so much for spending so much
+time and having such a crazy
+brainstorming conversation with me
+thanks
+on the one hand I hope we didn't terrify
+people in the other hand I kind of hope
+we did wake them up a little bit yeah
+it's time for us to start thinking about
+this stuff thank you for listening to
+that at times disturbing but I'm
+convinced very significant conversation
+with navall rava khat a full transcript
+of it with certain interesting points
+highlighted can be found at my website
+at after - on.com and you're welcome to
+post it excerpted and generally
+distributed in any way you see fit and
+if the things we said resonated with you
+at all I hope you'll consider joining a
+long slow steady campaign to preclude
+the arrival of an actual ender yes this
+is something we get to do as a society
+if we put our minds to it early enough
+and in a level-headed way but this won't
+be easy
+nor will it just happen on its own at
+least a thousand suicidal mass murderers
+that night every year and technology
+will continue to arm them with ever more
+powerful weapons scholars have referred
+to these folks as the apocalyptic
+residual which might make a pretty cool
+movie title navall and i used the words
+ender and ender Ling's
+but whatever you call them no amount of
+wishful thinking is going to cause them
+to suddenly vanish now some well-meaning
+people discouraged me from having this
+conversation in public less we give
+would-be Enders ideas but I'm afraid
+they already have ideas once they've had
+from time immemorial and they're acting
+on them every year on every continent
+and in every type of society the one
+thing that's changing relentlessly and
+quite structurally is the technology
+that some subset of them can access if
+ever there was a situation in which hope
+is not a strategy this is it so what's a
+more grown-up way to confront this step
+one is simply spreading level-headed
+awareness of the dangers on a very very
+broad level
+there's an infantilizing notion out
+there that only certified experts have a
+right to an opinion or a seat at the
+table when these sorts of risks are
+contemplated navall mentioned this when
+he described certain self-styled AI
+experts who believe that no one outside
+their own narrow clique should have any
+voice in how AI is developed to quote
+Upton Sinclair again the pitfall is it
+is difficult to get a man to understand
+something when his salary depends upon
+his not understanding it antique an
+overly gender specific is that language
+maybe this is an important and powerful
+point we left it to experts with highly
+distorted personal incentives to both
+run and watch over our financial system
+turned out to be a bad idea much more
+recently we decided that only experts at
+places like Facebook could truly
+understand and safeguard our digital
+privacy I think it's reasonable to
+conclude that experts with upside
+shouldn't be handed a monopoly over the
+governance of anything
+and certainly not when billions of lives
+could be on the line now this certainly
+doesn't mean that there's no role for
+experts in conversations like this
+obviously there is an enormous one it
+just isn't a monopoly role for them or
+for anybody so as we face the deviling
+risks that an ancient glitch in human
+nature will pose when it joins forces
+with near future technology what do we
+have on our side
+well first of all we definitely have the
+numbers suicidal mass murderers are a
+minuscule fringe of society literally
+less than one person in a million in any
+given year and they're no more likely
+than anybody else
+to be geniuses so the odds of one of
+them conjuring up a masterfully
+diabolical plan that the rest of us are
+too thick to foresee are basically
+non-existent but our huge numerical
+advantage will mean nothing if we're not
+broadly engaged in this risk and instead
+delegate it to a small conference room
+full of experts with upside in a think
+tank somewhere
+the second thing we've got on our side
+is that the real dangers are at least a
+decade away and maybe quite a bit more
+than that so we have a huge jump on a
+diabolical actor who might strike when
+the time has truly come some of these
+people may not even have been born yet
+but again to use time to our huge
+advantage we have to put our
+imaginations and our analytical
+horsepower to work now and not the day
+after a horrifying near-miss has been
+inflicted on the world because the first
+strike really may not miss so to help
+interdict the dangers here a very simple
+thing you could do is spread the word
+tweet blog or otherwise discuss this
+episode if the arguments resonated with
+you if you're a podcaster yourself and
+would like to literally rebroadcast this
+conversation as one of your own episodes
+please reach out to me on Twitter or
+through my website I'd be delighted to
+accommodate you this is a worthy
+conversation to have with your own
+listeners and borrowing this episode
+could also get you a week off from
+production which I know from personal
+experience can be a godsend and if the
+vol and I just didn't do it for you
+there are plenty of other resources out
+there that you can spread around instead
+countless people are now discussing
+these risks and public forums so join
+the conversation and spread the word in
+whatever manner is most natural to you
+because if these risks are widely
+understood discussed analyzed and
+dreaded as nuclear winter was during the
+Cold War we will have come a long long
+way toward precluding them now for those
+of you who are really ambitious and
+scientifically minded you could take it
+a giant step further and become a
+synthetic biologist or work in some
+other field connected to existential
+dangers as I said during the episode the
+more synthetic biologists we have the
+safer we are because the crushing
+majority of them will be good guys not
+bad guys so consider joining this
+amazing field maybe you'll help deliver
+on some of its extraordinary promise for
+Humanity or become a hero who helps
+build a critical piece of protective
+infrastructure that one day saves
+innumerable lives I'll leave you with
+that thought as well as an encouragement
+to join me again in April when my guests
+will include one of the world's leading
+AI researchers and analysts on AI risk
+Stuart Russell and also in April
+Stanford's Carey nado an immunologist
+with a global reputation who's helping
+to lead the battle to defeat food
+allergies which don't represent an
+existential risk to society but
+certainly do represent such a risk to
+frighteningly large and fast-growing
+population if you're new to the show it
+also urge you to browse its archives at
+after - on.com where you'll find dozens
+of conversations with brilliant thinkers
+founders and scientists working in
+fields like neuroscience synthetic
+biology of course astrophysics
+cryptocurrency quantum computing and
+many others people who are reshaping our
+understanding and our mastery of reality
+on a daily basis this show was 100%
+listener-supported from its inception
+until about three weeks ago and I got my
+first sponsor and while I'm delighted
+with that development it's anyone's
+guess is that when I'll have a second
+sponsor because I have an unusually high
+bar for the types of sponsorship or
+advertising I want to expose you to
+having talked about it in earlier
+episodes I won't go into detail now but
+if you feel like investing in the show's
+longevity and also accessing dozens of
+hours of special material that I make
+available to supporters including two
+very recent interviews with navall
+himself please visit my page at
+patreon.com slash Rob Reed and finally
+the simplest fastest an absolutely
+cost-free way to support this show is to
+rate it or review it in iTunes or in
+Apple's podcasts app or any other
+podcasting app that you happen to use
+this takes just seconds but has a real
+impact on discovery algorithms and
+therefore how many people I reach which
+itself will have a very large bearing on
+the show's staying power that's it for
+now please join me again in April
+[Music]
+[Laughter]
+[Music]

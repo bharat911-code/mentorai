@@ -1,0 +1,134 @@
+It’s one of the most fundamental political questions of our time: What’s driving the growth in government spending? And it has a relatively straightforward answer: first and foremost, spending on health
+                                        care through Medicare and Medicaid, and other major social insurance and entitlement programs.
+
+But I thought it was worth reviewing the evidence in a bit more detail. There are a few surprises along the way, some of which liberal readers might like and others of which will please conservative readers.
+
+The Web siteusgovernmentspending.comhas an abundance of data on federal, state and local spending at different points in time. My focus will be on how government
+                                        has been spending its money in the present and the past, rather than evaluating any future budgets or projections.
+
+I’ll be looking principally at government spending as a share of the overall economy, specifically as compared to the gross domestic product. In the long run, the overall economic health of the country is the
+                                        most important constraint on fiscal policy. A growing economy gives us a lot of good choices: maintaining or expanding government programs, cutting taxes or holding them at a moderate level, reducing or managing
+                                        the national debt. A stagnant economy means that everything gets squeezed.
+
+The first chart, below, documents the growth in federal government spending over the past hundred years as a share of gross domestic product spending is broken down into four major categories:1.Entitlement programs,
+                                        under which I classify government expenditures on health care programs; pensions and retirement programs like Social Security; and welfare or social insurance programs like food stamps and unemployment compensation.2.Military spending3.Interest on the national debt4.Infrastructure and services, under which I include everything else — the pot that is often
+                                        referred to as discretionary spending: education spending; fire services, police and the criminal justice system; spending on physical infrastructure including transportation; spending on science, technology, and
+                                        research and development; and the category called “general government,” which largely refers to the cost of maintaining the political system (like salaries for public officials).
+
+The most striking feature of the chart is the extraordinary amount of military spending during World War II (and to a lesser extent, during World War I). Even after World War II, however, military spending constituted
+                                        the outright majority of federal government spending until 1969.
+
+Military spending makes up closer to 24 percent of federal expenditures today. That’s up from the near-term low from 1998 to 2001, when it made up about 20 percent of federal spending. (One contributor to the
+                                        budget surpluses achieved briefly during the Clinton administration was apeace dividendin the interim between the cold war and the Sept. 11 attacks.)
+                                        And military spending in the United States has generally been rising relative to inflation and remainsvery high relative to most other nations.
+                                        But over the longer term, it has fallen slightly relative to the gross domestic product, and substantially relative to other types of government spending.
+
+Another surprise is how little we are paying in interest on the federal debt, even though the debt is growing larger and larger. Right now, interest payments make up only about 6 percent of the federal budget. In addition,
+                                        they have been decreasing as a share of the gross domestic product: the federal government spent about 1.5 percent of gross domestic product in paying interest on its debt on 2011, down from a peak of 3.3 percent
+                                        in 1991.
+
+How is this possible? The reason is that although the government is borrowing a lot of money, it isdoing so very cheaplybecause
+                                        interest rates are low both over all and on government debt specifically. We’re now spending less than 2 percent of the principal annually to service our debt, down from a peak of close to 7 percent in the
+                                        early 1980s. Borrowing costs aren’t expected to remain this low forever, so this ratio is bound to increase some. Fortunately, much of the debt we have issued has relatively long maturities, meaning that
+                                        we have locked in low rates. (This won’t necessarily apply to future deficit spending: one of the consequences of failing to raise the debt ceiling would be a significant rise in borrowing costs, which would
+                                        compound our debt problems later on.)
+
+The growth in federal spending on physical infrastructure and on services provided directly by the government like policing and education, has been modest. In fact, federal spending on these categories has declined
+                                        somewhat as a share of the gross domestic product over the past 40 years.
+
+It might also be surprising that spending in this category is relatively quite small — federal expenditures in these areas totaled only about 2.5 percent of gross domestic product in 2011 — considering
+                                        that they make up some of the most traditional functions of government (along with defense).
+
+But part of this is because many of these services are financed and provided for by state and local governments, which spend most of their money in these areas.
+
+That means most of the growth in federal government spending relative to inflation — and essentially all the growth as a share of the gross domestic product — has been because of the increased expense
+                                        of entitlement programs.
+
+We’ll return to this theme in a moment, but let’s first consider the role played by state and local governments.
+
+While most discussions of government spending focus on what the federal government spends, state and local governments are a bigger part of the picture than you might think. Their collective spending is now the equivalent
+                                        of about 15 percent of the gross domestic product, not counting money which is granted to them by the federal government for programs administered by states and localities. (By comparison, federal government spending,
+                                        including grants to the states and interest on the national debt, has recently been about 24 percent of the gross domestic product.)
+
+The states also spend their money much differently than the federal government: principally, as I mentioned, on infrastructure and on services like policing and education. States and localities do spend some on entitlement
+                                        programs, and their expenditures in this area have been increasing, but federal expenditures have accounted for most of the growth.
+
+However, states and localities pay for essentially nothing that would be classified as military spending. They also accumulate relatively little debt, so they don’t pay much in the way of interest; many states
+                                        are required by law to balance their budgets, or routinely do so as a matter of custom.
+
+The flip side is that states and localities have very limited ability to engage in stimulative spending during economic downturns. Instead just the opposite is true: recessions reduce their tax base, so they either
+                                        have to increase tax rates or cut services to keep their budgets balanced. The federal government provided various grants to the states in the stimulus package it passed in 2009, offsetting some of the states’
+                                        expenses, but these programs have since largely expired, and many states and municipalities have had to cut their budgets or raise taxes since then. Partly as a result, about 500,000 local and state government jobshave been lost since 2009, even as private-sector employment has (somewhat) recovered.
+
+Although accounting for state and municipal expenditures alongside federal ones increases the share of government expenditures that are spent on infrastructure programs, it does not change our conclusionabout what
+                                        is driving the increase in spending relative to gross domestic product entitlement programs, which account for the vast bulk of it.
+
+The usgovernmentspending.com data classifies three subcategories of entitlement programs. Spending on welfare programs like food stamps and unemployment insurance is the most cyclical – or technically the most
+                                        countercyclical, since much of it kicks in automatically during an economic downturn. Spending on retirement programs, principally Social Security, is the steadiest, but it has been increasing faster than the rate
+                                        of gross domestic product growth and considerably faster than inflation. And health care spending has been increasing at the fastest rate.
+
+Specifically, overall government spending on entitlement programs increased at a 4.8 annual rate in the 40 years between 1972 and 2011, net of inflation. Health care spending increased at 5.7 percent per year (and federal
+                                        government spending on health care increased at a 6.7 percent pace). In contrast, the gross domestic product grew at a rate of 2.7 percent over this period, with tax revenues increasing at about the same rate as
+                                        the G.D.P.
+
+Spending on infrastructure and government services, excluding defense, has kept pace with gross domestic product growth. (Spending on infrastructure and services by the federal government specifically has lagged gross
+                                        domestic product growth somewhat, growing at 1.8 percent per year.) Also, most of the subcategories of infrastructure and services spending that usgovernmentspending.com tracks have decreased slightly as a share
+                                        of the gross domestic product, including spending on transportation, education, science and technology. The major exception is spending on the category they describe as “protection,” reflecting the
+                                        increase in the criminal justice apparatus, which has grown at 4.8 percent per year.
+
+Another way to view these data is to allocate the increase in spending-to-G.D.P. between the different categories of expenditures. Total government spending — including federal, state and local spending
+                                        — rose to about 39 percent of the gross domestic product in 2011 from about 30 percent in 1972. So we have a 9 percent increase to account for, which is equal to about $1.3 trillion per year in current dollars.
+
+Spending on entitlement programs was about $500 billion per year in 1972 in today’s dollars. If it had increased at the same rate as the gross domestic product, it would now be about $1.4 trillion. Instead, it
+                                        is now about $2.9 trillion per year. What this means is that there has been about a $1.5 trillion increase in entitlement spending above and beyond gross domestic product growth. This is actually slightly larger
+                                        than the overall increase in government spending relative to gross domestic product. This results from the fact that spending on the other categories has been essentially flat relative to the gross domestic product
+                                        (infrastructure and services), or constitutes a negligible part of the budget for the time being (interest), or actually decreased relative to gross domestic product over the 40-year period (defense).
+
+To clarify: all of the major categories of government spending have been increasing relative to inflation. But essentially all of the increase in spending relative to economic growth, and the potential tax base, has
+                                        come from entitlement programs, and about half of that has come from health care entitlements specifically.
+
+The growth in health care expenditures, for better or worse, is not just a government problem: private spending on health care is increasing atbroadly the same ratesand is eating up a larger and larger share of economic activity. It’s an immensely complicated problem, but the arithmetic is simple: if we can’t slow the rate of growth in health care expenditures,
+                                        we’ll either have to raise taxes, cut other government spending or continue to run huge deficits. Or we could hope to grow our way out of the problem, but health care expenditures may be impeding private-sector
+                                        growth as well.
+
+And soon, we may cross an important symbolic threshold: when the overall majority of government expenditures are spent on, essentially, insurance programs. (Another way to conceive of the major categories of entitlement
+                                        programs are as health insurance, retirement insurance, unemployment insurance and so forth). Already, this is true of federal government spending (and it has been true since the early-to-mid-1990s). It is very
+                                        close to being true even if one also accounts for state and local spending, and may well become true as soon as this year.
+
+Slowing the growth of entitlement spending will not be easy. Particularly in the case of health care, it has become substantially more expensive for individuals with both public and private insurance to purchase the
+                                        same level of care.
+
+And on a political level, cuts to entitlement programs are liable to be more noticeable to individual voters than cuts to things like infrastructure spending. A 10 percent cut to Social Security or Medicare benefits
+                                        will surely draw the ire of voters. A 10 percent reduction in the amount allocated to bridge repair, or in the amount of government-sponsored energy research, will affect individual citizens less directly (even
+                                        if they are perhaps ultimately more economically damaging: most of the academic literature issupportive of high long-run returnsto infrastructure
+                                        and research and development spending on private-sector productivity and economic growth).
+
+Nevertheless, the declining level of trust in government since the 1970s is a fairly close mirror for the growth in spending on social insurance as a share of the gross domestic product and of overall government expenditures.
+                                        We may have gone from conceiving of government as an entity that builds roads, dams and airports, provides shared services like schooling, policing and national parks, and wages wars, into the world’s largest
+                                        insurance broker.
+
+Most of us don’t much care for our insurance broker.
+
+A version of this article appears in print on 01/17/2013, on pageA16of theNewYorkedition with the
+                                                headline: Health Care Drives Increase in Government Spending.
+
+This is an archive of posts from FiveThirtyEight, a blog founded by Nate Silver in 2008 and devoted to rigorous, data-driven analysis of politics, polling, public affairs, sports, economics, science and culture, from
+                                        August 2010 through July 2013.
+
+
+
+Current FiveThirtyEight content can be found atwww.fivethirtyeight.com.
+
+
+
+This blog contains archived content which is not being updated. Current content can be found at www.fivethirtyeight.com.Read more…
+
+The writer Megan McArdle asserts that Republicans have about a 75 percent chance of winning the White House in 2016, because “voters just get tired after eight years.”Read more…
+
+If you were going to craft a law based strictly on public opinion, abortions would be widely available in the first trimester and substantially restricted afterward.Read more…
+
+Nate Silver of the FiveThirtyEight blog reviewed two children’s books, “The Boy Who Loved Math” and “On a Beam of Light,” in Sunday Book Review.Read more…
+
+A race-by-race analysis of the Senate suggests that Republicans might now be close to even-money to win control of the chamber after next year’s elections.Read more…
+
+Follow

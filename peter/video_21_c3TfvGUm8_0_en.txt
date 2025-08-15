@@ -1,0 +1,276 @@
+We started Founders Fund 2005. So in
+different ways I've been been at this
+and I' done some angel investing before
+that. But I've been been doing this for
+20 plus years. And the area where we've
+probably had the least success from a
+returns basis in software. The two worst
+areas are um are educational software
+related companies and healthcare IT
+companies. and um and pro like education
+we we felt was so hard we we didn't even
+uh we did very little healthcare we
+tried a few more things but um it's and
+and and the the the rough version of
+what's gone wrong in the health care
+sectors we've done so little in
+education I feel I can't even comment on
+it but but healthcare what's what's
+roughly gone wrong is um you have all
+sorts of things that sound like a pretty
+good plan for reforming the system and
+it's It's this one angle on the pricing
+model you need to change. But then there
+are 10 different ways you can do it and
+it's these complicated uh ways you have
+to get the payments to shift from the
+insurance companies or the government or
+uh the hospitals which are very cluji.
+If you can just get consumers or doctors
+to change that might be easier but they
+they typically are not the people who
+pay. And so there sort of are there's
+this you know very cluji messed up
+system. lots of people try try to do it.
+My my sociological model is always that
+I'm I'm deeply skeptical of um of
+investments where a lot of VCs uh would
+go to some silly VC networking event and
+uh want to brag about it. And I I I feel
+there there's a lot of that with the
+healthc care education startups. Um this
+is like the green this like the green
+tech stuff too. It was too popular. The
+green green tech stuff. Yeah. I mean, at
+some point it it loses money and then
+it's not popular anymore. But but while
+it lasts, it's very popular because
+there's there's no fast-term
+accountability in venture capital. You
+know, sometimes you have momentum and
+the valuations go up and that that does
+give you a feel whether things are
+working. But in practice, uh you off,
+you know, it's 5 10 years later you get
+liquidity on on these businesses or even
+longer. it it takes incredibly long and
+so people tend to overindex on these
+sociological factors and what's what's
+popular and that's and so there was
+there was a there's a way that uh the
+healthc care education sectors even
+though they're very broken um people
+have these often too conventional ideas
+on how to fix them and um and so yeah
+it's I know you know another trend where
+I' I've tried investing some over over
+the last decade is you know is is are
+all these marijuana related businesses
+and it's like yeah it's obviously like a
+big trend um but it's it's an obvious
+trend and then it turned out to be
+extremely hard to figure out what what
+to do with yeah I said some of the think
+things that are too popular and too
+obvious it's just you have to have a
+totally different take on it or it's not
+going to work
+uh yeah you like if you have an
+unpopular take on it that that that
+might work so at the time I was we
+working I was working for you were
+working on the hedge fund. You were
+invested in Facebook. You're doing other
+investing and we decided to really go
+all in and spend a lot of time on
+Palunteer. Why why was that the right
+choice then as tech but go more
+specifically like what what what was
+what was your high level around that at
+that time? How were you thinking about
+it? What what gap were we going after?
+It was very broadly uh government then
+it was within that it was defense uh
+more narrowly it was sort of the the um
+intelligence community that sort of adj
+you know defense adjacent uh
+I you know it was it was a couple of
+years after 9/11 we're sort of starting
+it in 2003
+2004 and uh there were all these ways
+that uh I felt that we didn't you know
+that we that we these very low tech and
+very privacy violating solutions for the
+terrorism problem. You know, it was it
+was annoying that you had to take off
+your shoes at every airport, which was
+like just not security, but it was this
+incredibly intrusive security theater.
+And uh and then yeah, the the question
+was could you do something where you'd
+have, you know, way more security with
+way fewer um you know, technology is
+doing more with less. And so the the
+terrorism context was could we have more
+security against terrorists with less
+intrusive um civil liberties violations?
+And then um and then and then there was
+broadly this question, you know, was was
+there some way to to reset all these
+things in the government? And uh it was
+a black box and you know we did not know
+whether places like the CIA and NSA and
+places like that had you know some super
+duper computer working in the background
+that was catching all the terrorists. Um
+we sort of suspected they didn't um and
+um and then it took it took a while to
+figure that out but uh I I think our
+suspicions were probably correct. Yeah,
+we saw them doing a lot of things that
+made us suspect that they actually
+gotten way behind Silicon Valley and
+there were I mean there were details
+that you know it was hard to say you
+know with our I remember our first trip
+to Langley in uh in 2000 2005 we got
+inel to invest and you and I were there
+and I think it took us about a day or
+two to process but you know was at the
+end of the trip it was like do you want
+to come do you want to buy some stuff
+from the CIA gift gift shop and it was
+like you can get a windbreaker and a CIA
+cap coins they were kind of cool I think
+they were half of them were made in
+China which is you know But but um and
+then of course there was probably some
+you know there's some steelman version
+where the the it was just a decoy and
+there was really a lot of stuff going on
+in the background. But uh do you
+remember the doors all had these like
+eye detectors on each of the door that
+you're supposed to scan your eye to get
+in but none of them worked. So there so
+wherever you go around there'd be like
+the eye detector but they were broken.
+they turn them all off which I thought
+was kind of like a kind of a typical I
+don't know you know there were yeah
+there all these all all all these play
+and so in that context you you you'd
+think okay there's there's some very big
+problem that can be can be solved it you
+know in some ways it turned out to be
+more difficult than uh than one would
+have thought uh you know there obviously
+are all these pro all these sectors
+where you have that are very very broken
+where um you know education healthare
+all all these sort of deeply broken
+sectors where the solution
+um you know there's some obvious
+solutions and the fact they have not
+been implemented tells you there's some
+big barriers to they're set up not to
+allow you to break them. This is kind of
+what I think of the palanteer version
+is, you know, there was uh there was
+this uh I forget what the acronym stands
+for. There was this uh software program.
+This was once we moved from intelligence
+community into the broader military
+called DIYs, which was just sort of this
+um in theory was a system we were
+supposed to figure out ways to integrate
+the data across all these uh units in
+the field and headquarters and you know
+integrate what was going on which is
+incredibly important thing to do. In
+practice, uh, it was a sort of a cluji
+consultant billion-dollar boondoggle
+that didn't work. And, uh, and we
+naturally thought we would replace it in
+in 6 months. And it took it took
+something like 10 years. We finally
+replaced it in in 2019. And, you know,
+we had to sue the army, which and, you
+know, we had all our all our consultants
+quit and said, you know, um, this is
+just the most ridiculous thing. You'll
+never get a you can't sue your customer.
+And, um, you definitely can't sue the
+army. And uh not only will you not get
+them as a customer, you will not get
+anybody else in DC. You'll just be black
+ballalled by everybody. And then but
+then you know um and it was under we we
+it was in 2016 that we sued them. was
+under a 1994 law where um you know the
+military was supposed to have an open
+procurement process and then when you uh
+and then what you can do when you sue
+somebody is you you get discovery and
+you discover and you sort of discover
+what's going on in the sausage making
+factory that no one's investigated for
+22 years and there's a lot of stuff and
+there were sort of you know there there
+were internal reports that Palanteer
+worked better which didn't matter
+because obviously nobody can assess the
+software but then more scandalously
+there were um you know there were um
+orders to suppress the reports. There
+were emails that people had to hide the
+findings and there was a cover up and
+this this did did not sound like the
+open procurement process and uh and then
+you know and you you won at the court
+level then you won at the district at
+the DC circuit level and uh you know you
+were forced to they were forced to
+reopen the process and then you know
+after after a decade we we sort of got
+the contract. So yeah, so there was
+something that was doable, but it was it
+was not as straightforward as it as it
+sounded. It feels like there's these and
+SpaceX had to sue as well, of course. It
+feels like there's these parts of our
+society that are set up to just maintain
+their broken nature, and you have to
+just punch really, really, really hard
+through them. And it's very rare people
+do that, you know. Yeah. SpaceX was the
+first successful template to do it. Uh
+and and there's, you know, there's
+obviously something like this.
+you know, the university system seems as
+broken or or more than the military
+procurement process and then especially
+with the, you know, crediting agencies
+and all these things where where they
+where they just uh are designed to to
+prevent newcomers and the it's it's like
+if you actually had a newcomer, they
+would just eat the field. They try to
+crush you. They try to crush you. It
+took us thousands of pages of
+regulation. But I think there was an
+Elon metaphor he told me once and this
+is like I I don't remember when this was
+like maybe 2010 2011 and it was it was
+it was sort of like uh there were there
+were these three or four aerospace
+companies in the US that were like
+really badly managed and badly run and
+it was sort of they were these very fat
+cows on this grassy enclosed field and
+if you ever got in there there was just
+going to be a blood bath. Oh yeah. So,
+it's kind of it's like he's like this
+this this carnivore and there's a big
+fence and you got to climb this really
+big fence. Eventually, you got in there.

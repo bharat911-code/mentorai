@@ -1,0 +1,91 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+The three most fundamental sources of knowledge are physics, math, and human history. They offer us endless learning and mental models. Here’s how mastering the three buckets of knowledge can give you a deeper understanding of the world.
+
+***
+
+When we seek to understand the world, we’re faced with a basic question: Where do I start? Which sources of knowledge are the most useful and the most fundamental?
+
+FS takes its lead here fromCharlie Munger, who argued that the “base” of your intellectual pyramid should be the great ideas from the big academic disciplines:Mental models(For a great book on the subject check outThe Great Mental Modelsseries.)
+
+Similarly, Peter Kaufman’s idea, presented above, is that we can learn the most fundamental knowledge from the three oldest and most invariant forms of knowledge: Physics and math, from which we derive the rules the universe plays by; biology, from which we derive the rules life on Earth plays by; and human history, from which we derive the rules humans have played by.
+
+“Every statistician knows that a large, relevant sample size is their best friend. What are the three largest, most relevant sample sizes for identifying universal principles? Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. Those are the three largest sample sizes we can access and the most relevant.”
+
+With that starting point, we’ve explored a lot of ideas and read a lot of books, looking for connections among the big, broad areas of useful knowledge. Our search led us to a wonderful book calledThe Lessons of History, which we’vepreviously discussed.
+
+The book is a hundred-page distillation of the lessons learned in 50 years of work by two brilliant historians, Will and Ariel Durant. The Durants’ spent those years writing a sweeping 11-book, 10,000-page synthesis of the major figures and periods in human history, with an admitted focus on Western civilization.(Although they admirably tackle Eastern civilization up to 1930 or so in the epicOur Oriental Heritage.) WithThe Lessons of History,the pair sought to derive a few major lessons learned from the long pull.
+
+Let’s explore a few ways in which the Durants’ work connects with the three buckets of human knowledge that help us understand the world at a deep level.
+
+Durant has a classic introduction for this kind of “big synthesis” historical work:
+
+Since man is a moment in astronomic time, a transient guest of the earth, a spore of his species, a scion of his race, a composite of body, character, and mind, a member of a family and a community, a believer or doubter of a faith, a unit in an economy, perhaps a citizen in a state or a soldier in an army, we may ask under the corresponding heads—astronomy, geology, geography, biology, ethnology, psychology, morality, religion, economics, politics, and war—what history has to say about the nature, conduct, and prospects of man. It is a precarious enterprise, and only a fool would try to compress a hundred centuries into a hundred pages of hazardous conclusions. We proceed.
+
+The first topic Durant approaches is our relationship to the physical Earth, a group of knowledge we can place in the second bucket, in Kaufman’s terms. We must recognize that the varieties of geology and physical climate we live in have to a large extent determined the course of human history. (Jared Diamondwould agree, that being a major component of his theory of human history.)
+
+History is subject to geology. Every day the sea encroaches somewhere upon the land, or the land upon the sea; cities disappear under the water, and sunken cathedrals ring their melancholy bells. Mountains rise and fall in the rhythm of emergence and erosion; rivers swell and flood, or dry up, or change their course; valleys become deserts, and isthmuses become straits. To the geologic eye all the surface of the earth is a fluid form, and man moves upon it as insecurely as Peter walking on the waves to Christ.
+
+There are some big, useful lessons we can draw from studying geologic time. The most obvious might be the concept ofgradualism, or slow incremental change over time. This was most well-understood by Darwin, whoapplied that form of reasoningto understand the evolution of species. His hero was Charles Lyell, whosePrinciples of Geologycreated our understanding of a slow, move-ahead process on the long scale of geology.
+
+And of course, that model is quite practically useful to us today — it is through slow, incremental, grinding change, punctuated at times by large-scale change when necessary and appropriate, that things move ahead most reliably. We might be reminded in the modern corporate world of General Electric, which ground ahead from an electric lamp company to an industrial giant, step-by-step over a long period which destroyed many thousands of lesser companies with less adaptive cultures.
+
+We can also use this model to derive the idea of human nature as nearly fixed; it changes in geologic time, not human time. This explains why the fundamental problems of history tend to recur. We’re basically the same as we’ve always been:
+
+History repeats itself in the large because human nature changes with geological leisureliness, and man is equipped to respond in stereotyped ways to frequently occurring situations and stimuli like hunger, danger, and sex. But in a developed and complex civilization individuals are more differentiated and unique than in a primitive society, and many situations contain novel circumstances requiring modifications of instinctive response; custom recedes, reasoning spreads; the results are less predictable. There is no certainty that the future will repeat the past. Every year is an adventure.
+
+Lastly, Mother Nature’s long history also teaches us something of resilience, which is connected to the idea of grind-ahead change. Studying evolution helps us understand that what is fragile willeventually breakunder the stresses of competition: Most importantly, fragile relationships break, butstrong win-win relationshipshave super glue that keeps parties together. We also learn that weak competitive positions are eventually rooted out due to competition and new environments, and that a lack of adaptiveness to changing reality is a losing strategy when the surrounding environment shifts enough. These and others are fundamental knowledge and work the same in human organizations as in Nature.
+
+Durant moves from geology into the realm of human biology: Our nature determines the “arena” in which the human condition can play out. Human biology gives us the rules of the chessboard, and the Earth and its inhabitants provide the environment in which we play the game. The variety of outcomes approaches infinity from this starting point. That’s why this “bucket” of human knowledge is such a crucial one to study. We need to know the rules.
+
+Thinking with the first “bucket” of knowledge — the mathematics and physics that drive all things in the universe — it’s easy to derive that compounding multiplication can take a small population and make it a very large one over a comparatively short time. 2 becomes 4 becomes 8 becomes 16, and so on. But because we also know that the spoils of the physical world are finite, the “Big Model” ofDarwinian natural selectionflows naturally from the compounding math: As populations grow but their surroundings offer limitations, there must be a way to derive who gets the spoils.
+
+Not only does this provide the basis for biological competition over resources, a major lesson in the second bucket, it also provides the basis for the political and economic systems in bucket three of human history: Our various systems of political and economic organization are fundamentally driven by decisions on how to give order and fairness to the brutal reality created by human competition.
+
+In this vein, we have previously discussed Durant’sthree lessons of biological history: Life is Competition. Life is Selection. Life must Replicate. These simple precepts lead to the interesting results in biology, and most relevant to us, to similar interesting results in human culture itself:
+
+Like other departments of biology, history remains at bottom a natural selection of the fittest individuals and groups in a struggle wherein goodness receives no favors, misfortunes abound, and the final test is the ability to survive.
+
+***
+
+We do, however, need to be careful to think with the right “bucket” at the right time. Durant offers us a cautionary tale here: The example of the growth and decay of societies shows an area where the third bucket, human culture, offers a different reality than what a simple analogy from physics or biology might show. Cultural decay is not inevitable, as it might be with an element or a physical organism:
+
+If these are the sources of growth, what are the causes of decay? Shall we suppose, with Spengler and many others, that each civilization is an organism, naturally and yet mysteriously endowed with the power of development and the fatality of death? It is tempting to explain the behavior of groups through analogy with physiology or physics, and to ascribe the deterioration of a society to some inherent limit in its loan and tenure of life, or some irreparable running down of internal force. Such analogies may offer provisional illumination, as when we compare the association of individuals with an aggregation of cells, or the circulation of money from banker back to banker with the systole and diastole of the heart.
+
+But a group is no organism physically added to its constituent individuals; it has no brain or stomach of its own; it must think or feel with the brains or nerves of its members.When the group or a civilization declines, it is through no mystic limitation of a corporate life, but through the failure of its political or intellectual leaders to meet the challenges of change.
+
+[…]
+
+But do civilizations die? Again, not quite. Greek civilization is not really dead; only its frame is gone and its habitat has changed and spread; it survives in the memory of the race, and in such abundance that no one life, however full and long, could absorb it all. Homer has more readers now than in his own day and land. The Greek poets and philosophers are in every library and college; at this moment Plato is being studied by a hundred thousand discoverers of the “dear delight” of philosophy overspreading life with understanding thought. This selective survival of creative minds is the most real and beneficent of immortalities.
+
+In this sense, the ideas that thrive in human history are not bound by the precepts of physics. Knowledge — the kind which can be passed from generation to generation in an accumulative way — is a unique outcome in the human culture bucket. Other biological creatures only pass down DNA, not accumulated learning. (Yuval Harari similarlydeclared that“The Cognitive Revolution is accordingly the point when history declared its independence from biology.”)
+
+***
+
+With that caveat in mind, the concept of passed-down ideasdoeshave some predictable overlap with major mental models of the first two buckets of physics/math and biology.
+
+The first is compounding:Ideas and knowledge compoundin the same mathematical way that money or population does. If I have an idea and tell my idea to you, we both have the idea. If we each take that idea and recombine it with another idea we already had, we now have three ideas from a starting point of only one. If we can each connect that one idea totwoideas we had, we now havefiveideas between us. And so on — you can see how compounding would take place as we told our friends about the five ideas and they told theirs. So the Big Model of compound interest works on ideas too.
+
+The second interplay is to see that humanideasgo through natural selectionin the same way biological life does.
+
+Intellect is therefore a vital force in history, but it can also be a dissolvent and destructive power. Out of every hundred new ideas ninety-nine or more will probably be inferior to the traditional responses which they propose to replace. No one man, however brilliant or well-informed, can come in one lifetime to such fullness of understanding as to safely judge and dismiss the customs or institutions of his society, forthese are the wisdom of generations after centuries of experiment in the laboratory of history.
+
+This doesn’t tell us that thebestideas survive any more than natural selection tells us that the bestcreaturessurvive. It just means, at the risk of being circular, that the ideasmost fit for propagationare the ones that survive for a long time. Most truly bad ideas tend to get tossed out in the vicissitudes of time either through the early death of their proponents or basic social pressure. But any idea that strikes a fundamental chord in humanity can last a very long time, even if it’s wrong or harmful. It simply has to be memorable and have at least a kernel of intuitive truth.
+
+For more, start thinking about thethree buckets of knowledge, readDurant, and start getting to work on synthesizing as much as possible.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

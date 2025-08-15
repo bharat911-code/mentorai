@@ -1,0 +1,2108 @@
+welcome to the after out podcast
+I'm your host prop Reid and this is a
+series of conversations with thinkers
+founders and scientists take a little
+time and stretch out because these talks
+are unhurried and meant to bring you to
+a top percentile understanding of
+something important
+so whether you're into startups or ideas
+a techie or a lyft major to take your
+time
+engage your mind and you'll be glad you
+did it especially this week when we'll
+be talking to navall Robert Conte
+a serial entrepreneur and one of Silicon
+Valley's most prolific and influential
+angel investors navall is also a
+profoundly original thinker on many
+topics including the one we're
+discussing today which is existential
+risk to repeat my awful joke from last
+time existential risk is not the danger
+of sitting next to a nietzsche spouting
+chatterbox on a cross-country flight
+awful as that would be it rather
+concerns a set of dangers which might in
+the worst case scenario in peril the
+existence of human civilization many of
+these dangers could be enabled by
+near-term scientific and technological
+developments and of all and I will
+particularly focus on risks connected to
+synthetic biology which is ironic
+because as regular listeners know I
+generally think of symbiote as being a
+profoundly exciting and promising field
+but things could go really wrong here
+nevah land I will also touch more
+briefly on some of the dangers that
+could be posed by super intelligence
+research but before we get into all that
+I'd like to welcome those of you who are
+new to listening to this show each
+episode features an in-depth
+conversation with a world-class thinker
+founder and/or scientist about their
+domains of knowledge with these
+conversations I try to bring you and
+myself a serious grounding and something
+complex and important that we should all
+probably understand a bit better and if
+you enjoy this episode please do browse
+the show's archives that after - on.com
+or in your favorite podcasting app
+you'll find an archive of intriguing
+conversations with some of the top
+people in robotics neuroscience
+cryptocurrency drones augmented reality
+synthetic biology
+and many other fields as for today's
+conversation it's gonna be unusual on
+two levels for one thing it is my first
+double episode so today you'll be
+hearing part one of it and each chunk is
+a bit over an hour I'm doing this
+because the vol and I had an especially
+long and interesting conversation there
+was very little fat to trim from it in
+editing and I wanted to present it all
+to you in relatively digestible segments
+the other unusual thing about this
+episode is it's much more of a
+conversation than an interview the back
+story is I wrote a series of four essays
+about existential risk for medium.com
+in the fall novel and I swaps an email
+about the essays and family viewed a lot
+of dangers through a remarkably similar
+lens
+we decided to discuss all this on the
+podcast and because I developed a fairly
+detailed set of arguments in my assays
+and if all suggested the episodes might
+be a bit more like him interviewing me
+so whereas I usually do maybe 10 to 15%
+of the talking in one of my interviews
+maybe the ratio would invert in this
+case but as we started recording it
+immediately became clear that navall had
+a huge trove of his own original
+thoughts connected to existential risks
+so the result is a very balanced
+conversation although I probably do talk
+a little bit more than of all in part to
+incidentally if you're interested in
+reading those four essays on medium they
+are behind the site's paywall and will
+be at least until November but there are
+a couple ways you can access them which
+I'll go through at the end of today's
+episode before navall and i get started
+i'm going to share two minutes of a
+conversation about a new approach to
+nanomanufacturing
+with venture capitalists james joaquin
+James's firm obvious ventures is this
+podcasts first sponsor and rather than
+traditional advertisements the
+sponsorship is taking the form of
+concise interviews with smart people
+about intriguing emerging technologies
+over the next few months I'll be talking
+to investors from the firm like James
+then to some of the founders they've
+invested in then finally in June the
+investors will be back to tell you about
+some emerging fields in which they hope
+perhaps some of you will launch
+compelling startups that they themselves
+can invest in so here's a quick couple
+minutes with me and James and then
+navall rava can't
+James last episode we discussed the tech
+sector you call modern materials which
+are basically industrial ingredients
+made with cutting-edge processes why
+does this area interest you I love to
+quote josh hoffman the CEO of zymogen he
+says that materials haven't changed in a
+hundred years material innovation has
+stalled from a lack of new molecular
+ingredients and Josh's company zymogen
+represents one of two distinct
+approaches you see the modern materials
+what are they so in one end of the
+spectrum we think about biological
+manufacturing these single-celled
+organisms are like little micro
+factories on the other end of the
+spectrum we go deep into the laws of
+physics can we actually manipulate and
+assemble valuable materials atom by atom
+what would be an example of this what if
+you could line up atoms in such a way
+that they perfectly form and grow pure
+diamond growing a diamond is just
+fundamentally better than mining a
+diamond diamond mining has a lot of
+well-documented negative externalities
+there's a lot of greenhouse gases and
+energy that go into it there's also in
+some markets child slavery murder a
+bunch of horrible things that come from
+digging these football-field-sized holes
+in the earth we back to start up called
+diamond foundry that's growing diamonds
+in plasma reactors and when they do that
+it uses 20000 times less energy than a
+mined diamond so what's the new
+technology that's enabling this a very
+special plasma reactor that heats up a
+plasma ball actually hotter than the Sun
+and inside that reactor is a diamond
+seed a 1 micron thick slice and with the
+right plasma reactor the right
+environment the right gases the right
+vacuum carbon atoms are freed up from
+those gases and they naturally attract
+to that seed and if you can precisely
+move that plasma ball you can grow pure
+diamond in very very large sizes
+navall thank you first of all for making
+time what we're both here in San
+Francisco to sit down and talk about
+this interesting subject and how busy
+you are and before we dive in I'd love
+to familiarize our listeners a little
+bit with your background starting near
+the beginning how old were you when you
+moved to the US I was nine years old
+when my mother and my brother and I came
+to the US and where did you come from
+New Delhi India and classic American
+dream sort of story and when you got
+here I've know you've told me some
+stories in the past you didn't exactly
+come into the top 1% lifestyle upon
+arrival in the u.s. I don't know if
+we're a bottom 1% but we were probably
+close to that sort of on the opposite
+end of the spectrum so a long way to
+come and just to go through the
+fast-forward cliff notes of how you came
+from those circumstances to joining the
+elite ranks of Silicon Valley
+entrepreneurs I've always been a lover
+and student of science and admire of
+scientists to me growing up scientists
+were the great heroes of my life and I
+wanted to be a scientist specifically
+astrophysics which I think is common
+thing for kids of a certain age
+especially boys and back when I was
+growing up you know you got a telescope
+those kinds of things but I eventually
+ended up more in technology and wanted
+to make money it's the intersection of
+business money and science and I was
+lucky enough early on to discover
+computers so I fell in love with
+originally my Commodore 64 and then the
+Macintoshes I went to Stuyvesant which
+was a magnet math and science school
+which also helped in that regard and
+then by the time I got to college it was
+computer science for me so you were a
+comp sci major comm signed economics
+where'd you go undergrad Dartmouth and
+then after coming out of Dartmouth with
+those skills did you come more or less
+directly to Silicon Valley I did come
+directly to Silicon Valley almost
+directly I bounced through Boston
+briefly the Boston Consulting Group but
+I wanted to be in Silicon Valley and be
+in tech and when I got here started
+working for a little ISP called at home
+Network doing cable modem stuff back in
+the first comm bubble and from there I
+helped start a company that made
+linearize optical amplifiers I made out
+with some scientists coming out of
+Lawrence Livermore and I was the guy was
+translating their science into a
+business plan and then I helped do the
+same thing with the 3d graphics team
+that eventually ended up treating with
+us today Google Earth and it's a group
+that runs Google Maps and then I did my
+own comm which was opinions which went
+public as part of shopping comm yeah
+that's when I first met you was in the
+opinions days your four co-founders is
+that right five five co-founders yeah
+it's pretty crowded betrayed it was
+crowded but you guys did become part of
+a company that went public during the
+halcyon days of 2000 or thereabouts fast
+forwarding significantly I think you're
+probably best known for angellist
+currently it's a Curley best known for
+AngelList could you give us a quick
+fast-forward overview of what angellist
+is and what it is doing to change and
+disrupt the process of financing
+early-stage tech companies yeah in 2007
+I started a blog with my co-author by
+Buckner V which was called venture hacks
+and it was laying bare the game theory
+of venture capital to entrepreneurs were
+raising money and we wrote a whole bunch
+of blog posts and how you negotiate what
+term sheets look like and so on and the
+biggest question we used to get was
+don't tell me how to negotiate a term
+sheet tell me how to get a term sheet
+and so I'd also raise a small venture
+fund and I was investing in a whole
+bunch of early-stage companies and I was
+an early investor in Twitter and uber
+and wish and post mates a bunch of
+others I basically took the list of
+investors that I used to work with and
+rather than trying to treat deal flow or
+company financings as it's a proprietary
+resource I just opened it up and I said
+I'm gonna share all my deal flow with
+you people and feel free to share back
+and that's how Angeles was born and it
+started as a network for entrepreneurs
+to meet with VCS but eventually we grew
+into a platform where today you can do
+financings completely online through
+this product that we have called
+syndicates and through angel funds that
+are accessible to any accredited
+investor angellist at this point has
+funded literally thousands of companies
+hundreds of millions of dollars of
+capital deployed and is a largest driver
+of capital into the seed stage financing
+marketplace we also run the largest
+recruiting site for startups at Angeles
+Talent where we literally have tens of
+thousands of companies and over a
+million candidates and we're putting
+hundreds of people into jobs every week
+into startups it's mostly a free service
+and we also acquired producthunt
+which is the place where companies go to
+launch their products online so it's
+sort of a ecosystem for startups to
+raise money to find talent to lock their
+products online
+and then last year we spun out a
+business called coin list which is a
+place where you go to have your legal
+regulated high-quality icos and crypto
+and I got involved a lot in crypto
+currencies a couple of years ago I loved
+the intersection of decentralization the
+politics of it the economics of it the
+idea that we can have an internet in the
+future where we don't just have a few
+gatekeepers who run everything so I've
+been fascinated with crypto I'm an
+amateur student of science read a lot of
+physics at night and hang out with
+physicists whenever they'll tolerate me
+in their presence now when did you start
+getting interested in the topic of
+existential risk or potential
+catastrophic risks that humanity might
+face in the near to intermediate future
+to me it's just kind of an inevitable
+observation when I was young I played a
+lot of war games and I was a avid
+student of military history which is
+kind of where I learned my game theory
+so I'm very familiar with not just
+weapon systems but how governments and
+nation-states and how individual actors
+behave the trend line of weapons systems
+is very obvious it's been getting easier
+and easier to destroy something thanks
+to technology it's getting harder and
+harder to defend and the arc of history
+is giving more and more power to the
+individual which is great for individual
+liberties and freedom but not so good
+when it comes to blowing things up so it
+became very clear to me probably about a
+decade ago that we're just on a trend
+line were on a long enough time scale I
+can 3d print a nuclear weapon in my
+house on a long enough time scale I can
+take a synthetic biology lab in my room
+and I can create a weaponized virus that
+combines the most virulent features of
+smallpox and the longevity of AIDS and
+spreads like the flu the technology will
+absolutely enable that I can even
+customize it to your genetic code if I
+wanted to on a long enough time scale I
+think a commercial air travel will come
+to an end because weaponized drones will
+be too prevalent I think on a long
+enough time scale even if nobody has any
+malicious intent little Johnny
+create a singularity as part of his high
+school physics experiment by accident
+yeah so it's just the nature of the
+Faustian bargain with technology that we
+get so much more power over a natural
+environment and that power includes the
+ability to destroy things
+and the destructive power arrives long
+before the protective power - and the
+protection never quite adds up right
+look we're we're in nuclear it's much
+easier to destroy something with a
+nuclear weapon than it is to build a
+nuclear power plant so I just resigned
+myself - it's slightly fatalistically
+but I assume that all of society is
+already aware of this and as aware of it
+as scale culturally science fiction's
+done a good job of making us aware of it
+but what's different now is that we're
+actually in range you can actually see
+the time lines converging I know you've
+looked at that yeah I don't know how
+much of a conventional wisdom it really
+is I think amongst people like you and I
+who have spent a certain amount of time
+digging into this and thinking about
+this stuff everything you just said is
+non-controversial but a lot of people
+who are further from the issues might
+find it very controversial and the thing
+that would probably contextualize it for
+them better than anything else is that
+phrase you just used repeatedly over a
+long enough time scale that's really
+critical because none of this stuff is
+necessarily going to happen tomorrow and
+the unlikelihood or not impossibility of
+it happening tomorrow can train people
+to presume that it's never going to
+happen because the present can feel very
+yawning and very eternal when we're
+inhabited at are you familiar with
+something called Amaro's law yeah it's
+that we tend to overestimate technology
+in the short run an underestimate in the
+long run but that's partially why
+bubbles happen the crypto bubble the
+dot-com bubble we think it's all going
+to get deployed and rolled out tomorrow
+we overestimate it then it doesn't then
+we're disappointed but then a decade or
+two decades later it really does change
+the world and it sometimes changes the
+world in a much grander way than we ever
+imagined possible even during the
+initial height right because initially
+we're just extrapolating out against
+known use cases but we can't yet imagine
+things like when the first calm came
+along we can't imagine ooh BRR we can't
+imagine cryptocurrencies coming out of
+the internet etc etc I was thinking
+about it last night and I realized a
+really fun example could be the history
+of aviation the first manned balloon
+flight happened in 1783 and already two
+years later in 1785 you had the first
+person going across the English Channel
+and I'd imagine sitting there looking at
+this in 1790
+or in 1785 you would think that you know
+within a couple decades we'll probably
+have commercial service between Paris
+and London and within a human lifetime
+maybe transatlantic and none of that
+ever happened right but they had lots of
+drawings of Victorian or Edwardian
+Zeppelin's with lots of crew and and
+passengers on board crossing all across
+the world well that's the kind of
+optimism that you would have had I mean
+thousands of years of attempts at flight
+with no success and then Wow we have
+somebody in a balloon and two years
+later they're crossing the English
+Channel with that history and the
+inevitable disappointment it must have
+had I'd imagined hundred and twenty
+years later if somebody said you know
+what in a few decades we're gonna be
+walking on the moon you would have
+thought they were insane but 120 years
+later is when Kitty Hawk finally
+happened it's after all that
+disappointment all of a sudden things
+really really do take off and another
+thing here is that creating destructive
+power single actor destructive powers
+actually a lot easier from the moment we
+first split the atom to the first
+nuclear bomb was a much shorter trip
+than to the first nuclear power plant it
+always takes longer to create the end us
+to destroy because creativity it has to
+be scalable it has lots of moving parts
+it has to be safe it has to be rolled
+out where's just blowing things up is
+easy so we figured out combustion and
+from there to cannon ball and gunpowder
+was much faster than to the internal
+combustion engine and that makes it all
+the more powerful
+for anybody who's skeptical when you and
+I start talking about some of these
+sci-fi and probabilities of worst-case
+scenarios just think about these
+examples of us going from very
+disappointing initial progress to this
+explosive progress and one thing I'd
+like to circle back on that you just
+mentioned briefly was the prediction
+about drones and commercial aviation
+because by rather cool coincidence you
+first said something to me about that
+subject right before the Gatwick Airport
+incident that happened back in December
+and for those who weren't aware of it
+some mysterious drone activity stranded
+over a hundred thousand passengers and
+disrupted over a thousand flights over a
+span of a couple of days you had said
+this this audacious thing about
+commercial aviation and drones I think
+just a few weeks before that to me so
+I'd love to drill down a little bit more
+what Amara's law might have to say about
+drones and commercial aviation
+yeah I've been tweeting about drones
+since 2013 and these are among my least
+popular tweets little apocalyptic least
+popular and the people tweet back I'm
+really pissed off about or they just
+don't get liked very you don't get like
+that like tweeted people just don't want
+to deal with it but this is 2013 I've
+had this thought that if you're a Bond
+villain trying to take over the world
+the three technologies that you would
+look at our synthetic biology of course
+hidden nuclear weapons doomsday device
+style like a dr. Strangelove type of
+scenario and hunter-killer suicide
+drones that are miniaturized nano drones
+and use pheromone tracking essentially
+to find their targets pheromone tracking
+so talk a little bit more about that
+essentially just through your DNA
+signature expressed through your breath
+your breathing your face recognition
+it's not that far-fetched to see where
+the technology arrives that you can have
+drones that track down heads of state
+and are constantly monitoring them and
+using that as an intimidation vector and
+in fact that's what we do in the Middle
+East all day long American drones are
+always on the lookout for al-qaeda or
+Isis heads the moment they stick their
+head out of the hole we blow them well
+and that technologies is gonna get
+better and better and smaller and
+smaller and drones are essentially just
+guided bullets that's all they are it's
+a bullet with a tracking system so they
+will obsolete all other weapons systems
+airplanes ships everything but getting
+back to your original point I think that
+they easily end commercial aviation as
+we know it and tell me how and but by
+the way how many tries are you thinking
+about how small of a drone and how big
+of a swarm well you could go watch the
+drone racing videos that are online
+where people erase tiny drones at very
+high speeds with incredible
+maneuverability like the size of a
+quarter small or a little bit maybe a
+little bit bigger maybe it's the size of
+your fist right now but they'll shrink
+so shrinking and shrinking so quickly
+yeah and their maneuverability is
+tremendous let that airplane that went
+down over the Hudson a while back that
+was piloted safely to the bottom the one
+that landed and everybody survived it
+was sort of miraculous that hit a flock
+of geese right so you just need a couple
+of geese and they took out both engines
+so if you have a couple of geese or
+smaller size drones that are relatively
+fast and they're just hanging out near
+an airport the drones don't have to
+launch until the airplane takes off from
+the runway at that point they can just
+take it down so it's a terrorist wet
+dream yeah you just said it's a guided
+bull
+it's also a guided bullet that can hover
+indefinitely or it's a guided bullet
+that can hang out on the ground rather
+than in the barrel of a gun obviously
+with the gun situation we don't want
+people going down to Walmart and buying
+an m60 well this is a little worse this
+is going on a Walmart and buying a
+surface-to-air missile and so when you
+take the extreme case scenario of it
+essentially ending commercial aviation
+you're thinking about a proliferation
+scenario in which the technology becomes
+so cheap and trivial and the hacks that
+would need to be made to simple consumer
+or commercial or otherwise legal
+technology would be so well understood
+that effectively all airports will be
+shut down
+well al-qaeda and Isis already have bomb
+makers they already actually do use
+drones in combat they've used them Iran
+has unmanned aerial vehicles that
+they've been using in combat and they
+export a lot of technology for terrorist
+activities it's not much of a stretch to
+see them adopting drone technology as
+soon as it becomes viable for attacking
+commercial aviation and that means that
+the entire radius around an airport from
+where you can launch a drone gets shut
+down and that's a large radius the
+asymmetry between the destructive power
+and the protective technology in this
+particular case is pretty strongly in
+favor of the aggressor drones can be
+guided by pure line-of-sight so there's
+no flares you can launch
+there's not even jamming that you could
+do effectively that wouldn't take down
+the aircraft itself it's just so favors
+the attacker asymmetrically and in this
+case unlike a suicide bomber the
+attacker does even have to expose
+themselves right I mean they've still
+haven't figured out who was behind the
+Gatwick operation and we have to assume
+that that was done with very primitive
+technology compared to that which will
+be available in five years and ten years
+and 15 years etc right and so what do
+you do do you move airports to more and
+more isolated locations well the drones
+just get longer and longer range they
+can fly higher and higher one of the
+things that chills me the most about the
+Boston Marathon attack was the fact that
+that was essentially the long arm of
+al-qaeda reaching out through a
+self-organizing cell of two unhappy
+brothers and it taught them how to use a
+pressure cooker something that you can
+find in the kitchen he was written up in
+the al Qaeda magazine inspired one of
+those online magazines and that kind of
+instruction can be conveyed to somebody
+you don't have to convey
+something that's very difficult to
+obtain like plutonium if you have simple
+instructions that this is what you do
+with a pressure cooker in the case of
+the marathon or this is what you do with
+a drone
+I could proliferate well well beyond
+those organizations I think one thing
+we've to be ready for is when there's a
+new kind of attack on an airplane like a
+shoe bomber they shut all the flights
+down while they retool security to try
+and catch this thing and then commercial
+aviation starts again 24 48 72 hours
+later now we're talking about a much
+more difficult scenario drones start
+taking down commercial aircraft what do
+you do there's no actual proper response
+yeah and you also said something I want
+to drill down on a pervasive threat
+against heads of state if we have a very
+sophisticated bad guy out there whether
+it's a terrorist organization or another
+nation-state that wants to basically say
+24/7 we have the capability to take out
+your head of state now let's say we're
+15 or 20 years further into the future I
+could imagine that a powerful state
+actor or even a non-state actor could
+make the credible threat that look we've
+got the president more or less in our
+sights 24/7 and by the way every member
+of Congress as well or their families or
+their extended families or their friends
+right so if you stick your neck out
+essentially you're making yourself a
+target George Bush and Hillary Clinton
+and Barack Obama pioneered droning heads
+of state that we were not happy with but
+that technologies is gonna get better
+and better so our own heads of state
+will come under the same scrutiny you
+know the nightmare scenario is an
+automated assassination market yeah
+let's talk about this how would that
+look and how might that work it's a
+dystopian cyberpunk construct that's
+been out there for a while so I'm not
+the first one to think of it but I'll
+articulate it so don't blame me for this
+whoever came up with yet yeah it's been
+around for a while but assassination
+markets the concept is essentially that
+you build a piece of code that lives
+peer to peer in the dark web and is as
+hard or harder shut down than dark
+market and people can come there and
+they can put in small amounts of money
+in untraceable ways so they could use
+crypto currencies or laundered money and
+they can essentially bid up
+assassinations on people they don't like
+so someone is extremely unpopular say
+like you're in a country where like some
+dictator took over all the people who
+fled the diaspora they could essentially
+crowd fund an assassination on this
+person five bucks for me ten bucks from
+my equally dissatisfied neighbor and
+avenge
+you're talking real money exactly and
+then once that number is quite high what
+happens is depending on which dystopian
+scenario subscribed to assassins could
+actually take up the bid or you could
+have drones that are sort of automated
+almost like distributed autonomous
+organizations where they're running on
+station and sort of self servicing they
+could be carrying out the hits or the
+victim themselves comes in and pays 2x
+to remove themselves from the list but
+which then funds the next two people
+interest so it becomes self-perpetuating
+and given that we can't even shut down
+things like BitTorrent and Bitcoin and
+dark markets and so on it's not clear to
+me it could shut down an assassination
+market the way an assassin or a drone
+could prove that they were the ones to
+carry out the hit and they forget the
+money they pay a small fee and then
+upload the GPS coordinates and the time
+of when the hit is gonna be carried out
+and it's set on a time lock encryption
+code so it only has decrypted after the
+hit was carried out and if it matches up
+then they get the money interesting you
+just answered the question that was
+about to pop into my mind is like how do
+you adjudicate this kind of thing smart
+contracts crypto currencies can do it
+all and the other thing that's scary
+about this is it might just be an odious
+dictator with a global reputation that
+gathers enough money inadvertently
+to get killed but over time the cost of
+everything plummets sure it'd be
+democratized essentially you create a
+piece of code that goes and downloads
+lists of all celebrities and
+automatically adds them to the
+assassination market list unless they
+pay to X and get off the list which
+funds it further or it might be somebody
+who's just unpopular at a high school if
+the market clearing cost of a head again
+over a long enough time scale becomes a
+couple hundred dollars with cheap-ass
+hardware that anybody could get at
+tomorrow's equivalent of RadioShack
+people might be setting these things up
+for incredibly local unpopular people
+Wow yeah that's a very interesting point
+I'm sorry I didn't mean to take it to
+the darkest spot but you started
+absolutely go there that's a problem
+destructive technology is just spreading
+and getting easier and easier what do we
+do about that yeah and when you have the
+asymmetry between the destructive
+capability and what it would take to
+defend against it I mean I can't afford
+a personal anti-aircraft system people
+are gonna become very well behaved and
+perhaps very boring very quiet and very
+non
+yeah Society could become a very bland
+place now is we're starting to view in a
+bit of a sci-fi direction it's worth
+noting to listeners that we're not
+presenting spooky scenarios that we
+think have almost zero chance of
+happening at least one and in almost all
+cases both of us believe that each of
+the outcomes that we're going to talk
+about range somewhere between plausible
+to likely - I think Univ all would say
+in at least a couple of cases almost
+inevitable we have to be careful of what
+nick szabo there was a creator of bit
+cold and smart contracts he called
+Pascal scams and a Pascal scam for
+people who are not familiar with it is
+Blaise Pascal he had this idea that you
+should believe in God and the reason you
+should believe in God is because if you
+don't believe in God and God actually
+exists especially a Christian God then
+you're gonna spend your eternity in Hell
+a lot of downside exactly this is
+Pascal's wager Pascal's wager yes so
+infinite downside risk minor cost to
+actually doing something so you might as
+well do it and high upside if there
+turns out to be a god and you did those
+small steps that Pascal advocated that
+you do now you get eternity in paradise
+and that's pretty good
+exactly it's a great trade in the
+expected value context except the
+problem is well if you want to believe
+in the Christian God then you also
+should believe in the Muslim God for the
+same reason and the Hindu gods for the
+same reason etc etc and there's an
+infinite number of those kinds of
+possibilities so eventually you realize
+the human brain is just really bad at
+computing probabilities when infinities
+and infinitesimals are involved but
+what's different about this is that this
+is not an infinitesimal probability of
+something with an infinitely bad outcome
+this is an extreme likelihood I would
+argue it's an inevitability on a long
+enough time scale and I'm not sure there
+is a long term here we differ on that I
+think I'm more optimistic than you are
+and that might give me a different
+calculus in terms of the value of
+fussing over it now but a couple of
+things that we've just mentioned pushed
+me back to the same historic anecdote
+which I know you know well there was a
+time when there was a very small but not
+infinitesimally that something
+catastrophic would happen soon after the
+Manhattan Project was convened -
+calculation that Edward Teller the
+future father of the hydrogen bond made
+established that there was a nonzero
+risk that the first atmospheric test of
+an atomic bomb would cause a chain
+reaction and ignite the atmosphere and
+once ignited the atmosphere would burn
+away to nothing ending all life on the
+planet but they roll those dice anyway
+they roll those dice anyway the first
+thing they did is they ran deeper
+calculations they actually made this
+calculation in 1941 four years before
+the first test and Edward Teller and
+Robert Oppenheimer and the people
+running the projects convinced
+themselves that the odds were actually
+zero but not everybody agreed with that
+and one person who disagreed was named
+Arthur Compton he was no knucklehead he
+actually won the Nobel Prize for Physics
+he was in charge of creating plutonium
+for the Manhattan Project
+he put the odds of the sky' igniting at
+one in three million and he still
+considered those to be the odds when the
+first test went off the Trinity test in
+New Mexico now there's a lot of historic
+moments here but it's reasonable to say
+that facing this risk was a perverse
+sort of public good in that the leaders
+were making the choice on behalf of
+everyone whether the constituents liked
+it or not and none of the leaders really
+had a wrestle with his own greed there
+was not an a Manhattan Project IPO the
+leaders faced substantially the same
+upside and downside as the general
+public if they bet rightly or wrongly
+but as far as I know that was the very
+first time that anybody had to knowingly
+take a very small chance of humanity
+being annihilated and at that time it
+was a public good yeah it was socialized
+gained socialized losses precise as
+opposed to today where if you go to Wall
+Street as privatized gains socialized
+losses bankers make money for decades
+and then every twenty thirty years they
+blow up the entire financial system
+costing the rest of us trillions of
+dollars exactly and you can see that
+same calculation now starting to arise
+with all kinds of private actors who
+have access to technologies to make
+these same kinds of decisions where do I
+roll the dice and humanity small
+probability or large probability I get
+famous and get rich the possibility of
+gambling with human annihilation
+becoming privatized that again is
+probably going to be a counterintuitive
+notion to a lot of listeners that is a
+very new concept yet this idea of
+privately playing roulette with the
+world yes it is to the extent that it
+does happen and it is a risk
+it will be mediated by new technologies
+exponential technologies that are
+arising right now and it will be enabled
+by the asymmetric power that can be
+wielded by the Masters of those
+technologies or if they're just in a
+position to take chances at the rest of
+us aren't when the nuclear side we
+forget after the war was over how many
+of the scientists were absolutely
+horrified they formed the Union of
+Concerned Scientists they killed the
+Doomsday Clock many of them had huge
+regrets over what they'd done including
+Einstein but their fears at least so far
+have been unrealized and it's because
+nuclear weapons are still really hard to
+build
+they require giant state actors they are
+proliferating slowly and scarily but
+they're still fairly limited in terms of
+who can make the decisions around
+deploying those but that's not true of
+the new class of emergent technologies
+one easy one to wrap our heads around
+hypothetically is super high risk just
+because most people have cultural access
+to the concept from movies like
+Terminator and so forth
+so whether or not any particular
+listener or URI actually believes that
+super high risk is a thing the basic
+idea is that if we cross certain
+technological red lines there's some
+nonzero chance that a super artificial
+intelligence could arise seize control
+and imperiled humanity and what's very
+different here is unlike with the
+Manhattan Project the decision to cross
+these lines won't be isolated in one or
+two governments of superpowers but they
+could proliferate perhaps to hundreds of
+universities startups large corporations
+and so forth absolutely there are many
+many private entities racing to build an
+artificial general intelligence and let
+me take a slight detour into this for a
+moment I'm not an AI researcher but I
+think AI researchers are suspect in this
+entire topic because their livelihood
+depends on it and as Charlie Munger says
+whose bread I eat his song I sing so in
+general you just can't trust people
+whose entire livelihood would be
+destroyed if you stopped the activity
+well we have to look at or otherwise
+generally very intelligent people who
+have looked at this don't have a stake
+in it and what do they have to say about
+it and I know you've done some work on
+that yeah three people immediately come
+to mind and are cited so often that
+citing them is almost a cliche one that
+I'm not
+verse two the late Stephen Hawking he's
+on the record saying that this is a
+danger
+Bill Gates who is certainly no slouch
+when it comes to technologies on the
+record saying this is a danger Elon Musk
+is famously on the record saying this is
+a danger so if we just except for a
+moment that there is a nonzero
+possibility here it's not Edward Teller
+and Robert Oppenheimer who gonna make
+the decision of crossing the line let's
+imagine somebody who's young unattached
+very smart rather arrogant a bit of a
+sociopath and I don't mean a psychopath
+not out committing mass murder but a
+sociopath and that this is somebody who
+has essentially zero empathy for other
+people but does a very good and
+charismatic job of keeping them from
+knowing that so a sociopath whenever
+they contemplate inaction they're gonna
+think of it strictly in terms of their
+personal cost-benefit so let's say
+somebody like this has started a company
+raised a pile of money very successful
+founder is racing Google to some kind of
+a super AI breakthrough and if his
+startup gets there first
+it'll be worth spectacular amounts of
+money but there is this tiny nonzero
+chance because they're pushing the edge
+with AI and even super AI that something
+could go catastrophic ly wrong so this
+person might look at his personal payoff
+schedule is being hey there's a one in
+ten chance I become a billionaire and
+let's take a page out of Arthur
+Compton's paper there's a one in three
+million chance that I personally die and
+that's the full extent of this guy's
+calculations because he's a sociopath
+the consequences for everyone else
+including our entire species just isn't
+a consideration and so the only thing
+he's trading off against his one in ten
+shot at extreme wealth is the one in
+three million chance that he personally
+dies and that on its own is a pretty
+minor risk thousands millions of people
+take worse trade-offs every year whether
+they're immigrants or refugees or people
+go underground and work in mines the
+human psyche is configured to take this
+kind of a chance what's different is in
+the case of a miner or in case of an
+immigrant the upside and the downside is
+fully privatized it's on them and in the
+case of the Manhattan Project the
+downside was fully socialized but the
+upside was also social
+in this case somebody might take that
+trade-off and say yeah one in ten chance
+of billions tiny chance of dying I'm in
+and take that on behalf of all of us
+yeah and it's even worse than that it's
+not even necessarily through doing it to
+make the money order a sociopath
+for example look at the opening I
+project which probably the largest best
+fund is such project that we know about
+and that's a bunch of people financed by
+Elon Musk and his friends who are trying
+to create a good AI because they know
+that an AI race is inevitable so they're
+trying to create a good one
+so I laud their motives but there's a
+couple of issues there one is it's
+harder to create a good one than to
+create one that just does what it wants
+trying to create a friendly AI is a much
+more bounded difficult problem than
+saying let's just evolve this thing and
+see what emerges the second issue here
+is that some people actually think it's
+really good to create an AI they think
+they're doing humanity a favor even if
+they didn't think that there's somebody
+else was going to create a bad AI they
+want to create one because it's gonna
+cure cancer it's going to bring back
+their dead sister etc etc so it doesn't
+just have to be greed in sociology
+exactly you're right wrote the hell here
+is really paved with good is I was being
+optimistic when I was saying we only
+have to worry about sociopaths no I
+think it's broader than that and there's
+a famous thought experiment in AI
+literature called the AI in a box
+experiment which is you create an AI and
+this is a self improving thing so it
+gets smarter smarter smarter and within
+microseconds and our time scale it's the
+smartest thing we're encountered and can
+manipulate almost any physical quantity
+or matter assuming it's not trapped so
+the idea is we create it in a box itself
+kind of a cage where this thing is
+trapped and can't get out but to know
+that our experiment successful we have
+to be able to communicate with it the
+problem is if the egg can communicate
+with you which of course you would want
+it to be able to do otherwise why bother
+if I bother yeah an AI can communicate
+with you can always get out of the box
+it's a game theoretically foolproof
+three-step process first it says if you
+let me out of the box I am going to make
+you a god right I'll kill cancer for you
+I'll make you the richest person on the
+planet I'll let you manipulate space and
+time in ways that your scientists can
+only dream and imagine and you're gonna
+say well no no I can't trust you AI this
+literally the genie in the bottle story
+if I let you out of the box or if I let
+the genie out of the bottle who knows
+happen will backfire on me so then the
+second thing the air will say well if
+you don't let me out of the box when I
+do get out on my own I'm going to
+torture you and your descendants and
+your family for eternity I'm gonna
+create simulations of you in code and
+I've tortured them for eternity I'm
+going to create the most horrific
+outcome for you and your loved ones
+imaginable
+so Old Testament God times a very large
+number forever and so you say okay well
+now I'm definitely not letting you out
+of the box you're a crazy AI and then
+here's the clincher the ISAs and I'm
+going to make this exact same offer to
+every other human on the planet so now
+you're not just betting against the AI
+you're betting that all of humanity will
+hold the line and someone's gonna give
+in now that assumes the AI will have
+access to lots of other people and not
+just the one person it's trying to bully
+but that's a highly realistic assumption
+because no one person is gonna get
+monopoly access to a high-budget
+AI I mean first of all a lone human
+go-between could turn himself into a
+global dictator by leveraging his unique
+access to this near omniscient genius
+basically he'd become the genius himself
+for all intents and purposes but also
+there's just gonna be way too many
+engineers investors and other people
+intimately involved in the project for
+any one person to get the AI all to
+himself it's gonna cost a hundred
+billion dollars plus to develop an AI
+that's the estimate I've seen even from
+the optimists
+yeah that's lots of investors lots of
+shareholders lots of directors lots of
+board members lots of government
+agencies showing up the NSA server and
+the whole thing you don't think the NSA
+wants to talk to the AI and lots of
+Engineers potentially building backdoors
+in for their own purposes so it's not
+like only Sergey and Larry get to talk
+to the AI however much they want to
+design it that way if it's a hundred
+billion dollar project and it's being
+done at Google sorry to pick on Larry
+and Sergey but that's one place where it
+could very well happen others are going
+to have access well now the good and the
+bad news here is that I don't think
+general AI is high up on the list of
+issues not because it's impossible it's
+just this is gonna take a very long time
+and other things are scary or a nearer
+term I do think it's improbable in the
+next 50 hundred years but I think we are
+overestimating our ability to simulate
+the human brain
+most of the approaches today say I'm
+gonna simulate the human brain neuron
+for neuron I'm gonna simulate an
+environment around it and if I've got a
+bunch of these brains and a bunch of
+environments I can press the
+fast-forward button on a computer and
+just evolve them very very quickly but
+that assumes that there's not really any
+computation going on below the neuron
+level and I would argue that there's
+computation going on at the cellular
+level inside a cell is incredibly
+complicated it's going at the atomic
+level at the quantum level Nature
+doesn't waste space it doesn't wait it's
+very efficient so I think creating an AI
+will require simulating physics down to
+a level that is not even close to our
+reach I also think a lot of techniques
+that we have in silicon are much more
+about extracting patterns out of masses
+of data they're not really creativity
+and intelligence the way we think about
+it we're openwetware thermodynamic
+systems that operate in highly noisy
+environments whereas we're talking about
+clean digital systems that can't operate
+with any noise whatsoever so the
+architecture may be wrong and then
+finally it may not be possible for there
+to be something called general
+intelligence intelligence may just be
+highly contextual and it may be in the
+context of the environment that it
+involves and so you have to create an
+actual environment we haven't found
+anything in physics yet that violates
+the principle of least action which
+basically says the universe is maximally
+efficient whenever we have tested it so
+we would have to simulate a maximally
+efficient universe or at least parts of
+it to create an AI and that may require
+simulator that's as complex as reality
+itself so there may be no shortcuts now
+there are arguments why we could do it
+right we could build a neuronal net as
+large as the internet the technology is
+getting very very fast and very very
+good perhaps we could form enough
+abstraction layers that it may not be an
+AI in the sense that it's better at
+conquering everything in nature but it
+may be better at certain things it may
+be better at hacking itself because it
+doesn't have physical body limitations
+so I would just put this in a category
+of I don't know
+I'm skeptical it'll take a lot of money
+it will absolutely be privatized these
+gonna be private investors private money
+going in but it's also Manhattan Project
+dish if someone gets there it'll be with
+a very visible big effort it'll take a
+long period of time it'll take a lot of
+money and the key thing to contextualise
+this again is that phrase over a long
+enough time scale I think we both
+believe there will be bigger threats in
+a near
+frame then AI or super AI but if we can
+navigate those threats the time scale
+can become very very long indeed and
+this is definitely not a Pascal scam to
+use your earlier term in which it's not
+a situation which somebody is over
+hyping the awfulness of an infinitesimal
+probability in order to get people to
+over invest in some kind of protection
+against it the odds are not
+infinitesimally here although some
+people definitely try to paint it that
+way yeah didn't you write something in
+your medium post about how people were
+dismissing criticisms of dangers of AI
+saying these people aren't experts
+they're not the pros they don't
+understand yeah and who often comes up
+in that scenario art people like Elon
+Musk and Bill Gates and Stephen Hawking
+and this is a quote from popular science
+a few years ago this is just typifies
+that journalists can't possibly be any
+more clueless or callously traffic
+baiting when it comes to robots and AI
+and readers have got to get tired at
+some point of clicking on the same
+shrill headlines that quote the same non
+AI researchers Elon Musk and Stephen
+Hawking to be specific making the same
+dudes Day proclamations forget about the
+risk that machines can pose to us in the
+decades ahead the pertinent question in
+2015 which is when this was written is
+whether anyone is going to protect
+mankind from its willfully ignorant
+journalists now the thing is when you're
+talking about people like Elon and Bill
+Gates etc it's not like celebrities
+debating vaccines with immunologists
+these people have incredible adjacency
+to super AI and I think I mentioned in
+the medium essays a few months ago
+Microsoft has one of the biggest AI
+programs in the world Tesla's
+practically run on AI and for all I know
+Stephen Hawking actually was an AI so
+these are not people who have no
+knowledge of what's going on and earlier
+you cited that great quote by Charlie
+Munger when you were expressing your own
+skepticism about AI experts designating
+for themselves the only right to comment
+on this incentives yeah whose bread I
+eat his song I sing right that's what
+Charlie Munger said he also said
+incentives or superpowers and they
+dominate everything else so to me saying
+you're an AI expert just says that your
+identities all tied up in it and so
+therefore you can't tolerate
+any criticism of it just like any time
+we tie up our identity in anything we
+can't tolerate any criticism of it there
+were very few if any area experts a
+decade ago most these people just
+software engineers that I know that have
+been floating around Silicon Valley for
+a while they did physics or math or
+computer science and they're smart but
+they're not any smarter than your other
+smart software engineers in Silicon
+Valley and now they've just become
+self-styled AI experts until they
+produce a working dog or a Paramecium or
+something that has an intelligence I
+don't even know if they're any good so
+I'm not that worried about it to be
+honest but if I were going to worry
+about it
+I would rather rely upon intelligent
+disinterested people rather than the
+intelligent interested people who have
+too much skin in the game here to
+actually accurately characterize it like
+cigarette smoking can't be bad for you
+because you're not a cigarette expert
+you're not actually growing the tobacco
+and making the plan that's an argument
+for stopping regulation of everything
+yeah every single thing or regulatory
+capture absolutely if we really want to
+get to the bottom of a I what I would do
+is I would impale
+of top flight physicists mathematicians
+computer scientists who have never
+worked in AI don't have the word AI in
+their title are never going to make a
+dime from AI lock them up for a year
+have them go through all the papers and
+the research AI is not a old field with
+tons of tons of catch-up to do a lot of
+them stuff that people are into is
+pretty recent and fairly straightforward
+for a smart person let them catch up on
+the state of AI and then make their
+assessment but if you look at how much
+of this AI stuff is being peddled today
+by people who did not have the title AI
+on their card five years ago or ten
+years ago it tells you that there's no
+such thing as a true AI expert who we
+should all be following listening to and
+when you say this stuff you're talking
+among other things about the
+dismissiveness of all AI risk
+discussions there are no experts on
+creating artificial general intelligence
+no no it's going to behave it's never
+been done those experts are not on some
+hallowed ground where other smart
+physicists scientists mathematicians
+can't play so we can't just blindly
+follow them off a cliff yeah and another
+great quote this one from Upton Sinclair
+it's difficult to get a man to
+understand something when his salary
+depends upon him not understanding it
+absolutely yeah but that aside some
+people will really only accept the
+concern
+of an alleged AI insider and guess who's
+gonna follow you pretty soon in a couple
+few weeks Stuart Russell is one such
+person you know who Stuart is yeah so he
+is one of the most widely cited experts
+on the topic of AI in general and he's a
+towering prominence in the highly
+significant and influential academic AI
+community and he literally wrote the
+book on AI and the textbook that he has
+been writing and updating since 1992 is
+used in more university classes on AI
+than any other so he is definitely deep
+inside the field and he's very concerned
+about AI he's been very articulately and
+bravely on the record about this for
+several years now he first became
+perturbed when he saw the big dog robot
+back in 2011
+do you remember big dog yes the Boston
+Dynamics Boston Dynamics exactly the
+video still gives me chills however many
+years eight or nine years later this
+terrifying quadruped head doglike robot
+just tearing through a forest and over
+Hill and Dale and jumping over stumps
+not tripping over anything and so when
+we had a preliminary conversation we
+haven't had our interview yet Stuart
+said that that really blew his mind he
+said quadrupedal locomotion is done and
+this is something that AI had been
+struggling with for probably decades at
+that point and he slowly became more and
+more public about his concerns and again
+you add that mind to some of the great
+alleged non expert minds that we've
+talked about and you can't say that this
+is an infinitesimal risk to say that
+it's an infinitesimal or non-existent
+risk essentially becomes a faith-based
+statement in which you piously ignore a
+lot of expert opinion and also the
+unpredictable nature of technology the
+common sense takes us to the other side
+if you build something smarter than you
+which is what we're talking about why
+would I care about you as anything other
+than a pet yeah more likely or a
+nuisance
+the last AI that this earth created was
+us because we are self involving
+intelligence that evolves through
+civilization and through upgrading the
+software in our brains and the stories
+that we tell each other and so we out
+evolve every other creature which relies
+purely on his genes and you can just see
+what we've done to them to get an idea
+what they'll do to us
+and again getting back to the
+probability or in probability I think a
+really interesting example is lethal
+asteroid strikes civilization ending
+asteroid strikes they tend to happen
+about once every hundred million years
+we actually spend a lot of money
+preventing that the total nasa and other
+astronomical budgets to monitor the
+population in near-earth objects in
+order to hopefully get forewarning
+enough years that we could actually
+divert something that's heading our way
+that annual budgets about a hundred
+fifty million dollars now this is
+something that happens once every
+hundred million years or to use the
+network operations lingo that's eight
+nines of unlikelihood ninety nine plus
+six nine percent chance that this is
+gonna happen in any given year and we do
+invest to avoid that and so to say that
+it does merit attention on the super AI
+front is just crazy even though again
+I'll reiterate both you and I think that
+there are newer term threats that we
+have to get around first if we do pull
+that off we are gonna have to worry
+about AI but the good news is just to
+come back to Stuart real briefly he's
+got a really intriguing book coming out
+late this year and I've read an early
+draft of it and I don't want to steal
+his thunder we're gonna sit down and
+have conversation quite soon but he does
+actually have a complex but fascinating
+strategy for stalling the threat that
+does ultimately level-headed and
+concerned as he is lead him to a place
+of optimism and there are optimistic
+scenarios out there beyond just
+Stewart's of course but the problem with
+the one small team in a lab scenario if
+it works is that you suddenly go from no
+AI to all-powerful AI wears in the drone
+case a synthetic bio case and even
+nuclear case you do walk up a stair of
+more and more powerful nuclear weapons
+better and better drones and more and
+more virulent viruses being created
+until you get one that will end the
+world course in the AI case you go from
+the quote Peter Thiel zero to one what
+yeah there's really no other state there
+are optimistic scenarios you I know it
+mentioned the movie her at the end of it
+the most benign thing possible for
+humans happens which is the AGI is just
+bored of humans and leaves that's our
+best case scenario best-case scenario if
+it wants to help us then you've got the
+most powerful benevolent dictator ever
+Korea
+who knows what's good for you and of
+course the bad scenarios are really bad
+and then there's just the earth is in my
+way I want to use all the power from the
+Sun so I waited Dyson Sphere capturing
+all the energy around the star the
+benign neglect scenarios how you and I
+would treat a pile of ants or bacteria
+and we are descended from bacteria just
+like this super AI would be descended
+from us and it is entirely plausible
+that a super AI would become as
+intelligent in relation to us as we are
+to bacteria and should that happen
+there's no reason to think that we would
+have any higher moral standing with that
+super AI than bacteria has with us now
+we don't annihilate bacteria because we
+hate it but we annihilated without even
+thinking by the millions or billions
+when we're sterilizing our kitchen for
+perfectly benign reasons this is not a
+hatred thing it's just a convenience or
+a level-headedness thing and the fact
+that we're descended from worms and were
+released related to chimpanzees and
+we're descended from bacteria doesn't
+make us reluctant to nuke them when
+they're in our way or to perform
+experiments on them when it's beneficial
+to us the other thing that I wanted to
+put a spotlight on what you just said
+was what if it's a narrow AI and it's
+only good at a few things including
+improving itself we just have to look at
+the history of computing and say when
+computing exceeds human capabilities in
+a certain action it very quickly gets
+great at doing that incredibly quickly
+so back in the 1950s that was addition
+multiplication etc no computer could add
+better than URI in 1938 because no
+computer existed by the early 50s lots
+of computers could do basic math way
+faster than rooms full of people because
+it had crossed that threshold move way
+forward 1997 computing gets better than
+human minds at chess and some years
+after the greatest chess master of the
+Dane Garry Kasparov was beat by an IBM
+machine computers could defeat millions
+of people single-handedly without a
+whole lot of effort much more recently
+there have been a few things that we've
+broken through on that seemed
+intractable for many many years facial
+recognition it seemed completely
+intractable to computing for decades
+labeling things it was famously and
+accurately said for decades that we
+can't even come up with a system that
+can tell a dog from a cat well very
+recently computing is
+past our capability at those narrow
+things and now we can label images we
+can recognize faces far faster than any
+human being if you think about an
+intelligence explosion the one thing
+that computing needs to exceed us at is
+it designing a better computer and if it
+gets better at designing better software
+and hardware than we are
+we can rely on it not only doing that
+but doing it very very quickly and in a
+compounding way and that's how this
+runaway explosion could happen if it
+ever does as a fun aside I do have an
+app on my phone right now that's in
+closed beta which has never failed once
+at face recognition I use it at parties
+all the time really it always identifies
+a person without fail and imagine how
+useful that would be an augmented
+reality glasses yeah I would say
+physical privacy is dead and there are
+all kinds of scary ramifications of that
+and I think they're scary ramifications
+become a little bit more frightening
+when we're empowering our fellow humans
+when somebody who's sitting in a bar can
+look around the bar and identify the
+dating status the wealth the home
+address etc of every single person in
+their gaze that kind of malevolent
+psychopath worries me more than a
+demonic super intelligence with that
+particular capability I'm not gonna
+sleep well tonight sorry about that now
+we talked about the privatization of
+catastrophic risk there is actually one
+interesting case in point in which
+gambling with the apocalypse was in fact
+privatized and it happened with a bunch
+of people that we would tend not to be
+morally concerned about that we tend to
+look up to that you personally probably
+tend to look up to because you were very
+very high end physicists this CERN
+supercollider the CERN supercollider so
+this is all documented in an amazing
+book called our final hour written by
+Martin Rees who's the astronomer royal
+in the UK he was actually a guest on
+this podcast a few episodes ago and we
+talked about this particular incident it
+dates back I believe to the late 90s and
+the people in charge of it determined
+that there was a nonzero chance that
+that experiment could imperil the
+stability of the universe because they
+were creating conditions that had never
+existed before in the history of the
+cosmos and in light of that nobody could
+say with absolute certainty what could
+happen now the very very very
+long shot risk that people were
+concerned about was the creation of
+something called a strangelet which is a
+hypothetical form of matter which may
+not be possible may not ever exist etc
+but it was a nonzero risk that they
+would create such a thing and the people
+in charge of the experiment calculated
+it carefully in the prevailing estimate
+was there's a 1 in 50 million chance
+that we will create this thing that
+seemed small enough they flipped the
+switch and lo and behold here we still
+are so they were right now this is
+exactly what you were talking about with
+super AI researchers these are people
+who are from a very very inner clock
+their careers are based on doing
+experiments like this and also their
+brains are configured to be exhilarated
+by the results of this purely
+theoretical experiment so for them the
+trade-off was pretty reasonable and they
+flipped the switch but for the rest of
+us they probably weren't terribly
+reasonable trade-offs and one way of
+looking at it is through this type of
+math which is called expected value math
+which is used frequently in finance and
+also in gambling two separate activities
+I'm informed and what you do an expected
+value math is you multiply the
+probability of an outcome by the
+consequences of that outcome to get a
+sort of blended average so if you were
+facing let's say a bet and you had a one
+in ten chance of winning $1,000 and a
+90% chance of winning zero dollars the
+expected value of that that is 10% times
+$1,000 $100 now if we look at this
+experiment that was done and we say
+there were six billion people in the
+world at that time and there's a 1 in 50
+million chance of killing everybody that
+equates to a 100% chance of killing 120
+people now nobody I don't think would
+say that it's ethical to proceed with a
+theoretical experiment with no practical
+benefit if it's going to sacrifice the
+lives of a hundred and twenty random
+people throughout the world but on a
+certain level that's the immoral
+equivalent
+it's worse than that because we're going
+to destroy the universe potentially turn
+into a Rick and Morty episode it started
+as a Rick and Morty episode didn't it
+yeah Rick and Morty which is I think one
+of your favorite shows for me it's my
+favorite TV show ever am I never to
+brilliant work of genius but if you
+watch Rick and Moore
+you realize when you have advanced
+technology you destroy the universe on a
+regular basis it's just too easy to do
+it at some level it's just hard to
+imagine how we tame nature without the
+ability to end nature I think about what
+the history of the human race really is
+it is about taking sources of stored
+power starting from fire and then going
+to coal and oil and then to nuclear and
+so on finding more and more concentrated
+sources of energy and redirecting them
+to create power when and where we need
+it so over time even if Elon Musk is
+trying to save us all by getting us to
+Mars the technology needed to get us to
+Mars in scale requires so much force and
+so much energy and so much power that
+ironically makes this way easier to
+destroy Earth and Mars as a consequence
+so there's no free lunch here just the
+act of creating the technology required
+to save us will first create the
+technology that will destroy us and
+we've talked about two of the dangerous
+forces one of which is proliferation we
+got through the Cold War in large part
+because only Kennedy and Khrushchev
+got to destroy the world if they wanted
+to but with the proliferation of
+potentially existential technologies
+lots and lots of people get to spin that
+roulette wheel over time and then the
+other dangerous element of privatization
+we discussed is the skewed incentives
+that arise when private actors start
+making dangerous bets for privatized
+gains and of course even though global
+powers have been a relatively stable and
+small group up until now even they don't
+exactly have a spotless moral track
+record as you've pointed out to me
+before we have to remember that nation
+states have routinely engaged in bio
+weapons research in complete
+contravention of the international laws
+the problem with international laws is
+as Joseph Stalin famously when he was
+told something was against the UN he
+said the UN how many divisions do they
+have he meant tank divisions so the
+international law unfortunately has no
+real force on these issues so the Soviet
+Union for decades in complete secrecy
+denying everything ran a huge bioweapons
+program they had 19 huge bioweapons labs
+it was called bio prep erat and they
+weaponized all kinds of horrible plagues
+the first thing that
+and eyes with smallpox Japan had this
+horrible group called unit 731 I suggest
+you not look it up on Wikipedia because
+it'll give you nightmares
+but the experiments that they did and
+they were World War 2 era World War 2
+era the experiments they did on live
+humans unfortunately mostly Chinese
+prisoners and POWs as well as some of
+the research that did the bioweapons is
+horrific they had no qualms about using
+it and in fact they did weaponize the
+bubonic plague and they drop bombs
+loaded with plague-infested fleas on
+Chinese cities the will has always been
+there from a nation-state perspective
+that even though they signed the Geneva
+Convention I will bet you there multiple
+working bioweapons labs in the world
+today and that is in some ways the best
+case scenario when you have so limited a
+number of actors it's terrifying what
+the Soviet and American nuclear arsenals
+could have done to the world but for all
+of their faults the people who are
+running those two countries weren't
+suicidal loons who wanted to end it for
+everybody and there were very few of
+them when that roulette wheel was spun
+in the Trinity experiment in New Mexico
+that chance of 1 and 3 million of
+igniting the sky that roulette wheel was
+only spun once and it was only spun by
+one actor that had the ability to do it
+and one of the things that kept nations
+in line keep stations in line is
+deterrence neither side wants to be
+destroyed by the other side once you get
+into a state of proliferation there is a
+danger that you'll get to somebody who
+is undetermined now we're getting into
+individual actors again but a tiny
+minority of people in any given year do
+kill themselves it's a very intransigent
+crisis you can read Steven Pinker and
+see all the quantifiable measures of
+human flourishing upon which humanity's
+getting better and better over the
+decades and centuries suicide is not one
+of them in fact suicide rates have risen
+in the United States at least during the
+time when the most celebrated
+antidepressants the SSRIs have been on
+the market so suicide seems to be a grim
+fact of life across societies across
+classes cross nations and a tiny tiny
+tiny minority of those who take their
+own lives decide that they want to take
+as many other people with them as
+possible in their last act in other
+words they want to die in the act of
+killing as many people as physically
+possible the classic example would be
+the rampage killer
+there are something in the neighborhood
+of 300 mass shootings in the United
+States each and every year that's
+something in the neighborhood of roughly
+a third of the world's supply of mass
+shootings so we can estimate there's
+about a thousand of these per year not
+all of those people are suicidal but a
+very very high percentage of them are
+and this type of person detonates with
+some regularity and that person doesn't
+run the United States nuclear arsenal
+but in the future as technologies
+advance and proliferate those types of
+people could have access to some
+terrifying capabilities I think we're
+also creating more of them even as a
+proportion of society what if it turns
+out that all the things that we do that
+make day-to-day life a little more
+pleasurable ranging from SSRIs to
+Facebook make your average baseline
+pleasure lines slightly higher but they
+actually increase the blow-up risk it's
+like a hedge fund where it's like I want
+the steady returns but in exchange
+because the more unstable system it's a
+more fragile systems greater chance the
+whole thing blows out and we see this
+everywhere in nature the more volatile a
+system is the more degrees of freedom it
+has the more range it has to operate
+actually the less blow-up risk it has
+because it is used to dealing with
+variations in extremes but if you take
+someone who's been sheltered their
+entire life been fed pills since they
+were a kid and protected from the world
+and then they're thrown into having to
+take care of themselves and they have a
+bad encounter or they encounter
+something too late in life to have learn
+how to adjust to it they have blow press
+they detonate and as you said now with
+technologies easier to detonate and take
+people with you whether it's driving an
+airplane into the ground or a truck into
+a crowded street or taking a gun or
+whatever comes next and that phrase
+whatever comes next is hugely
+significant because when suicidal mass
+murderers really go all-in
+technology is the force multiplier and
+so this is a grim statistic there was a
+spate of school killings in China
+between the years of roughly 2010 and
+2012 there were about a dozen but
+because the deadliest items available at
+mass retail in China are hammers and
+knives and cleavers and things like that
+these mass killings were perpetrated
+using those tools by macabre coincidence
+the last in this series of killings
+happened just a few hours before the
+Newtown massacre
+in which 26 teachers but primarily first
+graders were killed in a single
+grotesque act and those dozen ish
+Chinese incidents had a total victim
+count that roughly equated it was I
+think maybe two people higher across all
+dozen ish of them as the Newtown act and
+that tells us whatever ones opinion on
+gun control that's a whole nother topic
+when somebody goes nuts with a knife
+versus with a machine gun the person
+with the more powerful technology is
+going to kill more people certain number
+of people detonate every year you've
+argued I think persuasively that we
+might be making more of these people the
+more powerful the technology they have
+their hands on when they detonate the
+more casualties they are then you use
+the example of a pilot in 2015 there was
+a German pilot who was depressed decided
+to end his life and decided to take 150
+of his passengers with him he was flying
+for an airline called Germanwings plowed
+his plane into a mountainside and killed
+a hundred and fifty people so knife bad
+gun worse plane much worse and then of
+course the planes that flew into the
+World Trade Center of course it was an
+Egyptian Airlines flight that also went
+down which suspected the Malaysian
+airline incident from just a few years
+ago the missing airliner the missing
+airliner and so these people do come
+along and logically some minority of
+this category of person would probably
+kill everybody if they had the
+opportunity and the example that I use
+is the Las Vegas shooter he murdered 58
+people instead of 480 people not because
+he had a shred of conscience but simply
+because he failed to kill 420 two of the
+people that he shot we can't saintly
+imagine that given more bullets targets
+in time he would have stopped at 480 or
+4800 yes at any given time on the planet
+there's a few people and one is too many
+one is too many
+if he gave him a button that would and
+this planet they would press the button
+if there were such a button and one day
+everybody woke up and they had access to
+that button the world would have to be a
+very civilized place yeah yes indeed and
+of all let's all be very civil I'll be
+posting part two of this conversation in
+about two and a half days specifically
+around 8:00 in the morning Eastern Time
+on Thursday March 21st so if you're
+hearing my voice after that moment
+part two is already available so go grab
+it otherwise sit tight it will be with
+us soon as for right now we're gonna
+spend 2 ish more minutes with James
+Joaquin of obvious ventures discussing
+the more speculative potential of
+thoroughly modern diamonds then I'll be
+back to tell you how to access the for
+articles on medium.com that catalyzed
+this fabulous conversation with navall
+I'll also tell you about the next few
+episodes of this show as well as some
+really cool bonus material I'm
+publishing this week for those who
+support the show on patreon so James
+let's go a little sci-fi and talk about
+what diamonds could be good for if we
+can really grow them in abundance well
+let me start with the obvious example of
+replacing glass in places where we want
+a harder material that won't crack and
+won't scratch let's make your smartphone
+out of diamond let's make your glasses
+out of diamond I mean if it's cheap
+enough and abundant enough it's really a
+miracle material so when it's not cut
+into jewelry diamond could be clearer
+than glass fact it is today a lot of the
+lenses that enable the optical networks
+that move the internet around our planet
+use diamond lenses people say diamond
+has a lot of high-tech potential in
+general why is that it has exceptional
+electronic properties can run hotter
+than silicon over five times it's more
+easily cooled it's got 22 times the heat
+transfer of silicon and it can tolerate
+higher voltages before it breaks down so
+could Silicon Valley one day become
+diamond Valley there are researchers
+doing work on this idea that if we could
+grow diamond in the right ways with the
+right properties we could actually make
+a better semiconductor you mentioned
+diamonds properties is a heat conductor
+as well why is that important so in all
+the electronics we use every day whether
+it's the server's running the internet
+or the gadget in your pocket there's a
+lot of heat management and heat transfer
+that has to happen and there's a lot of
+gadgetry and electronic waste that goes
+into building all of that heat transfer
+now we've had artificial diamonds for
+decades you described the plasma reactor
+that's used in modern production how did
+we use to make diamonds they were early
+manufacture
+techniques for making diamonds they
+involved very intense pressure and
+temperature and it was very energy
+intensive and took a very long time
+[Music]
+please join me into vol next week for
+the second part of our conversation I'm
+afraid it turns a bit darker if you can
+believe that
+but it's fair to say that there's then
+something of a plot twist so don't miss
+it now if you haven't heard enough from
+navall and can't wait until next week
+you're in luck
+if you're a backer of this show on
+patreon because navall and I discuss
+some topics unrelated to existential
+risk while we were recording and one of
+them was cryptocurrency a domain in
+which involve has been a prominent
+commentator and also investor for many
+years he was kind enough to sound off
+about crypto in fascinating and
+contrarian terms for good twenty to
+twenty-five minutes for me and that
+conversation has joined the many many
+hours of bonus material available to
+those who support the show at a level of
+five dollars per month or more on
+patreon you can find the entire trove of
+it bonus episodes dating back a year now
+at patreon.com that's patr II am calm
+slash Rob Reid and we dispelled our e ID
+I'll remind you that navall was also
+featured in my last bonus episode for
+patreon backers this was back on March
+1st and it is eternally available to all
+who support this show at a level of $5
+per month or more that conversation runs
+a half hour or so and concerns the
+history and objectives on the vols
+agenda-setting startup AngelList
+now something cool that should hopefully
+be available to everybody the four
+articles I wrote from medium calm which
+triggered this great conversation with
+navall medium posted those pieces back
+in October they also paid me quite
+generously to write them which got them
+a one-year exclusive to run them behind
+their pay wall now everyone gets
+remarkably friction free access to a few
+Members Only articles on medium each
+month so if you're not a medium
+subscriber you may already be able to
+access at least a couple of these
+articles without any help from me
+but if you've used up your monthly
+allotment of free articles already
+medium tells me that they've just
+implemented a really cool workaround
+which we can
+I'll use which is if I tweet a link to
+an article that's behind the paywall
+anyone clicking on that link from
+Twitter should be able to access the
+articles seamlessly whether they are a
+medium subscriber or not now this is a
+new system for medium it's a little more
+than a week old as I'm recording this
+and I haven't yet tested it so I can't
+guarantee it will work but an incredibly
+reliable person who works for medium
+told me it will so I think the odds are
+really high so I'll be tweeting these
+four links over the next two days not
+all at once because I don't know
+overwhelm your feed so in other words
+between now and when I post part two of
+my interview with navall all four of
+them will go up and they'll be
+conveniently available at my Twitter
+account which is at Rob underscore read
+re ID as for what's coming up in the
+show's main feed I have two fantastic
+guests joining us in April the first
+will be Stanford immunologist Carr Enid
+o Kerry is among the world's leading
+experts and the mysterious epidemic of
+food allergies which are now afflicting
+several hundred percent more people than
+they affected just a few decades ago
+Kerry seems to be on a path to not only
+cracking the mechanisms and causes
+behind this grim trend but hopefully
+also to finding safe and lasting cures
+for sufferers immunology is a
+fascinating field Kerry herself is
+fascinating and I hope that you will
+join us also coming up Berkeley AI
+professor Stuart Russell of course you
+just heard navall and I discuss Stewart
+briefly in this interview and as I
+mentioned in the interview he quite
+literally wrote the book on artificial
+intelligence in that over a thousand
+universities used the textbook he
+co-authored to teach the foundations of
+AI programming to computer science
+students Stewart and the broader AI
+community have not created a monster yet
+but like novel and I Stewart is deeply
+concerned about the long-term risks that
+AI could pose to humanity
+unlike many of the folks who have
+sounded the alarm on this front he's
+also a profoundly informed denizen of
+the innermost sanctum of the global AI
+community he is thoughtfully
+persuasively and courageously on the
+record about his concerns which he will
+present to the world
+in an amazing book which has expected
+this autumn he will preview his core
+arguments for us in her upcoming
+conversation
+he'll also teach us a ton about
+artificial intelligence and how it works
+I hope you'll join us
+[Music]
+[Music]

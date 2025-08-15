@@ -1,0 +1,22 @@
+Nov 10 2021
+If You Can’t Program It, You Haven’t Understood It
+Evolutionary algorithms don’t produce living beings
+0:42
+Get podcast
+Apple
+Google
+Overcast
+Spotify
+YouTube
+Download
+Nov 10 2021
+Brett:
+These are all uncertain hypotheses, but we also have to keep in mind that there’s so much about evolution by natural selection that we don’t know.
+David Deutsch has this little quip, “
+If you can’t program it, you haven’t understood it.
+”
+In the case of AGI, this means we can’t program it because we don’t understand this idea of general intelligence.
+The same happens to be true of evolution by natural selection. There are things called
+evolutionary algorithms
+, but this is not programming evolution by natural selection. This is not being able to create artificial entities inside of a computer that, when subject to actual environmental pressures, are able to evolve towards this increasing complexity.
+Related

@@ -1,0 +1,75 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+The fundamental idea behindFarnam Streetis to learn to think across disciplines and synthesize, using ideas in combination to solve problems in novel ways.
+
+An easy example would be to take afundamental idea of psychologylike the concept of a near-miss (deprival super-reaction) and use it to help explain the success of a gambling enterprise. Or, similarly, using the idea of the endowment effect to help explain why lotteries are a lot more successful if you allow people to choose their own numbers. Sometimes we take ideas from hard science, like the idea ofrunaway feedback(think of a nuclear reaction gaining steam), to explain why small problems can become large problems or small advantages can become large ones.
+
+This kind of reductionism and synthesis helps one understand the world at a fundamental level and solve new problems.
+
+We’re sometimes asked about untapped ways that this thinking can be applied. In hearing this, it occasionally seems that people fall into the trap of believingall of the great cross-disciplinary thinking has been done. Or maybe even that all of the greatthinkinghas been done, period.
+
+
+
+Harvard psychologistSteven Pinkeris here to say we have a long way to go.
+
+We’ve written before about Pinker’s ideas ona broad educationandon writing, but he’s also got a great essay onEdge.orgcalledWriting in the 21st Centurywherein he addresses some of the central concepts of his book on writing —The Sense of Style. While the book’s ideas are wonderful, later in the article he moves to a more general point useful for our purposes:Systematic application of the “harder” sciences to the humanities is a huge untapped source of knowledge.
+
+He provides some examples that are fascinating in their potential:
+
+This combination of science and letters is emblematic of what I hope to be a larger trend we spoke of earlier,namely the application of science, particularly psychology and cognitive science, to the traditional domains of humanities. There’s no aspect of human communication and cultural creation that can’t benefit from a greater application of psychology and the other sciences of mind. We would have an exciting addition to literary studies, for example, if literary critics knew more about linguistics.Poetry analysts could apply phonology (the study of sound structure) and the cognitive psychology of metaphor. An analysis of plot in fiction could benefit from a greater understanding of the conflicts and confluences of ultimate interests in human social relationships. The genre of biography would be deepened by an understanding of the nature of human memory, particularly autobiographical memory. How much of the memory of our childhood is confabulated? Memory scientists have a lot to say about that. How much do we polish our image of ourselves in describing ourselves to others, and more importantly, recollecting our own histories? Do we edit our memories in an Orwellian manner to make ourselves more coherent in retrospect? Syntax and semantics are relevant as well. How does a writer use the tense system of English to convey a sense of immediacy or historical distance?
+
+In music the sciences of auditory and speech perception have much to contribute to understanding how musicians accomplish their effects. The visual arts could revive an old method of analysis going back to Ernst Gombrich and Rudolf Arnheim in collaboration with the psychologist Richard Gregory. Indeed, even the art itself in the 1920s was influenced by psychology, thanks in part to Gertrude Stein, who as an undergraduate student of William James did a wonderful thesis on divided attention, and then went to Paris and brought the psychology of perception to the attention of artists like Picasso and Braque. Gestalt psychology may have influenced Paul Klee and the expressionists. Since then we have lost that wonderful synergy between the science of visual perception and the creation of visual art.
+
+Going beyond the arts, the social sciences, such as political science could benefit from a greater understanding of human moral and social instincts, such as the psychology of dominance, the psychology of revenge and forgiveness, and the psychology of gratitude and social competition. All of them are relevant, for example, to international negotiations. We talk about one country being friendly to another or allying or competing, but countries themselves don’t have feelings. It’s the elites and leaders who do, and a lot of international politics is driven by the psychology of its leaders.
+
+In this short section alone, Pinker offers realistically that we can apply:
+
+Turns out, there’s ahugeamount of thinking left to be done. Effectively, Pinker is asking us to imitate the scientistLinus Pauling, who sought to systematically understand chemistry by using the next most fundamental discipline, physics, an approach which led to great breakthroughs and a consilience of knowledge in the two fields which is taken for granted in modern science.
+
+Even if we’re not trying to make great scientific advances, think about how we could apply this idea to all of our lives. Fields like basic mathematics, statistics, biology, physics, and psychology provide deep insight into the “higher level” functions of humanity like law, medicine, politics, business, and social groups. Or, as Munger has put it,“When you get down to it, you’ll find worldly wisdom looks pretty darn academic.”And it isn’t as hard as it sounds: We don’t need to understand the deep math ofrelativityto grasp the idea that two observers can see the same event in a different way depending on perspective. The rest of the world’s models are similar, although havingsomemathematical fluency is necessary.
+
+Pinker, like Munger, doesn’t stop there. He also believes in what Munger calls theethos of hard science, which is a way of rigorously considering the problems of the practical world.
+
+Even beyond applying the findings of psychology and cognitive science and social and affective neuroscience, it’sthe mindset of science that ought to be exported to cultural and intellectual life as a whole. That consists in increased skepticism and scrutiny about factual conventional wisdom: How much of what you think is true really is true if you go to the numbers? For me this has been a salient issue in analyzing violence, because the conventional wisdom is that we’re living in extraordinarily violent times.
+
+But if you take into account the psychology of risk perception, as pioneered by Daniel Kahneman, Amos Tversky, Paul Slovic, Gerd Gigerenzer, and others, you realize that the conventional wisdom is systematically distorted by the source of our information about the world, namely the news. News is about the stuff that happens; it’s not about the stuff that doesn’t happen. Human risk perception is affected by memorable examples, according to Tversky and Kahneman’s availability heuristic. No matter what the rate of violence is objectively, there are always enough examples to fill the news. And since our perception of risk is influenced by memorable examples, we’ll always think we’re living in violent times. It’s only when you apply the scientific mindset to world events, to political science and history, and try to count how many people are killed now as opposed to ten years ago, a hundred years ago, or a thousand years ago that you get an accurate picture about the state of the world and the direction that it’s going, which is largely downward.That conclusion only came from applying an empirical mindset to the traditional subject matter of history and political science.
+
+Nassim Taleb has been on a similar hunt for a long time (although, amusingly, he doesn’t like Pinker’sbook on violenceat all). The question is relatively straightforward:How do we know what we know?Traditionally, what weknowhas simply been based on what we cansee, something now called theavailability bias. In other words, because we see our grandmother live to 95 years old while eating carrots every day, we think carrots prevent cancer. (A conflation ofcorrelationandcausation.)
+
+But Pinker and Taleb call for a higher standard calledempiricism, which requires pushing beyond anecdote into an accumulation of sound data to support a theory, withdisconfirming examplesweighted as heavily as confirming ones. This shift from anecdote to empiricism led humanity to make some of its greatest leaps of understanding, yet we’re still falling into the trap regularly, an outcome which itself can be explained by evolutionary biology and modern psychology. (Hint: It’s in the deep structure of our minds to extrapolate.)
+
+Pinker continues with a claim that Munger would dearly appreciate:The search for explanations is how we push into new ideas.The deeper we push, the better we understand.
+
+The other aspect of the scientific mindset that ought to be exported to the rest of intellectual life is the search for explanations. That is, not to just say that history is one damn thing after another, that stuff happens, and there’s nothing we can do to explain why, but to relate phenomena to more basic or general phenomena … and to try to explain those phenomena with still more basic phenomena. We’ve repeatedly seen that happen in the sciences, where, for example, biological phenomena were explained in part at the level of molecules, which were explained by chemistry, which was explained by physics.
+
+There’s no reason that that this process of explanation can’t continue.Biology gives us a grasp of the brain, and human nature is a product of the organization of the brain, and societies unfold as they do because they consist of brains interacting with other brains and negotiating arrangements to coordinate their behavior, and so on.
+
+This idea certainly takes heat. The biologist E.O. Wilson calls itConsilience, and has gone as far as saying that all human knowledge can eventually be reduced to extreme fundamentals like mathematics and particle physics. (Leading to something likeThe Atomic Explanation of the Civil War.)
+
+Whether or not you take it to such an extreme depends on your boldness and your confidence in the mental acuity of human beings. But even if you think Wilson is crazy, you can still learn deeply from the more fundamental knowledge in the world. This push to reduce things to their simplest explanations (but not simpler) is how we array all new knowledge and experience on a latticework of mental models.
+
+For example, instead of taking Warren Buffett’s dictum that markets are irrational on its face, try to understand why. What about human nature and the dynamics of human groups leads to that outcome? What about biology itself leads to human nature? And so on. You’ll eventually hit a wall, that’s a certainty, but the further you push, the more fundamentally you understand the world. Elon Musk calls thisfirst principles thinkingand credits it with helping him do things in engineering and business that almost everyone considered impossible.
+
+***
+
+From there, Pinker concludes with a thought that hits near and dear to our hearts:
+
+There is no “conflict between the sciences and humanities,” or at least there shouldn’t be. There should be no turf battle as to who gets to speak about what matters. What matters are ideas.We should seek the ideas that give us the deepest, richest, best-informed understanding of the human condition, regardless of which people or what discipline originates them.That has to include the sciences, but it can’t come only from the sciences. The focus should be on ideas, not on people, disciplines, or academic traditions.
+
+Still Interested?Startbuilding your mental modelsand read somemore Pinkerfor more goodness.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

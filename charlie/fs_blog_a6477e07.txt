@@ -1,0 +1,165 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+We automatically connect a stimulus (thing/person) with pain (fear) or pleasure (hope). As pleasure seeking animals, we seek out positive associations and attempt to remove negative ones. This happens when we experience the positive or negative consequences of a stimulus. The morevivid the event, the easier it is to remember. Brands (including people) attempt to influence our behavior by associating with positive things.
+
+***
+
+Our life and memory revolve around associations. The smell of a good lunch makes our stomach growl, the songs we hear remind us about the special times that we have had and horror movies leave us with goosebumps.
+
+These natural, uncontrolled responses upon a specific signal are examples ofclassical conditioning. Classical conditioning, or in simple terms — learning by association, was discovered by a Russian scientistIvan Petrovich Pavlov. Pavlov was a physiologist whose work on digestion in dogs won him aNobel Prize in 1904.
+
+In the course of his work in physiology, Pavlov made an accidental observation that dogs started salivating even before their food was presented to them.
+
+With repeated testing, he noticed that the dogs began to salivate in anticipation of a specific signal, such as the footsteps of their feeder or if conditioned that way, even after the sound of a tone.
+
+Pavlov’s genius lay in his ability to understand the implications of his discovery. He knew that dogs have a natural reflex of salivating to food but not to footsteps or tones. He was on to something. Pavlov realized that, if coupling the two signals together induced the same reactive response in dogs, then other physical reactions may be inducible via similar associations.
+
+In effect, withPavlovian association, we respond to a stimulus because we anticipate what comes next: the reality that would make our response correct.
+
+Now things get interesting.
+
+Suppose we want to condition a dog to salivate to a tone. If we sound the tone without having taught the dog to specifically respond, the ears of the dog might move, but the dog will not salivate. The tone is just a neutral stimulus, at this point. On the other hand, food for the dog is an unconditioned stimulus, because it always makes the dog salivate.
+
+If we now pair the arrival of food and the sound of the tone, we elicit a learning trial for the dog. After several such trials, the association develops and is strong enough to make the dog salivate even though there is no food. The tone, at this point, has become a conditioned stimulus. This is learned hope. Learned fear is more easily acquired.
+
+The speed and degree to which the dog learns to display the response will depend on several factors.
+
+The best results come when the conditioned stimulus is paired with the unconditioned one several times. This develops a strong association. It takes time for our brains to detect specific patterns.
+
+Classical conditioning involves automatic or reflexive responses and not voluntary behavior.
+
+There are also cases to which this principle does not apply. When we undergo high impact events, such as a car crash, robbery, or firing from a job, a single event will be enough to create a strong association.
+
+One of our goals should be to understand how the world works. A necessary condition for this is understanding our problems. However, sometimes people are afraid to tell us problems.
+
+This is also known atThe Pavlovian Messenger Syndrome.
+
+The original messenger wasn’t shot, he was beheaded. InPlutarch’s Lives, we find:
+
+The first messenger, that gave notice of Lucullus’ coming was so far from pleasing Tigranes that, he had his head cut off for his pains; and no man dared to bring further information. Without any intelligence at all, Tigranes sat while war was already blazing around him, giving ear only to those who flattered him.
+
+The number of times that happens in an organization is countless. A related sentiment exists inAntigone by Sophoclesas “No one loves the messenger who brings bad news.”
+
+InA Lesson on Worldly Wisdom, Charlie Munger said:
+
+If people tell you what you really don’t want to hear — what’s unpleasant —there’s an almost automatic reaction of antipathy. You have to train yourself out of it. It isn’t foredestined that you have to be this way. But you will tend to be this way if you don’t think about it.
+
+InAntony and Cleopatra, when told Antony has married another, Cleopatra threatens to treat the messenger poorly, eliciting the response “Gracious madam, I that do bring the news made not the match.”
+
+And the advice “Don’t shoot the messenger” appears inHenry IV, Part 2.
+
+If you happen to be the messenger, it might be best to deliver the news first via and appear in person later to minimize the negative feelings towards you.
+
+If, on the other hand, you’re the receiver of bad news, it’s best to follow the advice of Warren Buffett, who comments on being informed of bad news:
+
+We only give a couple of instructions to people when they go to work for us: One is to think like an owner. And the second is to tell us bad news immediately — because good news takes care of itself. We can take bad news, but we don’t like it late.
+
+Pavlov showed that sequence matters: the association is most clear to us when the conditioned stimulus appears first and remains after the unconditioned stimulus is introduced.
+
+Unsurprisingly, our learning responses become weaker if the two stimuli are introduced at the same time and are even slower if they are presented in reverse (unconditioned then conditioned stimulus) order.
+
+There’s no doubt that classical conditioning influences what attracts us and even arouses us. Most of us will recognize that images and videos of kittens will make our hearts softer and perfume or a look from our partner can make our hearts beat faster.
+
+Charlie Munger explains the case of building Coca-Cola, whose marketing and product strategy is built on strong foundations of conditioning.
+
+Mungerwalks us through the creationof the brand by using conditioned reflexes:
+
+The neural system of Pavlov’s dog causes it to salivate at the bell it can’t eat. And the brain of man yearns for the type of beverage held by the pretty woman he can’t have. And so, Glotz, we must use every sort of decent, honorable Pavlovian conditioning we can think of. For as long as we are in business, our beverage and its promotion must be associated in consumer minds with all other things consumers like or admire.
+
+By repeatedly pairing a product or brand with a favorable impression, we can turn it into a conditioned stimulus that makes us buy.
+
+This goes even beyond advertising — conditioned reflexes are also encompassed in Coca Cola’s name. Munger continues:
+
+Considering Pavlovian effects, we will have wisely chosen the exotic and expensive-sounding name “Coca-Cola,” instead of a pedestrian name like “Glotz’s Sugared, Caffeinated Water.”
+
+And even texture and taste:
+
+And we will carbonate our water, making our product seem like champagne, or some other expensive beverage, while also making its flavor better and imitation harder to arrange for competing products.
+
+Combining these and other clever, non-Pavlovian techniques lead to what Charlie Munger calls the lollapalooza effect, causing so many consumers to buy and making Coca-Cola an excellent business for over a century.
+
+While Coca-Cola has some of its advantages rooted in positive Pavlovian association, there are cases when associations do no good. In childhood, many of us were afraid of doctors or dentists, because we quickly learned to associate these visits with pain.
+
+While we may have lost our fear of dentists, by now many of us experience similarly unpleasant feelings when opening a letter from the police or anticipating a negative performance review.
+
+Constructive criticism can be one of life’s great gifts and an engine for improvement, however, before we can benefit from it, we must be prepared that some of it will hurt. If we are not at least implicitly aware of the conditioning phenomena and have people telling us what we don’t want to hear, we may develop a certain disliking to those delivering the news.
+
+The number of people in leadership positions unable to detach the information from the messenger can be truly surprising. InThe Psychology of Human Misjudgement, Munger tells about the ex-CEO of CBS, William Paley, who had a blind spot for ideas that did not align with his views.
+
+Television was dominated by one network-CBS-in its early days. And Paley was a god. But he didn’t like to hear what he didn’t like to hear, and people soon learned that. So they told Paley only what he liked to hear. Therefore, he was soon living in a little cocoon of unreality and everything else was corrupt although it was a great business.
+
+In the case of Paley, his inability to take criticism and recognize incentives was soon noticed by those around him, and it resulted in sub-optimal outcomes.
+
+… If you take all the acquisitions that CBS made under Paley after the acquisition of the network itself, with all his dumb advisors-his investment bankers, management consultants, and so forth, who were getting paid very handsomely-it was absolutely terrible.
+
+Paley is by no means the only example of such dysfunction in the high ranks of business. In fact, the higher up you are in an organization, the more people fear telling you the truth. Providing sycophants with positive reinforcement will only encourage this behavior and ensure you’re insulated from reality.
+
+To make matters worse, as we move up in seniority, we also tend to become more confident about our own judgments being correct. This is a dangerous tendency, but we need not be bound by it.
+
+We can train ourselves out of it with reflection and effort.
+
+No doubt that learning via associations is crucial for our survival — it alerts us about the arrival of an important event and gives us time to prepare for the appropriate response.
+
+Sometimes, however, learned associations do not serve us and our relationships well. We find that we have become subject to negative responses in others or recognize unreasonable responses in ourselves.
+
+Awareness and understanding may serve as good first steps. Yet, even when taken together, they may not be sufficient to unlearn some of the more stubborn associations. In such cases, we may want to try several known techniques to desensitize them or reverse their negative effects.
+
+One way to proceed is viahabituation.
+
+When we habituate someone, we blunt down their conditioned response by exposing them to the specific stimulus pairing continuously. After a while, they simply stop responding. This loss of interest is a natural learning response that allows us to conserve energy for stimuli that are unfamiliar and therefore draw the attention of the mind.
+
+Continuous exposure can yield results as powerful as becoming fully indifferent to stimuli as strong as violence and death.
+
+InMan’s Search For Meaning, Viktor Frankl, a holocaust survivor, tells about experiencing absolute desensitization to the most horrific events imaginable:
+
+Disgust, horror and pity are emotions that our spectator [Frankl] could not really feel any more. The sufferers, the dying and the dead, became such commonplace sights to him after a few weeks of camp life that they could not move him any more.
+
+Of course, habituation can also serve good motives, such as getting ourselves over fear, overcoming trauma, or harmonizing relationships by making each side less sensitive to the other side’s vices. However, as powerful as habituation is, we must recognize its limitations.
+
+If we want someone to respond differently rather than become indifferent, flooding them with stimuli will not help us achieve our aims.
+
+Consider the case for teaching children – the last thing we would want is to make them indifferent to what we say. Therefore instead of habituation, we should employ another strategy.
+
+A frequently used technique in coaching,exposure therapy, involves cutting back our criticism for a while and reintroducing it by gradually lowering the person’s threshold for becoming defensive.
+
+The key difference between exposure therapy and habituation lies in being subtle rather than blunt.
+
+If we try to avoid forming negative associations and achieve behavioral change at the same time, we will always want the positive vs. negative feedback ratio to be in favor of the positive. This is why we so often provide feedback in a “sandwich,” where a positive remark is followed by what must be improved and then finished with another positive remark.
+
+Aversion therapyis the exact opposite of exposure therapy.
+
+Aversion therapy aims to exchange a positive association with a negative one within a few high impact events. For example, some parents teach out a sweet tooth by forcing their children to consume an insurmountable amount of sweets in one sitting under their supervision.
+
+While ethically questionable this idea is not completely unfounded.
+
+If the experience is traumatic enough, the positive associations of, for example, a sugar high, will be replaced by the negative association of nausea and sickness.
+
+This controversial technique was used in experiments with alcoholics. While effective in theory, it was known to yield only mixed results in practice, with patients often resorting back to past conditions over time.
+
+This is also why there are gross and terrifying pictures on cigarette packages in many countries.
+
+Overall, creating habits that last or permanently breaking them can be a tough mission to embark upon.
+
+In the case of feedback, we may try to associate our presence with positive stimuli, which is why building great first impressions and appearing friendly matters.
+
+When thinking about this bias it’s important to keep in mind that: (1) people are neither good nor bad because we associate something positive or negative to them; (2) bad news should be sought immediately and your reaction to it will dictate how much of it you hear; (3) to end a certain behavior or habit you can create an association with a negative emotion.
+
+***
+
+Still Curious?Checkout theFarnam Street Latticework of Mental Models.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

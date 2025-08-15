@@ -1,0 +1,103 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+One of the most fascinating discoveries of modern neuroscience is thatthe brain is a collection of distinct modules (grouped, highly connected neurons) performing specific functionsrather than a unified system.
+
+We’ll get to why this is so important when we introduce The Interpreter later on.
+
+This modular organization of the human brain is considered one of the key properties that sets us apart from animals. So much so, that it has displaced the theory that it stems from disproportionately bigger brains for our body size.
+
+As neuroscientist Dr. Michael Gazzaniga points out in his wonderful bookWho’s In Charge? Free Will and the Science of the Brain, in terms of numbers of cells, the human brain is a proportionately scaled-up primate brain: It is what is expected for a primate of our size and does not possess relatively more neurons. They also found that the ratio between nonneuronal brain cells and neurons in human brain structures is similar to those found in other primates.
+
+So it’s not the size of our brains or the number of neurons, it’s about thepatterns of connectivity. As brains scaled up from insect to small mammal to larger mammal, they had to re-organize, for the simple reason that billions of neurons cannot all be connected to one another — some neurons would be way too far apart and too slow to communicate. Our brains would be gigantic and require a massive amount of energy to function.
+
+Instead, our brain specializes and localizes. As Dr. Gazzaniga puts it, “Small local circuits, made of an interconnected group of neurons, are created to perform specific processing jobs and become automatic.” This is an important advance in our efforts to understand the mind.
+
+Dr. Gazzaniga is most famous for his work studying split-brain patients, where many of the discoveries we’re talking about were refined and explored. Split-brain patients give us a natural controlled experiment to find out “what the brain is up to” — and more importantly, how it does its work. What Gazzaniga and his co-researchers found was fascinating.
+
+We experience our conscious mind as a single unified thing. But if Gazzaniga & company are right, it most certainly isn’t. How could a “specialized and localized” modular brain give rise to the feeling of “oneness” we feel so strongly about? It would seem there are too many things going on separately and locally:
+
+Our conscious awareness is the mere tip of the iceberg of nonconscious processing. Below our level of awareness is the very busy nonconscious brain hard at work. Not hard for us to imagine are the housekeeping jobs the brain constantly struggles to keep homeostatic mechanisms up and running, such as our heart beating, our lungs breathing, and our temperature just right. Less easy to imagine, but being discovered left and right over the past fifty years, are the myriads of nonconscious processes smoothly putt-putting along. Think about it.
+
+To begin with there are all the automatic visual and other sensory processing we have talked about. In addition, our minds are always being unconsciously biased by positive and negative priming processes, and influenced by category identification processes. In our social world, coalitionary bonding processes, cheater detection processes, and even moral judgment processes (to name only a few) are cranking away below our conscious mechanisms. With increasingly sophisticated testing methods, the number and diversity of identified processes is only going to multiply.
+
+So what’s going on? Who’s controlling all this stuff? The idea is that the brain works more like traffic than a car. No one is controlling it!
+
+It’s due to a principle of complex systems calledemergence, and it explains why all of these “specialized and localized” processes can give rise to what seems like a unified mind.
+
+The key to understanding emergence is to understand that there are different levels of organization. My favorite analogy is that of the car, which I have mentioned before. If you look at an isolated car part, such as a cam shaft, you cannot predict that the freeway will be full of traffic at 5:15 PM. Monday through Friday. In fact, you could not even predict the phenomenon of traffic would even occur if you just looked at a brake pad. You cannot analyze traffic at the level of car parts. Did the guy who invented the wheel ever visualize the 405 in Los Angeles on Friday evening? You cannot even analyze traffic at the level of the individual car. When you get a bunch of cars and drivers together, with the variables of location, time, weather, and society, all in the mix, then atthatlevel you can predict traffic. A new set of laws emerge that aren’t predicted from the parts alone.
+
+Emergence, Gazzaniga goes on, is how to understand the brain. Sub-atomic particles, atoms, molecules, cells, neurons, modules, the mind, and a collection of minds (a society) are all different levels of organization, with their own laws that cannot necessarily be predicted from the properties of the level below.
+
+The unified mind we feel present emerges from the thousands of lower-level processes operating in parallel. Most of it is so automatic that we have no idea it’s going on. (Not only does the mind work bottom-up but top down processes also influence it. In other words, what you think influences what you see and hear.)
+
+And when we do start consciously explaining what’s going on — or trying to — we start getting very interesting results. The part of our brain that seeks explanations and infers causality turns out to be a quirky little beast.
+
+Let’s say you were to see a snake and jump back, automatically and quickly. Did you choose that action? If asked, you’d almost certainly say so, but the truth is more complicated.
+
+If you were to have asked me why I jumped, I would have replied that I thought I’d seen a snake. That answer certainly makes sense, but the truth is I jumped before I was conscious of the snake: I had seen it, I didn’t know I had seen it. My explanation is from post hoc information I have in my conscious system: The facts are that I jumped and that I saw a snake. The reality, however, is that I jumped way before (in a world of milliseconds) I was conscious of the snake. I did not make a conscious decision to jump and then consciously execute it. When I answered that question, I was, in a sense, confabulating: giving a fictitious account of a past event, believing it to be true. The real reason I jumped was an automatic nonconscious reaction to the fear response set into play by the amygdala. The reason I would have confabulated is that our human brains are driven to infer causality. They are driven to explain events that make sense out of the scattered facts. The facts that my conscious brain had to work were that I saw a snake, and I jumped. It did not register that I jumped before I was consciously aware of the snake.
+
+Here’s how it works: A thing happens, we react, we feel something about it, and then we go on explaining it. Sensory information is fed into an explanatory module which Gazzaniga callsThe Interpreter, and studying split-brain patients showed him that it resides in the left hemisphere of the brain.
+
+With that knowledge, Gazzaniga and his team were able to do all kinds of clever things to show how ridiculous our Interpreter can often be, especially in split-brain patients.
+
+Take this case of a split-brain patient unconsciously making up a nonsense story when its two hemispheres are shown different images and instructed to choose a related image from a group of pictures. Read carefully:
+
+We showed a split-brain patient two pictures: A chicken claw was shown to his right visual field, so the left hemisphere only saw the claw picture, and a snow scene was shown to the left visual field, so the right hemisphere saw only that. He was then asked to choose a picture from an array of pictures placed in fully view in front of him, which both hemispheres could see.
+
+The left hand pointed to a shovel (which was the most appropriate answer for the snow scene) and the right hand pointed to a chicken (the most appropriate answer for the chicken claw). Then we asked why he chose those items. His left-hemisphere speech center replied, “Oh, that’s simple. The chicken claw goes with the chicken,” easily explaining what it knew. It had seen the chicken claw.
+
+Then, looking down at his left hand pointing to the shovel, without missing a beat, he said, “And you need a shovel to clean out the chicken shed.” Immediately, the left brain, observing the left hand’s response without the knowledge of why it had picked that item, put into a context that would explain it. It interpreted the response in a context consistent with what it knew, and all it knew was: Chicken claw. It knew nothing about the snow scene, but it had to explain the shovel in his left hand. Well, chickens do make a mess, and you have to clean it up. Ah, that’s it! Makes sense.
+
+What was interesting was that the left hemisphere did not say, “I don’t know,” which truly was the correct answer. It made up a post hoc answer that fit the situation. It confabulated, taking cues from what it knew and putting them together in an answer that made sense.
+
+The left hand, responding to the snow Gazzaniga covertly showed the left visual field, pointed to the snow shovel. This all took place in the right hemisphere of the brain (think of it like an “X” — the right hemisphere controls the left side of the body and vice versa). But since it was a split-brain patient, the left hemisphere was not given any of the information about snow.
+
+And yet, the left hemisphere is where the Interpreter resides! So what did the Interpreter do, asked to explain why the shovel was chosen seeing but having no information about snow, only about chickens? It made up a story about shoveling chicken coops!
+
+Gazzaniga goes on to explain several cases of being able to fool the left brain Interpreter over and over, and in often subtle ways.
+
+***
+
+This left-brain module is what we use to explain causality, seeking it for its own sake. The Interpreter, like all of our mental modules, is a wonderful adaption that’s led us to understand and explain causality and the world around us, to our great advantage, but as any good student of social psychology knows, we’ll simply make up a plausible story if we have nothing solid to go on —leading to a narrative fallacy.
+
+This leads to odd results that seem pretty maladaptive, like our tendency to gamble like idiots. (In his famous talk,The Psychology of Human Misjudgment, Charlie Munger calls this mis-gambling compulsion.) But outside of the artifice of the casino, the Interpreter works quite well.
+
+But here’s the catch. In the words of Gazzaniga, “The interpreter is only as good as the information it gets.”
+
+The interpreter receives the results of the computations of a multitude of modules. It does not receive the information that there are multitudes of modules. It does not receive the information about how the modules work. It does not receive the information that there is a pattern-recognition system in the right hemisphere. The interpreter is a module that explains events from the information it does receive.
+
+[…]
+
+The interpreter is receiving data from the domains that monitor the visual system, the somatosensory system, the emotions, and cognitive representations. But as we just saw above, the interpreter is only as good as the information it receives. Lesions or malfunctions in any one of these domain-monitoring systems leads to an array of peculiar neurological conditions that involve the formation of either incomplete or delusional understandings about oneself, other individuals, objects, and the surrounding environment, manifesting in what appears to be bizarre behavior. It no longer seems bizarre, however, once you understand that such behaviors are the result of the interpreter getting no, or bad, information.
+
+This can account for a lot of the ridiculous behavior and ridiculous narratives we see around us. The Interpreter must deal with what it’s given, and as Gazzaniga’s work shows, it can be manipulated and tricked. He calls it “hijacking” — and when the Interpreter is hijacked, it makes pretty bad decisions and generates strange explanations.
+
+Anyone who’s watched a friend acting hilariously when wearing a modern VR headset can see how easy it is to “hijack” one’s sensory perceptions even if the conscious brain “knows” that it’s not real. And of course, Robert Cialdini oncefamously described this hijacking processas a “click, whirr” reaction to social stimuli. It’s a powerful phenomenon.
+
+***
+
+What can we learn from this?
+
+The story of the multi-modular mind and the Interpreter module shows us that the brain does not have a rational “central command station” — your mind is at the mercy of what it’s fed. The Interpreter is constantly weaving a story of what’s going on around us, applying causal explanations to the data it’s being fed; doing the best job it can with what it’s got.
+
+This is generally useful: a few thousand generations of data has honed our modules to understand the world well enough to keep us surviving and thriving. The job of the brain is to pass on our genes. But that doesn’t mean that it’s always making optimal decisions in the modern world.
+
+We must realize that our brain can be fooled; it can be tricked, played with, and we won’t always realize it immediately. Our Interpreter will weave a plausible story — that’s it’s job.
+
+For this reason,Charlie Munger employs a “two-track” analysis: What are the facts; and where is my brain fooling me? We’re wise to follow suit.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

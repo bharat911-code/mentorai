@@ -1,0 +1,91 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+Despite his best efforts and long hours, Nobel-Prize winning physicist and professor Carl Wieman grewfrustratedby his inability to teach and his students’ failure to learn.
+
+When I first taught physics as a young assistant professor, I used the approach that is all too common when someone is called upon to teach something. First I thought very hard about the topic and got it clear in my own mind. Then I explained it to my students so that they would understand it with the same clarity I had.
+
+At least that was the theory. But I am a devout believer in the experimental method, so I always measure results. And whenever I made any serious attempt to determine what my students were learning, it was clear that this approach just didn’t work. An occasional student here and there might have understood my beautifully clear and clever explanations, but the vast majority of students weren’t getting them at all.
+
+In a traditional classroom, the teacher stands at the front of the class explaining what is clear in their mind to a group of passive students.
+
+Yet this pedagogical strategy doesn’t positively impact retention of information from lecture, improve understanding of basic concepts, or affect beliefs (that is, does new information change your belief about how something works).
+
+Alison Gopnik, says “I don’t think there’s any scientist who thinks the way we typically do university courses has anything to do with the best methods for getting people to learn. ”
+
+Given that lectures were devised as a means of transferring knowledge from one to many, it seems obvious that we would ensure that people retain the information they are consuming.
+
+Wieman mentions three studies, the last of which perfectly emphasizes the disturbing point that passive lectures do not seem to work.
+
+In a final example, a number of times Kathy Perkins and I have presented some non-obvious fact in a lecture along with an illustration, and then quizzed the students 15 minutes later on the fact. About 10 percent usually remember it by then. To see whether we simply had mentally deficient students, I once repeated this experiment when I was giving a departmental colloquium at one of the leading physics departments in the United States. The audience was made up of physics faculty members and graduate students, but the result was about the same—around 10 percent.
+
+Wieman argues these results are likely generic and make a lot of sense if you consider the extremely limited capacity of short-term memory.
+
+The research tells us that the human brain can hold a maximum of about seven different items in its short-term working memory and can process no more than about four ideas at once. Exactly what an “item” means when translated from the cognitive science lab into the classroom is a bit fuzzy. But the number of new items that students are expected to remember and process in the typical hour-long science lecture is vastly greater.
+
+The results were similarly disturbing when students were tested to determine understanding of basic concepts. More instruction wasn’t helping students advance from novice to expert. In fact, the data indicated the opposite: students had more novice-like beliefs after they completed a course than they had when they started.
+
+We’re left with apuzzleabout teaching. The teachers, unquestionably experts in their subjects, are not improving the learning outcomes: students are not learning the concepts. How can this be?
+
+Research on learning provides some answers.
+
+Cognitive scientists have spent a lot of time studying what constitutes expert competence in any discipline, and they have found a few basic components. The first is that experts have lots of factual knowledge about their subject, which is hardly a surprise. But in addition,experts have a mental organizational structure that facilitates the retrieval and effective application of their knowledge.Third, experts have an ability to monitor their own thinking (“metacognition”), at least in their discipline of expertise. They are able to ask themselves, “Do I understand this? How can I check my understanding?”
+
+A traditional science instructor concentrates on teaching factual knowledge, with the implicit assumption that expert-like ways of thinking about the subject come along for free or are already present. But that is not what cognitive science tells us. It tells us instead that students need to develop these different ways of thinking by means of extended, focused mental effort. Also, new ways of thinking are always built on the prior thinking of the individual, so if the educational process is to be successful, it is essential to take that prior thinking into account.
+
+This is basic biology. Everything that constitutes “understanding” science and “thinking scientifically” resides in the long-term memory, which is developed via the construction and assembly of component proteins. So a person who does not go through this extended mental construction process simply cannot achieve mastery of a subject.
+
+This reminds me a lot of what Charlie Munger said onmental models:
+
+What is elementary, worldly wisdom? Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ‘em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form.
+
+You’ve got to have models in your head. And you’ve got to array your experience both vicarious and direct on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.
+
+What are the models? Well, the first rule is that you’ve got to have multiple models because if you just have one or two that you’re using, the nature of human psychology is such that you’ll torture reality so that it fits your models, or at least you’ll think it does…
+
+It’s like the old saying, ”To the man with only a hammer, every problem looks like a nail.”
+
+Students are not learning the basic concepts that experts rely on to organize and apply information. And they are not being aided in developing the mental framework – the latticework – they need to improve retrieval and application of knowledge. “So it makes perfect sense,” Wieman writes “that they are not learning to think like experts, even though they are passing science courses by memorizing facts and problem-solving recipes.”
+
+Improved teaching and learning
+
+A lot of educational and cognitive research can be reduced to this basic principle: People learn by creating their own understanding. But that does not mean they must or even can do it without assistance. Effective teaching facilitates that creation by getting students engaged in thinking deeply about the subject at an appropriate level and then monitoring that thinking and guiding it to be more expert-like.
+
+So what are a few examples of these strategies, and how do they reflect our increasing understanding of cognition?
+
+Reducing Cognitive Load
+
+The first way in which one can use research on learning to create better classroom practices addresses the limited capacity of the short-term working memory. Anything one can do to reduce cognitive load improves learning. The effective teacher recognizes that giving the students material to master is the mental equivalent of giving them packages to carry. With only one package, they can make a lot of progress in a hurry. If they are loaded down with many, they stagger around, have a lot more trouble, and can’t get as far. And when they experience the mental equivalent of many packages dumped on them at once, they are squashed flat and can’t learn anything.
+
+So anything the teacher can do to reduce that cognitive load while presenting the material will help. Some ways to do so are obvious, such as slowing down. Others include having a clear, logical, explicit organization to the class (including making connections between different ideas presented and connections to things the students already know), using figures where appropriate rather than relying only on verbal descriptions and minimizing the use of technical jargon. All these things reduce unnecessary cognitive demands and result in more learning.
+
+Addressing Beliefs
+
+A second way teachers can improve instruction is by recognizing the importance of student beliefs about science. This is an area my own group studies. We see that the novice/expert-like beliefs are important in a variety of ways—for example they correlate with content learning and choice of major. However, our particular interest is how teaching practices affect student beliefs. Although this is a new area of research, we find that with rather minimal interventions, a teacher can avoid the regression mentioned above.
+
+The particular intervention we have tried addresses student beliefs by explicitly discussing, for each topic covered, why this topic is worth learning, how it operates in the real world, why it makes sense, and how it connects to things the student already knows. Doing little more than this eliminates the usual significant decline and sometimes results in small improvements, as measured by our surveys. This intervention also improves student interest, because the beliefs measured are closely linked to that interest.
+
+Stimulating and Guiding Thinking
+
+My third example of how teaching and learning can be improved is by implementing the principle that effective teaching consists of engaging students, monitoring their thinking, and providing feedback. Given the reality that student-faculty interaction at most colleges and universities is going to be dominated by time together in the classroom, this means the teacher must make this happen first and foremost in the classroom.
+
+To do this effectively, teachers must first know where the students are starting from in their thinking, so they can build on that foundation. Then they must find activities that ensure that the students actively think about and process the important ideas of the discipline. Finally, instructors must have mechanisms by which they can probe and then guide that thinking on an ongoing basis. This takes much more than just mastery of the topic—it requires, in the memorable words of Lee Shulman, “pedagogical content knowledge.”
+
+Is arguing the path towards learning?
+
+I assign students to groups the first day of class (typically three to four students in adjacent seats) and design each lecture around a series of seven to 10 clicker questions that cover the key learning goals for that day. The groups are told they must come to a consensus answer (entered with their clickers) and be prepared to offer reasons for their choice. It is in these peer discussions that most students do the primary processing of the new ideas and problem-solving approaches. The process of critiquing each other’s ideas in order to arrive at a consensus also enormously improves both their ability to carry on scientific discourse and to test their own understanding.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

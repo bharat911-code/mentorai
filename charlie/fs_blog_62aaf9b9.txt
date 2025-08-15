@@ -1,0 +1,127 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+“The reliability that matters is not the simple reliability of one component of a system,but the final reliability of the total control system.”—Garrett Hardin
+
+***
+
+We learn from Engineering that critical systems often require back up systems to guarantee a certain level of performance and minimize downtime. These systems are resilient to adverse conditions and if one fails there is spare capacity or a backup system.
+
+A simple example where you want to factor in a large margin of safety is a bridge.David Dodd, a longtime colleague ofBenjamin Graham, observed“You build a bridge that 30,000-pound trucks can go across and then you drive 10,000-pound trucks across it. That is the way I like to go across bridges.”
+
+Looking at failure, we can see many insights into redundancy.
+
+There are many cases of failures where the presence of redundant systems would have averted catastrophe. On the other hand, there are cases of failure where the presence of redundancy caused failure.
+
+How can redundancy cause failure?
+
+First, in certain cases, the added benefits of redundancy are outweighed by the risks of added complexity. Since adding redundancy increases the complexity of a system, efforts to increase reliability and safety through redundant systems may backfire and inadvertently make systems more susceptible to failure. An example of how adding complexity to a system can increase the odds of failure can be found in the near-meltdown of the Femi reactor in 1996. This incident was caused by an emergency safety device which broke off and blocked a pipe stopping the flow of coolants into the reactor core. Luckily this was before the plant was active.
+
+Second, redundancy with people can lead to social diffusion where people always assume it was someone else who had the responsibility.
+
+Third, redundancy can lead to increasingly risky behavior.
+
+* * *
+
+InReliability Engineering for Electronic Design, Norman Fuqua gives a great introduction to the concept of redundancy.
+
+Websters defines redundancy as needless repetition. In reliability engineering, however, redundancy is defined as the existence of more than one means for accomplishing a given task. Thus all of these means must fail before there is a system failure.
+
+Under certain circumstance during system design, it may become necessary to consider the use of redundancy to reduce the probability of system failure–to enhance systems reliability–by providing more than one functional path or operating element in areas that are critically important to system success. The use of redundancy is not a panacea to solve all reliability problems, nor is it a substitute for good initial design. By its very nature, redundancy implies increased complexity, increased weight and space, increased power consumption, and usually a more complicated system …
+
+InSeeking Wisdom, Peter Bevelin mentioned some interesting quotes from Buffett and Munger that speak to the concept of redundancy/resilience from the perspective of business:
+
+Charlie MungerOf course you prefer a business that will prosper even if it is not managed well. We are not looking for mismanagement; we like the capacity to withstand it if we stumble into it….We try and operate so that it wouldn’t be too awful for us if something really extreme happened – like interest rates at 1% or interest rates at 20%… We try to arrange [our affairs] so that no matter what happens, we’ll never have to “go back to go.”
+
+Warren Buffett uses the concept of margin of safety for investing and insurance:We insist on a margin of safety in our purchase price. If we calculate the value of a common stock to be only slightly higher than its price, we’re not interested in buying. We believe this margin-of-safety principle, so strongly emphasized by Ben Graham, to be the cornerstone of investment success.
+
+David Dodd, on the same topic, writes:
+
+You don’t try to buy something for $80 million that you think is worth $83,400,000.
+
+Buffett on Insurance:
+
+If we can’t tolerate a possible consequence, remote though it may be, we steer clear of planting its seeds.
+
+The pitfalls of this business mandate an operating principle that too often is ignored: Though certain long-tail lines may prove profitable at combined ratios of 110 or 115, insurers will invariably find it unprofitable to price using those ratios as targets. Instead, prices must provide a healthy margin of safety against the societal trends that are forever springing expensive surprises on the insurance industry.
+
+Confuciuscomments:
+
+The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.
+
+Warren Buffett talked about redundancy from a business perspective at the 2009shareholder meeting:
+
+Question: You’ve talked a lot about opportunity-costs. Can you discuss more important decisions over the past year?
+
+Buffett: When both prices are moving and in certain cases intrinsic business value moving at a pace that’s far greater than we’ve seen – it’s tougher, more interesting and more challenging and can be more profitable. But, it’s a different task than when things were moving at more leisurely pace. We faced that problem in September and October. We want to always keep a lot of money around. We have so many extra levels of safety we follow at Berkshire.
+
+We got a call on Goldman on a Wednesday – that couldn’t have been done the previous Wednesday or the next Wednesday. We were faced with opportunity-cost – and we sold something that under normal circumstances we wouldn’t.
+
+Jonathan Bendor, writing inParallel Systems: Redundancy in Government, provides an example of how redundancy can reduce the risk of failure on cars.
+
+Suppose an automobile had dual breaking (sic) circuits: each circuit can stop the car, and the circuits operate independently so that if one malfunctions it does not impair the other. If the probability of either one failing is 1/10, the probability of both failing simultaneously is (1/10)^2, or 1/100. Add a third independent circuit and the probability of the catastrophic failure of no brakes at all drops to (1/10)^3, or 1/1,000.
+
+Airplane Design provides an insightful example. From thecode of federal regulations:
+
+The airplane systems and associated components, considered separately and in relation to other systems, must be designed so that the occurrence of any failure condition which would prevent the continued safe flight and landing of the airplane is extremely improbable, and the occurrence of any other failure conditions which would reduce the capacity of the airplane or the ability of the crew to cope with adverse operating conditions is improbable.
+
+* * *
+
+Ways redundancy can fail
+
+In The Problem of Redundancy Problem: Why More Nuclear Security Forces May Produce Less Nuclear Security, Scott Sagan writes:
+
+The first problem with redundancy is that adding extra components can inadvertently create a catastrophic common-mode error (a fault that causes all the components to fail). In complex systems, independence in theory (or in design) is not necessarily independence in fact. As long as there is some possibility of unplanned interactions between the components leading to common-mode errors, however, there will be inherent limits to the effectiveness of redundancy as a solution to reliability problems. The counterproductive effects of redundancy when extra components present even a small chance of producing a catastrophic common-mode error can be dramatic.
+
+This danger is perhaps most easily understood through a simple example from the commercial aircraft industry. Aircraft manufacturers have to determine how many engines to use on jumbo jets. Cost is clearly an important factor entering their calculations. Yet so is safety, since each additional engine on an aircraft both increases the likelihood that the redundant engine will keep the plane in the air if all others fail in flight and increases the probability that a single engine will cause an accident, by blowing up or starting a fire that destroys all the other engines and the aircraft itself.
+
+In (the image below) I assume that 40% of the time that each engine fails, it does so in a way (such as starting a catastrophic fire) that causes all the other engines to fail as well.
+
+Aircraft manufacturers make similar calculations in order to estimate how many engines would maximize safety. Boeing, for example, used such an analysis to determine that, given the reliability of modern jet engines, putting two engines on the Boeing 777, rather than three or more engines as exist on many other long-range aircraft, would result in lower risks of serious accidents.
+
+In more complex systems or organizations, however, it is often difficult to know when to stop adding redundant safety devices because of the inherent problem of predicting the probabilities of exceedingly rare events.
+
+…
+
+The second way in which redundancy can backfire is when diffusion of responsibility leads to “social shirking.”
+
+This common phenomenon—in which individuals or groups reduce their reliability in the belief that others will take up the slack—is rarely examined in the technical literature on safety and reliability because of a “translation problem” that exists when transferring redundancy theory from purely mechanical systems to complex organizations. In mechanical engineering, the redundant units are usually inanimate objects, unaware of each other’s existence. In organizations, however, we are usually analyzing redundant individuals, groups, or agencies, backup systems that are aware of one another.
+
+…
+
+The third basic way in which redundancy can be counterproductive is when the addition of extra components encourages individuals or organizations to increase production in dangerous ways. In most settings, individuals and organizations face both production pressures and pressure to be safe and secure. If improvements in safety and security, however, lead individuals to engage in inherently risky behavior—driving faster, flying higher, producing more nuclear energy, etc.—then expected increases in system reliability could be reduced or even eliminated. Research demonstrates, for example, that laws requiring “baby-proof” safety caps on aspirin bottles have led to an increase in child poisoning because parents leave the bottles outside the medicine cabinet.
+
+* * *
+
+Another example of people over-confident in redundant systems can be found in the Challenger Disaster:
+
+A dramatic case in point is the January 1986 space shuttle Challenger explosion. A strong consensus about the basic technical cause of the accident emerged soon afterward with the publication of the Rogers Commission report: the unprecedented cold temperature at the Kennedy Space Center at the time of launch caused the failure of two critical O-rings on a joint in the shuttle’s solid rocket booster, producing a plume of hot propellant gases that penetrated the shuttle’s external fuel tank and ignited its mixture of liquid hydrogen and oxygen. In contrast to the technical consensus, a full understanding of why NASA officials and Morton Thiokol engineers decided to launch the shuttle that day, despite the dangerously cold weather, has been elusive.
+
+The Challenger launch decision can be understood as a set of individuals overcompensating for improvements in space shuttle safety that had been produced through the use of redundant O-rings. This overcompensation interpretation differs significantly from both the traditional arguments that “production pressures” forced officials to break safety rules and consciously accept an increased risk of an accident to permit the launch to take place and Diane Vaughan’s more recent argument, which focuses instead on how complex rules and engineering culture in NASA created “the normalization of deviance” in which risky operations were accepted unless it could be proven that they were extremely unsafe. The production pressures explanation—that high-ranking officials deliberately stretched the shuttle flight safety rules because of political pressure to have a successful launch that month—was an underlying theme of the Rogers Commission report and is still a widely held view today.(35) The problem with the simple production pressure explanation is that Thiokol engineers and NASA officials were perfectly aware that the resilience of an O-ring could be reduced by cold temperature and that the potential effects of the cold weather on shuttle safety were raised and analyzed, following the existing NASA safety rules, on the night of the Challenger launch decision.
+
+Vaughan’s argument focuses on a deeper organizational pathology: “the normalization of deviance.” Engineers and high-ranking officials had developed elaborate procedures for determining “acceptable risk” in all aspects of shuttle operations. These organizational procedures included detailed decision-making rules among launch officials and the development of specific criteria by which to judge what kinds of technical evidence could be used as an input to the decision. The Thiokol engineers who warned of the O-ring failure on the night before the launch lacked proper engineering data to support their views and, upon consideration of the existing evidence, key managers, therefore, unanimously voted to go ahead with the launch.
+
+Production pressures were not the culprits, Vaughan insists.Well-meaning individuals were seeking to keep the risks of an accident to a minimum, and were just following the rules (p. 386). The problem with Vaughan’s argument, however, is that she does not adequately explain why the engineers and mangers followed the rules that night. Why did they not demand more time to gather data, or protest the vote in favor of a launch, or more vigorously call for a postponement until that afternoon when the weather was expected to improve?
+
+The answer is that the Challenger accident appears to be a tragic example of overcompensation. There were two O-rings present in the critical rocket booster joint: the primary O-ring and the secondary O-ring were listed as redundant safety components because they were designed so that the secondary O-ring would seal even if the first leaked because of “burn through” by hot gasses during a shuttle launch. One of the Marshall space center officials summarized the resulting belief: “We had faith in the tests. The data said that the primary would always push into the joint and seal . . . . And if we didn’t have a primary seal in the worst case scenario, we had faith in the secondary” (p. 105).
+
+This assumption was critical on the night of January 27, 1986 for all four senior Thiokol managers reversed their initial support for postponing the launch when a Marshall Space Center official reminded them of the backup secondary O-ring. “We were spending all of our time figuring out the probability of the primary seating,” one of the Thiokol managers later noted: “[t]he engineers, Boisjoly and Thompson, had expressed some question about how long it would take that [primary] O-ring to move, [had] accepted that as a possibility, not a probability, but it was possible. So, if their concern was a valid concern, what would happen? And the answer was, the secondary O-ring would seat”(p. 320).
+
+In short, the Challenger decision makers failed to consider the possibility that the cold temperature would reduce the resilience of both O-rings in the booster joint since that low probability event had not been witnessed in the numerous tests that had been conducted. That is, however, exactly what happened on the night of unprecedented cold temperatures. Like many automobile drivers, these decision makers falsely believed that redundant safety devices allowed them to operate in more dangerous conditions without increasing the risk of a catastrophe.
+
+Redundancy is part of the Farnam Streetlatticework of mental models.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

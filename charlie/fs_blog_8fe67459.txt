@@ -1,0 +1,81 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+In statistics, a base rate refers to the percentage of a population (e.g. grasshoppers, people who live in New York, newborn babies) which have a characteristic. Given a random individual and no additional information, the base rate tells us the likelihood of them exhibiting that characteristic. For instance, around 10% of people are left-handed. If you selected a random person and had no information related to their handedness, you could safely guess there to be a 1 in 10 chance of them being left-handed.
+
+When we make estimations, we often fail to consider the influence of base rates. This is a common psychological bias and is related to therepresentativeness heuristic.
+
+FromSmart Choices: A Practical Guide to Making Better Decisions:
+
+Donald Jones is either a librarian or a salesman. His personality can best be described as retiring. What are the odds that he is a librarian?
+
+When we use this little problem in seminars, the typical response goes something like this: “Oh, it’s pretty clear that he’s a librarian. It’s much more likely that a librarian will be retiring; salesmen usually have outgoing personalities. The odds that he’s a librarian must be at least 90 percent.” Sounds good, but it’s totally wrong.
+
+The trouble with this logic is that it neglects to consider that there are far more salesmen than male librarians. In fact, in the United States, salesmen outnumber male librarians 100 to 1. Before you even considered the fact that Donald Jones is “retiring,” therefore, you should have assigned only a 1 percent chance that Jones is a librarian. That is thebase rate.
+
+Now, consider the characteristic “retiring.” Suppose half of all male librarians are retiring, whereas only 5 percent of salesmen are. That works out to 10 retiring salesmen for every retiring librarian — making the odds that Jones is a librarian closer to 10 percent than to 90 percent. Ignoring the base rate can lead you wildly astray.
+
+* * *
+
+Charlie Munger, instructs us how to think about base rates with an example of an employee who got caught for stealing, claiming she’s never done it before and will never do it again:
+
+You find an isolated example of a little old lady in the See’s Candy Company, one of our subsidiaries, getting into the till. And what does she say? “I never did it before, I’ll never do it again. This is going to ruin my life. Please help me.” And you know her children and her friends, and she’d been around 30 years and standing behind the candy counter with swollen ankles. When you’re an old lady it isn’t that glorious a life. And you’re rich and powerful and there she is: “I never did it before, I’ll never do it again.” Well how likely is it that she never did it before? If you’re going to catch 10 embezzlements a year, what are the chances that any one of them — applying what Tversky and Kahneman called base rate information — will be somebody who only did it this once? And the people who have done it before and are going to do it again, what are they all going to say? Well in the history of the See’s Candy Company they always say, “I never did it before, and I’m never going to do it again.” And we cashier them. It would be evil not to, because terrible behavior spreads (Greshams law).
+
+* * *
+
+Max Bazerman, inJudgment in Managerial Decision Making, writes:
+
+(Our tendency to ignore base rates) is even stronger when the specific information is vivid and compelling, as Kahneman and Tversky illustrated in one study from 1972. Participants were given a brief description of a person who enjoyed puzzles and was both mathematically inclined and introverted. Some participants were told that this description was selected from a set of seventy engineers and thirty lawyers. Others were told that the description came from a list of thirty engineers and seventy lawyers. Next, participants were asked to estimate the probability that the person described was an engineer. Even though people admitted that the brief description did not offer a foolproof means of distinguishing lawyers from engineers, most tended to believe the description was of an engineer. Their assessments were relatively impervious to differences in base rates of engineers (70 percent versus 30 percent of the sample group.)
+
+Participants do use base-rate data correctly when no other information is provided. In the absence of a personal description, people use the base rates sensibly and believe that a person picked at random from a group made up mostly of lawyers is most likely to be a lawyer. Thus, people understand the relevance of base-rate information, but tend to disregard such data when individuating data are also available.
+
+Ignoring base rates has many unfortunate implications. … Similarly, unnecessary emotional distress is caused in the divorce process because of the failure of couples to create prenuptial agreements that facilitate the peaceful resolution of a marriage. The suggestion of a prenuptial agreement is often viewed as a sign of bad faith. However, in far too many cases, the failure to create prenuptial agreements occurs when individuals approach marriage with the false belief that the high base rate for divorce does not apply to them.
+
+* * *
+
+Of course, this applies to investing as well.This conversationwith Sanjay Bakshi speaks to this:
+
+One of the great lessons from studying history is to do with “base rates”. “Base rate” is a technical term of describing odds in terms of prior probabilities. The base rate of having a drunken-driving accident is higher than those of having accidents in a sober state.
+
+So, what’s the base rate of investing in IPOs? When you buy a stock in an IPO, and if you flip it, you make money if it’s a hot IPO. If it’s not a hot IPO, you lose money. But what’s the base rate – the averaged out experience – the prior probability of the activity of subscribing for IPOs – in the long run?
+
+If you do that calculation, you’ll find that the base rate of IPO investing (in fact, it’s not even investing … it’s speculating) sucks! [T]hat’s the case, not just in India, but in every market, in different time periods.
+
+[…]
+
+When you evaluate whether smoking is good for you or not, if you look at the average experience of 1,000 smokers and compare them with a 1,000 non-smokers, you’ll see what happens.
+
+People don’t do that. They get influenced by individual stories like a smoker who lived till he was 95. Such a smoker will force many people to ignore base rates, and to focus on his story, to fool themselves into believing that smoking can’t be all that bad for them.
+
+What is the base rate of investing in leveraged companies in bull markets?
+
+[…]
+
+This is what you learn by studying history. You know that the base rate of investing in an airline business sucks. There’s this famous joke about how to become a millionaire. You start with a billion, and then you buy an airline. That applies very well in this business. It applies in so many other businesses.
+
+Take the paper industry as an example. Averaged out returns on capital for paper industry are bad for pretty good reasons. You are selling a commodity. It’s an extremely capital intensive business. There’s a lot of over-capacity. And if you understand microeconomics, you really are a price taker. There’s no pricing power for you. Extreme competition in such an environment is going to cause your returns on capital to be below what you would want to have.
+
+It’s not hard to figure this out (although I took a while to figure it out myself). Look at the track record of paper companies around the world, and the airline companies around the world, or the IPOs around the world, or the textile companies around the world. Sure, there’ll be exceptions. But we need to focus on the average experience and not the exceptional ones. The metaphor I like to use here is that of a pond. You are the fisherman. If you want to catch a lot of fish, then you must go to a pond where there’s a lot of fish. You don’t want to go to fish in a pond where there’s very little fish. You may be a great fisherman, but unless you go to a pond where there’s a lot of fish, you are not going to find a lot of fish.
+
+[…]
+
+So one of the great lessons from studying history is to see what has really worked well and what has turned out to be a disaster – and to learn from both.
+
+***
+
+Bias from Insensitivity To Base Rates is part of the Farnam StreetLatticework of Mental Models.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

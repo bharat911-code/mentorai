@@ -1,0 +1,49 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+Mental modelsare tools for the mind.
+
+In his talk:Academic Economics: Strengths and Weaknesses, after Considering Interdisciplinary Needs, at the University of California at Santa Barbara, in 2003,Charlie Mungerhoned in on why we like to specialize.
+
+The big general objection to economics was the one early described by Alfred North Whitehead when he spoke of the fatal unconnectedness of academic disciplines, wherein each professor didn’t even know of the models of the other disciplines, much less try to synthesize those disciplines with his own … The nature of this failure is that it creates what I always call ‘man with a hammer’ syndrome. To a man with only a hammer, every problem looks pretty much like a nail. And that works marvellously to gum up all professions, and all departments of academia, and indeed most practical life. So, what do we do, Charlie? The only antidote for being an absolute klutz due to the presence of a man with a hammer syndrome is to have a full kit of tools. You don’t have just a hammer. You’ve got all the tools.
+
+Themore models you havefrom outside your discipline and the more you iterate through them when faced with a challenge in a checklist sort of fashion, the better you’ll be able to solve problems.
+
+Models are additive. Like LEGO. The more you have the more things you can build, the more connections you can make between them and the more likely you are to be able to determine the relevant variables that govern the situation.
+
+And when you learn these models you need to ask yourself under what conditions will this tool fail? That way you’re not only looking for situations where the tool is useful but also situations where something interesting is happening that might warrant further attention.
+
+The Mind’s Search Engine
+
+InDiaminds: Decoding the Mental Habits of Successful Thinkers, Roger Martin looks at our mental search engine.
+
+Now for the final step in the design of the mentally choiceful stance: the search engine, as in ‘How did I solve these problems?’ ‘Obviously,’ you will answer yourself, ‘I was using a simple search engine in my mind to go through checklist style, and I was using some rough algorithms that work pretty well in many complex systems.’ What does a search engine do? It searches. And how do you organize an efficient search? Well, algorithm designers tell us you have to have an efficient organization of the contents of whatever it is you are searching. And a tree structure allows you to search more efficiently than most alternative structures.
+
+So what’s Munger’s search algorithm?
+
+(from an interview with Munger viaDiaminds: Decoding the Mental Habits of Successful Thinkers:)
+
+Extreme success is likely to be caused by some combination of the following factors: a) Extreme maximization or minimization of one or two variables. Example[:] Costco, or, [Berkshire Hathaway’s] furniture and appliance store. b) Adding success factors so that a bigger combination drives success, often in nonlinear fashion, as one is reminded of the concept of breakpoint or the concept of critical mass in physics. You get more mass, and you get a lollapalooza result. And of course I’ve been searching for lollapalooza results all my life, so I’m very interested in models that explain their occurrence. [Rememberthe Black Swan?] c) an extreme of good performance over many factors. Examples: Toyota or Les Schwab. d) Catching and riding some big wave.
+
+(viaDiaminds: Decoding the Mental Habits of Successful Thinkers)
+
+A good search algorithm allows you to make your mental choices clear. It makes it easier for you to be mentally choiceful and to understand the reasons why you’re making these mental choices.
+
+Now, what should go on the branches of your tree of mental models? Well, how about basic mental models from a whole bunch of different disciplines? Such as: physics (non-linearity, criticality), economics (what Munger calls the ‘super-power’ of incentives), the multiplicative effects of several interacting causes (biophysics), and collective phenomena – or ‘catching the wave’ (plasma physics). How’s that for a science that rocks, by placing at the disposal of the mind a large library of forms created by thinkers across hundreds of years and marshalling them for the purpose of detecting, building, and profiting from Black Swans?
+
+The ‘tree trick’ has one more advantage – a big one: it lets you quickly visualize interactions among the various models and identify cumulative effects. Go northwest in your search, starting from the ’0’ node, and the interactions double with every step. Go southwest, on the other hand, and the interactions decrease in number at the same rate. Seen in this rather sketchy way, Black Swan hunting is no longer as daunting a sport as it might seem at first sight.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

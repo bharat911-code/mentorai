@@ -1,0 +1,95 @@
+Farnam Street
+
+Mastering the best of what other people have already figured out
+
+Things change as they scale, often drastically. This is true for living creatures and it’s especially true for social systems. Here’s how the dynamics of social groups change as the numbers do and why utopia doesn’t work.
+
+***
+
+In one of the more remarkable chapters of a remarkable book,Filters Against Folly, author Garrett Hardin discusses the effect of scale on values.
+
+He opens with an interplay of biology and mathematics to answer a simple question: Why couldn’t a mouse be the size of an elephant?
+
+The weight of an animal goes up as the cube of its linear dimensions, whereas the strength of its supporting limbs goes up only as the square…
+
+Suppose we compare two identically shaped animals. Animal A is 3 units long (never mind what the units are), while animal B is 6 units long. How do their weights compare?
+
+Weight of A = 3 cubed = 3 x 3 x 3 = 27
+
+Weight of B = 6 cubed = 6 x 6 x 6 = 216
+
+We can see that 216 is 8 times as great as 27; though animal B is only 2 times as long as animal A, it is 8 times as heavy. (Note that 2 cubed is 8.) As for the strengths of their legs:
+
+Strength in A = 3 squared = 3 x 3 = 9
+
+Strength in B = 6 squared = 6 x 6 = 36
+
+So B’s legs can bear only 4 times as much weight as A’s legs. But B is 8 times as heavy, so B’s legs are only half as strong as they need to be (4 divided by 8)…If the material of which the legs are composed is the same, then the cross-sectional area of the leg has to be doubled. The leg has to be thicker.
+
+Hardin concludes:
+
+If mice evolved to be as big as elephants, their silhouette would be that of elephants…thus does simple mathematics prove the point that a mouse cannot be as big as an elephant.
+
+The point isn’t that hard to grasp with some basic numerical fluency; physical law dictates that scale matters in all things.
+
+Hardin wisely points out that once we’ve done the computation once, all that we really need to hang in our brain is the basic idea. We don’t need to re-run the numbers every time we think of the scale effect in order to recall the point.
+
+This reminds us of Charlie Munger’s thought on statistics and practical usage inA Lesson on Worldly Wisdom:
+
+But I know what a Gaussian or normal distribution looks like and I know that events and huge aspects of reality end up distributed that way. So I can do a rough calculation…but if you ask me to work out something involving a Gaussian distribution to ten decimal points, I can’t sit down and do the math. I’m like a poker player who’s learned to play pretty well without mastering Pascal.
+
+We need to be numerate, but frequently, the precise calculation is not necessary. In many large areas of life, only knowing the rough calculation is plenty good enough.
+
+From there, Hardin goes on to point out that while physical science integrated scale long ago, social science has been quick to ignore its dictates.
+
+What works at a small scale (say, a Utopian community), loses its effectiveness as it scales.Everything has a breakpoint.
+
+Thereason communism or utopianism can workat small scale is because of the tight-knit nature of a small group. Think of your family dinner table: Do you need to trade chits to decide who gets to eat how much, or do you need some grand overseer to dole out the potatoes? No. You all simply take what you need for the meal, and make sure everyone has enough. Think of the shameful admonitions if you over-eat and leave another family member hungry.
+
+The problem is thatthe concept doesn’t scale. Let’s run an example.
+
+Four people in a small boat land on a deserted island, and decide to split the labor and duties needed to survive. Bill does the hunting, Mary builds the shelter, Steve cleans the clothes, and Susan takes care of the fire. They all share in each other’s labors: Mary gets to eat what Bill killed and Bill gets to sleep in the shelter built by Mary. By and large, this is a workable system.To each according to his need, from each according to his ability –a concept we recognize asMarxism.
+
+If Bill does not go hunting one afternoon, all four of them go hungry. Not only that, but Mary, Susan and Steve won’t be happy about that outcome. The hunger and shame placed on Bill will, generally, get him back on task the following day. And what if Susan decides to eat more than her fair share one night? The other three would not look kindly upon that, and Susan is likely to have to pull back on her eating.
+
+There is no need for a management consultant to use motivational tactics to push Bill or punish Susan – the community works fine without it. And the four of them don’t need to use any sophisticated methods of trade either: Bill doesn’t need to sell his food to Susan in exchange for a night beside the fire. Such a system would be extremely inefficient among four people bound by tragedy and circumstance. And so the islanders live in relative peace.
+
+After a few months, a cruise liner crashes nearby andfour hundredpeople swarm on to the island. The original four, remembering how well their system worked, start assigning tasks: 40 people on hunting duty, 30 people tending to 8 different fires, 10 people on laundry crew, and so on. Assuming things will be the same, they set up the same “shared economy” system – take what you need, give what you can.We’re all good folk here.
+
+Within a few weeks, the islanders notice that food is short and the clothes are taking weeks to get cleaned. One by one, the new cruise-liner folks are not holding their own, and they aren’t following the rules. The logic of the cheater is simple: If we’ve got enough food for 400, what’s the problem if I take a little extra?I’m really hungry today, and tomorrow I’ll eat a little less. Besides, Steve could stand to lose a few pounds and I’m malnourished. My need is greater.(Steve might not agree.)
+
+Seeing one bad apple take more food than he or she deserves, the other islanders get a little jealous.If he’s going to take extra, why shouldn’t I?It’s only fair, after all. In no time, in-fighting begins and the island begins to schism.
+
+The islanders decided to solve the problem with organization and oversight. The original four islanders form a Board of Overseers, doling out the food and the work duties with strong oversight and punishment as needed. As time goes on, the laundry folks decide they are working a lot harder than anyone else, and decide they won’t clean another pair of underwear for free. They being to trade their services for an equivalent amount of food, shelter, and fire. In turn, the hunters, the fire-builders, and the architects follow their lead.
+
+What Happened?
+
+By necessity, a utopian communist system is replaced by a combination of socialism and market-based capitalism. The problem is that the system of communist distribution which worked for a tight-knit group of 4 people did not scale to 400. Each person, less visible to the group and less caring about others they rarely interacted with, decided in turn to cheat the system just a bit, and only when “needed.” Their cheating had a small individual effect initially, so it went unnoticed. But the follow-on effect to individual cheating is group cheating, and the utopian goal ofTo each according to his need, from each according to his abilityhad the effect ofexpandingeveryone’s needs andshrinkingtheir ability, aided by envy and reciprocation effects. Human nature at work.
+
+The problem with ignoring scale in social science, in Hardin’s view, is that it doesn’t work.
+
+In an uncrowded world like the one our ancestors enjoyed in Pioneer America, a communistic arrangement may be satisfactory. Fruit taken from common-property trees present in excess, or game animals harvested from vast wild herds, do not demonstrably diminish the resources available next year. Communizing a cost of zero hurts no one. Similarly, wastes may be thrown away into vast areas without harming other people, so long as the metabolic powers of uncrowded nature are more than sufficient to recycle the elements.
+
+…
+
+But the poltico-economic system that works well on the frontier breaks down miserably in a world as crowded as ours. Unfortunately, long after the reality has vanished, the dream of an uncrowded world endures, often romantically glorified.
+
+…
+
+In a trivially abstract sense, would-be modern cowboys may have a good idea, but the scale is wrong. The judgment of “good” must be tied to scale
+
+Check outFilters Against Follyfor more brilliance.
+
+Read Next
+
+Discover What You’re Missing
+
+
+
+As seen on:
+
+© 2025 Farnam Street Media Inc. All Rights Reserved.Proudly powered byWordPress. Hosted byPressable. See ourPrivacy Policy.
+
+We’reSyrus Partners.We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.

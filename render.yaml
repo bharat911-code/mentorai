@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: yapper_server.py
+    env: docker
+    plan: free
+    autoDeploy: true
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: HF_TOKEN
+        sync: false  # Set this to true if you want to sync from your local .env file

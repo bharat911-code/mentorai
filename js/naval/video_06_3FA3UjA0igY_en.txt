@@ -1,0 +1,4217 @@
+awesome all at this altitude I can run
+flat out for a half mile before my hands
+start shaking pronoia listen I'm a
+tripod medic organism living tissue over
+metal endoskeleton this episode is
+brought to you by freshbooks man oh man
+do a lot of listeners on this podcast
+and readers of mine love fresh books to
+the extent that I ended up meeting with
+the CEO not very long ago why are they
+so popular well they are the number one
+cloud accounting software designed
+exclusively for self-employed
+professionals that's many of you and
+used by more than 10 million people you
+can send invoices track your time and
+get paid very very quickly which suits
+the needs of a lot of freelancers a lot
+of entrepreneurs and beyond you can take
+pictures of receipts you can link your
+credit card and debit cards so all the
+things you buy automatically appear in
+your fresh books in the right category
+so on and so forth makes taxes easy
+makes invoices easy makes your life
+easier and also in fact I recommend a
+PDF they didn't ask me to read this part
+by the way they put the other PDF a
+while back called breaking the time
+barrier subtitle how to unlock your true
+earning potential so you can search for
+breaking the time barrier a lot of
+people ask me how can I get a 4-hour
+workweek with the service business and
+the story in that ebook its PDF is the
+short answer it's really really good so
+I think you should also check that out
+so breaking the time error check it out
+but also why not test out fresh books
+claim your 30-day unrestricted free
+trial at fresh ebooks.com forward slash
+tim and enter tim ferriss two hours in
+two S's in me how did you hear about us
+section that sounds like we're going to
+get very little tracking that's a lot of
+work but just go to fresh books comm
+forward slash tim and try it out because
+it is a very good product and i think
+you will find it simplifies your life
+enjoy
+this episode is brought to you by
+audible which I have used for many many
+years I absolutely love audiobooks and
+they are one of my favorite ways to pass
+the time when I travel I'm on the road
+all the time and audible allows me to
+consume many more books than I possibly
+could otherwise I have two audio books
+to recommend right off the bat the first
+is perhaps my favorite audio book of all
+time and it's the only audio book I've
+wanted to listen to twice in a row the
+graveyard book by Neil Gaiman it's
+amazing and you will thank me there are
+a few different versions
+I like the version that Neil Merritt's
+himself one of the most soothing voices
+of all time the second book is
+vagabonding by Rolf Potts Pio tts which
+had a huge impact on my life and formed
+the basis for a lot of what would later
+become the 4-hour workweek so go to
+audible.com for word slash Tim and you
+can choose one of these two books or any
+of many many other options that could be
+books magazines and much more as a
+listener of the Tim Ferriss show you can
+also access a free 30-day trial just go
+to audible.com forward slash to him you
+can't make more time but you can make
+the most of it so turn your travel or
+your commute into something more with a
+free trial at audible.com forward slash
+Tim to start now and get your free
+30-day trial
+hello boys and girls this is Tim Ferriss
+and welcome to another episode of the
+Tim Ferriss show where it is always my
+job to tease out the habits routines
+philosophies favorite books etc from
+world-class performers so you can test
+each of those in your own life and
+guests range from saying those in
+business sports military all the way to
+the esoteric and sometimes very
+unexpected and this guest checks a lot
+of boxes his name is Nick Szabo that's
+SZ many of you may not recognize his
+name but hopefully by the end you'll
+want to know everything that he puts out
+and read every essay that he puts on the
+Internet he is a polymath the breadth
+and depth of his interests and knowledge
+are truly astounding and I mean
+jaw-dropping it's it's just beyond
+belief what this guy can cover he's a
+computer scientist legal scholar and
+cryptographer best known for his
+pioneering research in digital contracts
+and cryptocurrency and I have long been
+fascinated by cryptocurrency but
+secretly not really understood anything
+about it or certainly the subtleties and
+this episode is really a masterclass so
+we go from the very very basic all the
+way up to the cutting edge and what the
+future holds Nick for instance developed
+the phrasing concept of smart contracts
+with the goal of bringing what he calls
+the highly evolved practices of contract
+long practice to the design of
+electronic commerce protocols between
+strangers on the Internet Nick also
+designed bitgold which many consider the
+precursor to Bitcoin this particular
+conversation is co-hosted by one of my
+favorite people navall Rafa Conte
+a mutual friend and one of the most
+successful investors in Silicon Valley
+who also happens to be one of Nick's
+biggest admirers and for those who enjoy
+navall here you may also enjoy his first
+episode with me from 2015 which was
+voted on producthunt the second best
+podcast episode of the year across all
+podcasts with the exception of my Jamie
+Foxx episode so you can listen to that
+if you'd like it's called the
+evolutionary angel episode
+Timm vlog forward-slash navall but let's
+get back to how much we cover with Nik
+because it's a lot and you need not be
+intimidated you don't need to be a
+computer scientist I am NOT you don't
+need to know anything about currency I
+know very little but we get into the
+history money we talk about Bitcoin what
+it is what cryptocurrencies are and what
+problems they solve we define social
+scalability what is that and why is it
+important what is a theorem what makes
+it unique strengths and weaknesses we
+talk about different types of
+cryptocurrencies we talk about things
+calling for instance altcoin what the
+hell is that we get into it
+what are I co s initial coin offerings
+we talk about who might invest or not
+invest and certainly this is not
+investment advice it's for informational
+purposes only so talk to your financial
+professional before allocating resources
+or money anywhere okay cover my ass good
+how will smart contracts actually get
+adopted to go mainstream right if you
+think of say Bitcoin is something that
+is very fringe when will it hit the
+tipping point what might the elements be
+that would lead to that blockchain
+governance is there any existential risk
+could governments or regulators shut
+down something like Bitcoin what is wet
+code versus dry code this is a super
+super cool distinction that I really
+enjoyed
+what are Pascal's scams or quantum
+thought we dig into all sorts of nooks
+and crannies including what Nick might
+work on in the future what fields does
+he want to explore and so on so this was
+to me a really really fun and
+mind-expanding conversation you do not
+need to be technical or an engineer to
+enjoy it and get a lot out of it because
+at the core we are really looking at how
+to people who are very very smart
+meaning Nick and navall process the
+world what lenses they use to view the
+world and how that dictates their
+actions and how they get better results
+so if you want more from Nick and we'll
+talk about this at the very end of the
+conversation also but you have to check
+out the essays on his blog which is
+called unenumerated unenumerated blog
+spot.com but that can wait for later and
+then you will know why many of the
+thought leaders
+ Valley and around the world
+really pay a lot of attention to Nick so
+without further ado please enjoy this
+wide-ranging conversation with Nick
+Szabo all right
+gentlemen I think the hour has arrived
+Duvall welcome back thank you it's good
+to be back once again Nick pleasure to
+meet you right from you and I'm very
+excited and also intimidated by the
+conversation we're about to have its
+context for people listening we're going
+to delve into some subjects I have an
+acute interest in what extreme ignorant
+of leten have all do a lot of driving
+and I figure the place we could start is
+at the beginning at least where you guys
+met so how did you two first connect
+yeah I like most of my close
+relationships these days I formed them
+on Twitter and I think of Twitter as the
+place where I go to to have a great
+conversation when I can't have one
+locally which seems to be all the time
+and the more time that I spent on
+Twitter the more I sort of curate this
+incredible group of very intelligent
+people that I just get to know purely to
+the quality of their thoughts and so I
+think when I was getting into
+cryptocurrencies and blockchains
+doing my homework on it I stumbled
+across a blog called unenumerated and
+maybe Nick can go into what the origins
+of that word are but it was obviously
+written by a polymath someone who wrote
+about everything I got into the blog and
+then I started following the author
+which was Nick on Twitter retweeted
+receive his tweets and got into little
+bite-sized 160 character conversations
+and here we are how is that relationship
+developed in other words how are we here
+today and you can take a stab at that
+yeah Nick's gonna be plenty to talk and
+certainly I have a hitman but if you
+want to if you want to lead us to how we
+ended up here today yeah I mean it was
+just more and more tweeting back and
+forth reading Nick's articles there's
+one that he put up recently around
+social scalability which I thought was
+literally mind-blowing like I thought I
+knew a lot about cryptocurrencies but it
+really just helped me reframe what I
+knew in a better mental model
+in our Charlie Munger touch on mental
+models so I've actually picked up at
+least four or five mental models from
+Nick which i think is more than I may
+have from any human being other than
+Charlie Munger I was tweeting out
+sections of that article then somebody
+said well Nick in the ball should do a
+podcast and I was I didn't ever do a
+podcast with me cementec said sure I'll
+do a podcast so actually we are Nick
+could you maybe help us with some
+definitions so cryptocurrency there are
+a number of other words they're going to
+come up a lot and these are words that I
+feel at many dinner parties and say
+Silicon Valley people will not ask about
+because they're afraid they're the only
+ones at the table who don't actually
+know how to define it since I I can't
+play the part of knowing what I don't
+know in this case what is cryptocurrency
+and how did you become interested in it
+or start thinking about it
+cryptocurrency
+as the name suggests is protected by
+cryptography and in particular the
+modern crypto currency like Bitcoin and
+aetherium so forth are protected by
+their integrity is protected by
+cryptography a structure called a Merkel
+tree that you can think of it as a fly
+getting trapped in amber you if you say
+I shot JFK and then put it through this
+process of the Merkel tree putting it on
+the blockchain then it's there you can't
+and you've signed it with your with your
+private key then you can't later deny oh
+I shot didn't say that that allows you
+to like make a statement you know I'm
+paying such and such amount of Bitcoin
+to somebody else and then put it there
+after a few cycles called block x which
+should take about ten minutes each
+it gets exponentially more difficult to
+deny or take back that that this
+transaction took place how did you first
+begin thinking about this these types of
+constructs or any of this really where
+did the interests of again well we had a
+group called the cypherpunks back in the
+1990's Tim May and air cues and John
+Gilmore and so forth and Tim May had so
+partly this is political that Tim May
+had a a vision of Galt Scholten
+cyberspace of any of your audience are
+Iran fans little recognize the reference
+to gulps goal to this place you can go
+to get away from things and do your bid
+without outside interference in the book
+that was like a physics fantasy but Tim
+goes well we have strong cryptography
+now so we can do that and I thought well
+yes but you still want to do things like
+enforce contracts and protect property
+and so forth so I started thinking about
+and the some extent some other people
+started thinking about how to apply
+computer science to to protect your
+business in cyberspace
+this bleeds into I did just enough
+reading to hopefully have questions to
+ask and want to read so much that I left
+out basics fundamentals for people
+cryptography if most people think that
+they're they hear that word maybe
+exposure they've had is watching a movie
+that involves an Enigma machine or
+something like that but what is
+cryptography the original cryptography
+is if you saw that movie is keeping
+secrets this case in that movie the
+Nazis failing to keep secrets from the
+British and Alan Turing because their
+cryptography wasn't strong enough but
+these days you have really strong
+cryptography so breaking it in that
+brute-force manner like they broke the
+Nazi codes is pretty unlikely these days
+there are some other things you can do
+like take people's private keys and so
+forth but the brute-force attack doesn't
+work anymore I mean there are some old
+ciphers where we're starting to work but
+as long as you have the latest stuff
+like Bitcoin does then you're fine yeah
+I would say it's like basically keeping
+secrets through mathematics and there
+are many many breakthroughs that enable
+crypto currencies but one of the key
+things to understand in cryptography is
+this concept of one-way encoding one-way
+hash functions basically I can take some
+data run it through a mathematical
+transformation and what comes out of the
+other side is really hard to undo it's
+really hard to work backwards so it's
+kind of a one-way thing so is when
+people send encrypted email to say PGP
+or something yeah is that an example of
+that yeah basically what I've done so in
+the old days if I was encrypting
+something we would both have the same
+key right and so or I would have a key
+that I would take your key I would
+encrypt with your key send it to you you
+have the key and decrypt with the key
+but the problem is how do I figure out
+what your key is how do I know how to
+cryptid and because your key can both
+encrypt and decrypt so if I had a hold
+of your key then I could open the
+message right it was very unsafe to
+transmit that key and so one of the
+innovations that came along with this
+idea of splitting the key into a public
+key and a private key so private keys
+what you hold on to that can decrypt and
+encrypt stuff your public key on the
+other hand other people can encrypt to
+it for you but they can't use it I gotta
+turn right only is that right only it's
+a one-way kind of thing so I mean this
+is probably beyond the scope of this
+discussion but it's worth digging a
+little bit into what are called one-way
+hash functions and public keys and
+private keys because they underlie a lot
+of cryptography and they seem like
+complicated concepts but they're not
+that complicated and I would argue this
+is one of those mental models that you
+kind of have to figure out to start
+operating the modern technological world
+but crypto currencies essentially use
+these one-way hash functions to make
+statements like I gave Tim ten dollars
+right so if I said I gave you ten
+dollars normally we need a central
+authority to verify that like the bank
+has to verify that and the central bank
+has to verify the Loosli answer the
+question of and I'm not going to
+interrupt beyond this but why why create
+cryptocurrency why is it important what
+are the benefits yeah so I mean one huge
+benefit is we don't need anymore a
+trusted third party to verify that
+transaction we can do it in the cloud to
+a distributed network which is kind of
+what the cryptocurrency does but let me
+talk more about this but he had a great
+quote that I think is very relevant
+where he said this is the dawn of
+trustworthy computing right because
+before this computers are kind of
+untrusted like if I send you money from
+my computer to your computer we're
+really relying on Visa and the banks and
+a bunch of intermediaries just actually
+say yes the money got to you and the
+money is no longer mine but computers
+don't like to operate like that
+computers you know computer code
+especially stuff that's running in the
+cloud on its own shouldn't have to rely
+on an offline wet space meatspace
+institution to enforce that kind of
+thing so cryptocurrencies take the
+concept of money and they take it
+natives in to come
+kut'rs where everything is settled with
+computers and doesn't require external
+institutions or trusted third parties to
+validate things just to try to
+paraphrase that for my own understanding
+so in other words you don't have to say
+trust a stranger to do something you
+don't have to trust a central authority
+to be the arbiter of whatever decisions
+end up being made or implemented it's
+built into the technology itself yeah
+why why is cryptocurrencies important to
+you so it's important for I think the
+the partially political reason to gain
+more independence of your life from
+these institutions and it just creates
+new capabilities like somebody now in
+Guatemala convey somebody in Canada
+without using an intermediary in New
+York City or something that's greatly
+advantageous for for a global commerce I
+think yeah so if I can just dig into
+that a little bit more definitely dig in
+I also at some point because this word
+has plagued me for a few years now
+blockchain I do not know what it means I
+don't know why it's called blockchain I
+should mix a analogy of fly getting
+trapped in amber it's kind of brilliant
+like if you see a fly in amber and it's
+got you know a millimeter of amber
+around it well that could have been done
+yesterday or you know a year ago but if
+you see the fly is trapped in a huge
+block of amber you know it's been there
+for a long long time it's been
+accumulating so a blockchain is a series
+of blocks each block is a series of
+computations done by computers all over
+the world using serious cryptography in
+a way that's very hard to undo so each
+block is like another thin layer of
+amber I say and the chain of blocks
+represents the depth of that amber how
+long that fly has been trapped in and
+therefore how you can trust that on a
+signal anything deep down in the
+blockchain is mathematically
+cryptographically and just economically
+impossible to undo got it
+okay I shouldn't use words like
+impossible in cryptography as although
+it was always probable Allium probable
+yeah what are some other core concepts
+that people should understand
+just as the
+cryptocurrency 101 or currency 101 I
+mean depending on where we want to go
+even want to start with like what is
+money sure because we're throwing around
+the word currency and money and people
+talk about gold in store of value and
+you know Nick actually created bit cold
+which was some would argue a critical
+foundational predecessor to Bitcoin
+Bitcoin had an additional breakthrough
+or two that it employed that pickle did
+not but bit cold was the Giants on whose
+shoulders bitcoin stands and Nick also
+created both the the phrase and the
+concept and the theory behind smart
+contracts which we're now starting to
+hear about in the context of other
+cryptocurrencies like etherium but I
+think we should just this is a
+complication of topic that it's worth
+just starting with like what is money if
+you ask 10 people on the street what
+money is you probably get 10 different
+answers sure so I think it's important
+just be rigorous about that and if you
+ask a lawyer you'll get an answer that's
+radically different than if you ask an
+economist as well if you ask a lawyer
+they'll say something like an official
+government currency so of course bitcoin
+and gold you can't write checks for
+those because those are not legal
+official government currencies so that's
+the that's the kind of neuro modern
+legal definition economists use the
+definition of medium of exchange which
+is a much broader definition but that
+also assumes it you know the only
+important transactions are people
+exchanging things which in our modern
+economy is a good assumption but if you
+actually go back to the origins of money
+which I've liked to study I'm you find
+things like inheritance and compensation
+for injuries as equivalent to a modern
+lawsuit but not necessarily with
+governments and courts more like Wars to
+enforce the force of the verdict and
+Bridewell there's certain fitness
+critical critical to Darwinian fitness
+that other animals can't do the humans
+can and that form of I like to call it
+collectibles because not have extended
+the definition money far broader than
+probably any economist would want to but
+so I out calls collectible so it's very
+similar so the Yurok Indians for example
+use shells to and they would have tattoo
+marks on their arm they were serious
+about their shells it would have tattoo
+marks in their arm to measure the
+lengths of shells and that told you the
+denomination the value of how valuable
+that shell was which corresponds to how
+scarce at what
+in nature and they would use these for
+inheritance for injury compensation for
+bride wealth and so forth yes it sounds
+like you know as so I think that the
+common theory is that humans have only
+been using money for a few thousand
+years but I think some of the work
+you've done on origins of money shows
+that actually it's hundreds thousand
+years yeah you can go back an
+archaeological record and it's a puzzle
+for a hundred thousand years in our
+Darwinian world that people lived in why
+people do something so frivolous as you
+know adorn themselves with shell
+necklaces yet those are among the most
+common artifacts right up there with
+axes practical axes that you use to cut
+things in the archaeological record yeah
+so I mean on the money thing like I've
+also tried to wrap my head around this
+and as Nick said economists would say
+it's a medium of exchange as the
+historical record shows it's a store of
+value so even if you're not exchanging
+it you just want to go store value you
+may not want to store bread or rocks or
+houses so you store the imagine a more
+practical yeah a transport exactly and
+then it's also a unit of account so in
+other words like you have to denominator
+Isis and something I'm not going to tell
+you how many loaves of bread a car costs
+so I need to be able to just take a unit
+of account - don't judge I only have
+that occasionally so it is all of those
+things and I think one of the places
+where people fall down on
+cryptocurrencies that they say well no
+one's using Bitcoin to buy anything
+right now so it may not be fulfilling
+the medium of exchange function but it
+is it may be fulfilling a different
+function external value it might be a
+Swiss bank account in everyone's pocket
+or in their mind or it might be the
+defense against the Cyprus style bank
+haircut or it could be the future that
+is here but not evenly distributed and
+probably it's and you can go to Palo
+Alto the Copa café and bike on Bitcoin
+right now yeah and and with it within my
+social circle there is a large group of
+people who will take Bitcoin as legal
+tender like you can go to them and
+settle debts in Bitcoin and they will
+happily take it or if you want to buy
+say a scientific abstracts or articles
+from a Russian website they may only
+take a coin as well yeah and I just seem
+a little bubbly which is either you kind
+of say well it's only money because
+everyone believed this money but one
+definition I really liked of money is
+money the bubble that never
+so if we had if the tulip bubble had
+never popped we'd probably be dealing in
+tulips today now it pops for fairly good
+reasons which is tool to make for lousy
+money they're hard to store they're hard
+to transport they're hard to subdivide
+but cryptocurrencies actually are the
+exact opposite end of that scale they
+are easier to store easier to transport
+easier to subdivide cheaper in many ways
+and more defensible than almost any
+other form of money or gold or commodity
+now what makes since we're talking about
+money or currency what makes money
+valuable I think this might be
+interesting to just dig into for a
+second because you have say at certain
+points in time paper pegged the gold
+right and then it's reading today
+because it's another word that I've seen
+a lot but aside from the car company I
+was not sure what Fiat really meant so
+if we're talking about don't even know
+if there's even even around anymore what
+distinguishes say cryptocurrency or
+makes cryptocurrency valuable is it the
+rarity what are the factors that that
+determine that well I mean the scarcity
+is an essential essential part of it you
+if it starts inflating on you then
+you're sure if it goes down so the
+scarcity is quite essential to it other
+things are you want it to be easy and
+secure to store and transport and and
+Bitcoin has the advantage it you can
+send to people all over the world and
+store it on a hardware wallet which is a
+fairly secure way to store it and the
+most important part of it what is a
+hardware wallet so hardware wallets so
+your normal computers are pretty
+insecure and that's one of the stories
+of blockchains is that this distributed
+system is a lot more secure than an
+individual computer so your own computer
+could have malware viruses and so forth
+so hardware well it's a separate piece
+like on a USB stick you plug in has its
+own chip on it and the Bitcoin your
+private key gets stored on that chip
+rather than on the computer so that yeah
+there's a zillion ways to store Bitcoin
+you could do it on your computer but
+then your computer's connectivity to the
+internet security hole you could put it
+in an online exchange but then you're
+just trusting an unregulated Bank you
+can put it in a hardware wallet which
+says make set a dedicated device
+you can put it on a piece of paper and
+stick it in your bank account and that
+in cold storage Oracle's outage yeah
+that's cold storage which is where I
+know the words but not yet I mean this
+is this is one of them yeah this is one
+of the crazy things about this concept
+because money in money and speech turned
+out to be the same thing
+money information math they're the same
+thing so in a Bitcoin world I can
+literally write down my Bitcoin address
+and keys on a piece of paper and put in
+a safety deposit box and it's basically
+in cold storage I could even put it in
+my head I can memorize the key phrases
+and I could cross borders with a billion
+dollars in my brain so in that it's a
+very powerful but mind-bending literally
+concept in that sense is this point
+where makes sense to talk about smart
+contracts or is that a non sequitur no I
+think order is there good bridge yeah no
+I think I think we should get into it
+first I want to make sure that we
+understand what block chains in Bitcoin
+are right might be worth going into like
+what are the key innovations that
+enabled Bitcoin and I won't leave you to
+dictate when is make sense or out of you
+guys but the article you sent me about
+the I guess fad protocol layer right
+I'll get into that later
+okay we'll get there that's a little
+teaser for flash I'll let you lead at
+them yeah so I think it's worth getting
+into like what is the Bitcoin computer
+right because there is basically you can
+abstract and think of Bitcoin is running
+on a blockchain computer and maybe Nick
+can take a stab at defining what it is
+by the way this is one of those things
+where I think if you ask 10 different
+people in cryptocurrencies what bitcoin
+is and what a blockchain is and what
+botching computer is you'll get 10
+different answers you know some people
+are more qualified than others well it's
+also just it's new it's hard to figure
+out these are very abstract concepts
+ideas being turned into code and they
+are all Bitcoin is almost two computers
+what I want like quantum mechanics is
+the physics it throws a lot of people in
+the field off well it's also like
+quantum physics because you have a lot
+of well-intentioned like hippies and new
+AG people who miss appropriate yeah and
+use it completely incorrectly absolutely
+so not to say there are a lot of needy
+people getting into cryptocurrency there
+might be but I think you also have that
+yeah there's layers of understanding
+like I don't know how to
+code for a Merkel tree I don't know how
+to take a part of Bitcoin block and
+analyze it so in some level I'm still
+you know a new-agey hippie trying to
+figure it out
+but I think it's worth getting into like
+what is the blockchain computer and how
+does it enable Bitcoin I guess first of
+all drop into that another important
+concept to the architecture that as I
+mentioned yet is replication so there's
+thousands of copies of these things
+running on what are called full nodes
+all over the world their servers right
+right so they're their servers that can
+be laptops or larger machines but there
+are thousands I'm running all over the
+world so anybody who has a copy of this
+can their machine can do a full
+validation for itself it's kind of the
+most secure way to run run a
+cryptocurrency yeah so sorry to
+interrupt you but basically what's going
+on is if I give Tim ten dollars and then
+Tim gives Nick those ten dollars the way
+we you track of it is to a piece of
+paper or in the old days of the Yurok
+indians it would be a shell of a certain
+measurement but now at Bitcoin there's a
+ledger we basically just keep track in a
+ledger entry that navall moved this ten
+dollars - Timm Timm moved ten dollars -
+Nick now the problem is who maintains
+the sanctity of that ledger
+can you just Forge that ledger so
+historically the central bank would
+maintain the sanctity of the ledger or
+the fact that you have a certain dollar
+bill with a serial number it maintains
+the sanctity of the ledger but now
+bitcoin has the craziest answer you can
+imagine but it turns out to work which
+is everybody has a copy of the ledger so
+every one of the Bitcoin network who's
+running a node keeps a copy of the
+ledgers from the dawn of Bitcoin tool
+now and there is a testament to the
+computing power and memory that we have
+available in modern computer that people
+can do this at home you can run a full
+Bitcoin node where you keep a copy of
+every single Bitcoin transaction from
+the dawn of time till now and all these
+computers running together essentially
+validate with each other like are our
+Ledger's the same are we using the same
+ledger whose ledger is correct in case
+it's a disagreement and that's where
+kind of all the blockchain comes in
+doing all this cryptography and then
+another thing that's replicated
+besides the data and the integrity
+cryptography we talked about is code
+computer programs
+and kind of the second definition of
+smart contracts we'll get into the first
+definition later but the second
+definition is simply describing this
+code that's replicated that's running on
+all these nodes and that code can do
+things like enforce on Bitcoin and can
+do some fairly simple things that add
+some sophistication or like require
+multiple signatures to do a spend for
+example so like you can think of
+signature Authority and offers for
+multiple people have to sign off on
+something you can set up your Bitcoin to
+do that using one of these smart
+contracts one of these pieces of code
+replicated it might be taking us back or
+taking us ahead or neither we were
+wandering through the blockchain it's
+complicated yes a smart contract in
+essence are you taking what would rely
+on human beings and embedding it into
+the technology so that there's you don't
+have to rely on a standard set of ethics
+reliable set of behavior is that a smart
+contract yeah so to some extent there
+are some areas of contracts some kinds
+of contractual clauses usually but not
+always associated with the financial
+aspects of the contract that you can
+they're really logically structured and
+you can code that into the computer put
+it on the blockchain and then it runs
+with a really high integrity and that
+means that somebody in Albania can do a
+smart contract with somebody in Zimbabwe
+and to the extent that they can
+formalize their deal mathematically with
+through this logic code they don't have
+to rely on Albanian authorities or the
+Zimbabwe authorities they can just do
+business directly and you had a great
+term for this this is getting into the
+drivers as wet code right so dry being
+computer-based when I'm being
+potentially the legalese in the head of
+a lawyer in Albania and the legalese in
+the head of lawyer in Zimbabwe which is
+going to be a whole whole just slew of
+mess potentially right so I like to
+think all that illegally if you fee in a
+contract of as a as a program that runs
+on the brains of a lawyer doesn't
+usually run on brains of normal people
+that this is going to I'm trying to take
+us too too far afield what we're talking
+about how do you
+interesting context so it's part of I
+guess libertarian ideology but it's also
+part I went to law school and it's also
+part of Law School 101 that property and
+contract law that kind of two
+fundamental building blocks of our
+commercial society yeah so I was
+interested in how do you enforce those
+in cyberspace I don't meet many people I
+meet people who have say JD MBA or JD
+PhD I don't meet many people who have JD
+and computer science degree and
+libertarian on top of I am libertarian
+on top of that although I have heard
+there some libertarians running around
+the bay area yeah JD apparently I'm a
+libertarian I've been told relatively to
+the average person so I live in 71 owned
+guns and they're like you're a
+libertarian I'm like I didn't really
+think that easily I got like Mike my
+card okay how did you end up doing both
+of those degrees I haven't run into that
+before the law degree is in large part
+based on smart contracts and wanting to
+do a reality check of the stuff I
+thought of as a computer science I see
+so the computer science came first yeah
+and then the JD was I went to study the
+wet code then now that I know how a
+computer works let me go look at an
+advocate and see what that's like okay
+very cool yeah so I think some of this
+is smart contracts which by the way as I
+said earlier Nick created not just a
+concept of the theory behind it smart
+contracts are essentially taking that
+wet code converting into dry code and
+then putting it inside blockchain so
+it's immutable after a while that it's
+it becomes a fly trapped in amber if we
+made an agreement and the simplest smart
+contract by the way it's just I gave you
+money and you got the money that's a
+very very simple contract that got
+fulfilled so but you can put much more
+complex so contract is promise and
+fulfillment of promise or is there an
+easier way to think about it because
+when I think contract I think of all
+these clauses are right termination
+arbitration term etc I think of all
+these because I look at which other
+contracts now so you can think of the
+primordial granddaddy of all smart
+contracts is the vending machine so a
+vending machine in
+in contract law terms it verifies the
+performance you put in your quarter and
+it verifies you put in the quarter
+through its mechanical I'm talking about
+old-fashioned machine it has logic in
+that says okay you put in a quarter the
+soda cost a dime so I'm going to give
+you a diamond and nickel back and the
+soda you selected so you can think of
+writing this in a contract tediously
+that you know if if the party of the
+first puts in a quarter you know the
+party of the second will give them back
+but of course you want to do this in
+machine right you know so give the
+lawyers any ideas it's verifying a
+performance on the one hand somebody
+it's observing that somebody did their
+payment or their other performance of a
+contractual deal and on their hands
+automating performance its dispensing
+dispensing the goods so the codes the
+kind of the two basic things smart
+contracts can do they verify somebody's
+performance and they automate
+performance now the third thing is if
+you have and there's a bunch of stuff
+that's inherently wet most of the stuff
+that you can code into smart contracts
+as those two kinds of things are like
+payments and various financial
+conditions you can do a lot of financial
+stuff like options and collateralized
+loans and so forth
+futures but for things that are
+inherently wet though nobody's figured
+out how to have the computer verify
+automated performance yet you can you
+know invoke an arbitrator a signature
+structured like multi-sig to have humans
+approve certain steps in what will be an
+example of where you or someone else
+might want multi SIG's
+in that universe if you're doing
+something with an escrow for example
+that you have the person or persons
+responsible for the collateral verifying
+that the contract was performed then
+they can free up the collateral got it
+so if you wanted to buy a house that had
+to do inspections you want to use
+Bitcoin right yeah it'd be a good
+situation yeah and there are things you
+can do now with smart contracts what you
+call on chain where you can have all the
+money and a collateral and the escrow
+and the data as close to computerize as
+possible so the stuff that people are
+starting to do with smart contracts now
+it's pretty mind-blowing can we
+talk about the article you sent me and I
+know it seems like it might not be the
+right is very helpful to me
+sure so do you want to dig it yeah so
+there's this concept of what bitcoin and
+aetherium and these other
+cryptocurrencies are doing is they're
+they're the new protocols and what is
+the protocol a protocol is kind of like
+a god I'm going to get trapped in
+definitions but a protocol is sort of
+how computers it's a standard for how
+computers exchange information so for
+example you and I speaking the English
+language is a form of protocol but then
+also like HTTP yeah I'm supposed to
+pause every five seconds and then you're
+supposed to get a chance to speak that's
+part of the protocol we say hello to
+each other's greeting it's part of the
+protocol so we have verbal packets like
+these yeah exactly and also another
+protocol yeah and then the internet
+these protocols are tcp/ip HTTP SMTP
+every time your email gets sent from one
+server to another it's using the SMTP
+Simple Mail Transfer Protocol and these
+protocols power the Internet and the
+assumption that we've made in the early
+days of the internet was that well Bend
+with these cheap servers or cheap
+hardware is cheap so it's free if I want
+to send you a packet it's free if you
+want to receive the packet it's free
+doesn't cost anything but those
+assumptions are breaking down
+we've denial of service attacks which is
+basically your computer demands
+resources from my computer that I'm
+saying no but you're asking so many
+times for free that it just overwhelms
+me spam is another example I can send
+you a zillion email that hardly any cost
+but it costs you a lot of attention so
+these free protocols are becoming poor
+assumptions the worst place for a poor
+assumption on a protocol is a protocol
+for exchanging money if I say Tim I want
+to give you ten dollars that has to be
+scarce in some way it can't just be it
+can't be a free transaction right
+because it's money this exchanging hands
+so we need a concept of protocols that
+underlies scarce resources but allocate
+scarce resources and what's going on is
+crypto currencies and block chains are
+creating these what are now being called
+fact protocols and we'll put an article
+in the in the show notes about this but
+fad protocols are protocols that
+actually exchange scarce value and to
+keep data in the protocol they maintain
+data that's the key
+pease right or in a way yeah there's two
+key pieces one is scarcity which is
+regulated by a token so in the Bitcoin
+protocol the scarce piece is the Bitcoin
+itself and the protocol is about the
+exchange of money and the token is
+Bitcoin and then there's data that you
+can put in the blockchain like I could
+for example take a article that I wrote
+I could hash it the one-way crypto hash
+put it in the blockchain prove that it
+came from me and then it gets trapped in
+the amber again like the fly and no one
+can undo it later and it's secured by
+the value of the blockchain so these new
+protocols these fad protocols are very
+different they're going to exchange
+they're going to enable a new kind of
+internet that we did not have before
+that's a thesis of kind of the fad
+protocol argument just for people
+listening who like me we're trying to
+find their way their way through the
+darkness with a lot of stuff when I read
+that piece which is on the Union Square
+Ventures website yeah hi Fred and guys
+I'm blanking on the name of the author's
+very good you'll want tonight there we
+go and the before and after example that
+was given or one of them was you have
+these thin protocols HTTP etc and then
+you have these services built on top of
+them that becomes silos of information
+whether that's Facebook Google whatever
+it might be and then they develop their
+own means of authentication and so on so
+you have these captive stores of
+information you have security risks on
+top of that so now perhaps you're doing
+your banking through a web server and
+conversely when you then have VI 80s or
+the democratized data that is built into
+the protocol itself say in the case of
+Bitcoin where now you have all these
+nodes that have for the purposes of
+illustration every transaction start to
+finish it's more secure you're less
+captive and it conforms to the
+libertarian /im Rand ideal that we were
+talking about earlier and the
+illustration that was given that I
+thought was fascinating and may or may
+not hold true for for decades but was
+that you have protocols they're
+necessary
+but not valuable right there they're
+available there like utility to the
+public and then you have these these
+billion-dollar multi-billion dollar
+companies built on top of the Facebook
+Google etc then you have conversely
+Bitcoin which has a market cap of X I
+don't know district 5 billion - okay and
+then the companies built on top of it
+are internationally small by mid tens or
+hundreds of millions at most right so
+it's a complete flip in terms of yeah
+the value of getting captured by the fat
+protocol yeah I do recommend this
+article it's actually John Joel money
+grow like that is lessening wrong but
+you wrote a brilliant piece on this but
+the thesis is that because these
+protocols are storing your identity and
+data on the on protocol in the protocol
+itself the applications don't capture
+you as much you're not stuck in the
+applications and the value is captured
+by the tokens in the protocol does that
+mean this is this is just putting on the
+investor hat for a second that people
+are going to be incentivized to just
+create more and more different types of
+cryptocurrency and then reserve to try
+to capture that that's exactly what's
+happening so I wrote a post on is called
+the Bitcoin model for crowdfunding and
+this is a couple of years back and I
+thought these things called app coins
+would show up but for every application
+rather than going and raising VC money
+you just attach token to it you crowd
+fund it and that's kind of what's
+happening now with what they call AI
+CEOs initial coin offerings and there's
+been hundreds and hundreds of these and
+you know it's a little bubbly in fact
+it's very bubbly a lot of them are
+getting bit up out of control some of it
+comes from the fact that a few of these
+protocols do need their own token they
+can't use Bitcoin but most of the times
+it's really just the developers have an
+incentive to create a token bolted on
+and try and capture the value but it's a
+it's an interesting model for funding
+open source software and protocols that
+didn't really exist before our bubble is
+a bad thing and this is this is
+something I've also been reading about
+that I'm really out of if you have any
+any thoughts on this but in many
+people's minds bubbles are a bad thing
+but I read a counter-argument for the
+first time today which was you know
+after a bubble bursts then you have out
+of the money investors who are
+incentivized in Greek in regaining the
+value of what is declined by creating
+services
+and applications that are now these sort
+of seen applications which then
+preserves the sort of long term
+viability of X whatever that might be
+which I hadn't really considered before
+well there is a fence in which many
+bubbles are unavoidable because the
+future is a genuinely uncertain place
+yeah especially this is these are
+reflexive industries where you know the
+notion of reflectivity is like my
+prediction alone changes the potential
+outcome and you know the extreme example
+is like a prediction market predicting
+the death of somebody if there's enough
+money on that it turns into an
+assassination market so bubbles are
+inherently I think just a part of any
+system that involves Network effects if
+I think then and money is the ultimate
+Network effect I accept US dollars as
+money because you accept US dollars as
+money and so on if we all believe that
+if you all believe tomorrow the tools
+were valuable again we'd be trading in
+tulips right so if I believe that you're
+going to accept this as money then I
+want to put more money in and you want
+to put more money in the network effect
+sort of creates a bubble and as Nick
+said the futures in an uncertain place
+so sometimes we'll be wrong about to
+step back there'll be a little bit of a
+releasing of energy I read something a
+couple of years back that's that showed
+that as the stock market is becoming
+more efficient it's actually becoming
+more volatile it's not becoming less
+volatile more volatile because it's
+reacting faster and faster to
+information changes that's like the
+story I want and you can look at
+long-term capital management or there
+are all sorts of high-frequency trading
+you see you have not only humans right
+who are increasingly interconnected but
+you also have computers right now
+there's a big train development in China
+that causes a political change that
+causes the futures market in China the
+shift that causes the US stock market to
+go down right computers are getting
+better and better at absorbing that
+information extrapolating out the
+consequences and and so the markets have
+become more and more volatile so over
+time we should see bubbles form faster
+pop more quickly and I think they'll
+fall into a power-law distribution like
+there there'll be ones that will be
+really large they'll be one that'll be
+really small and but this idea that the
+future is going to be very smooth
+lair and predictable is a human illusion
+yeah no I think that's fair assumption
+Nick what are the biggest misconceptions
+or common misunderstandings related to
+cryptocurrency or Bitcoin or
+or like what is smart people get wrong
+if there's anything we're going to
+god.this like x drives me nuts if I hear
+one more person you should know better
+haha well we could get into the whole
+block size issue because there's this
+parameter we shouldn't but I probably
+will talk about a little bit there's
+this there's a it's a technical security
+parameter it's called the block size how
+the general public glommed onto this I
+do not know but there's there's an
+obsessive group of people who think of
+this as some kind of artificial barrier
+to more transactions per second on
+Bitcoin really it's its job as its its
+offense preventing people from
+overwhelming flooding the network with
+lots of transactions at the full nodes I
+talked about can't handle that that
+transaction history keeps building and
+building you had a very simple level if
+if every computer is throwing a copy of
+every transaction then you can't have an
+infinite number of transactions because
+when Peter will explode and so what you
+do is if you if you keep increasing the
+number of transactions to two quickly
+then you only allow a smaller and
+smaller shrinking set of computers to
+run the code which reduces who who's
+actually in charge of security before
+you might have had a million computers
+then you're down to one hundred thousand
+big computers then there's only a few
+thousand large players then eventually
+down to five people who can store the
+entire history then you're basically
+back to central bank's alright so the
+debate is should we keep allowing more
+and more transactions because what if
+people everyone wants to buy a Starbucks
+using their Bitcoin or should be only
+limited to very high value transactions
+and instead preserve the diversity of
+people who can who can run the code yeah
+I mean this shouldn't even be a public
+of it's like the public debating and
+voting on the graphite reactor setting
+or graphite thing settings that prevent
+a nuclear reactor from
+heating and melting there let them
+debate the bike shed yeah and there are
+certain things you should let the
+engineers decide and this is one of them
+and for some reason there's just a whole
+group of people who want to want to pull
+out those graphite moderator rods and
+have it going full-steam yeah one of the
+problems with the bitcoin is that
+because a lot of people hold a little
+bit of Bitcoin everyone has a financial
+incentive and they're all talking their
+own book and they get really emotional
+about it
+Nick had this great tweet that I like
+the best way to destroy your investment
+in Bitcoin is to gather an Internet mob
+to go and redesign Bitcoin right and
+there's a little bit of what's happening
+right now well you were saying before we
+started recording that a lot of you
+you've never seen so many scientists be
+uncivil towards one another yeah I think
+I think the worst twitter is Trump
+Twitter where everyone's getting
+outraged over politics all the time but
+the second worst Twitter right now is
+blockchain Twitter where you will have
+PhDs from Cornell and University of
+Maryland all kinds of credential places
+literally calling each other horrific
+names online casting aspersions other
+people's moral cat moral character
+calling them trolls dragging them
+through the mud and they they each have
+their little local tribal mob behind
+them over things like the block size
+debate which has Nick says you know it's
+like chaining the parameter settings in
+a nuclear reactor well it's I mean it
+makes me think of having a bunch of sort
+of expressions that jump to mind you're
+saying you've talking their own book so
+the onion form has to be very careful
+about asking a barber if they need a
+haircut right you need to know what the
+incentives are as I'm sure people have
+heard the expression it's not very
+flattering but man is as loyal as his
+options it might be a scientist
+Kirk someone who is otherwise civil is
+as civil as their incentives right yes
+once you have enough to gain or lose
+yeah incentives are everything like
+Charlie Munger says if you can be
+working on the sentence don't work on
+anything else and in fact you know going
+back to Bitcoin the Bitcoin design for a
+second Bitcoin is brilliantly designed
+because the underlying game theory
+incentives yeah could we talk just for a
+second about what is bitcoins we talked
+about cryptocurrency
+what makes but what made but kind of
+what makes Bitcoin unique if that's if
+we could maybe talk about that you can
+think
+in a couple errors the the most
+important and fundamental layers of
+computer science later layer where we
+proved that it would take 51 percent of
+the computational power of the hash rate
+to attack this thing and do things like
+double spend if you're changing that
+ledger right yeah you can't change the
+ledger the beauty is the fly and amber
+analogy is a great one because once we
+you and I have done a transaction the
+network has agreed on the transaction
+going back and then doing it is nearly
+impossible but while that amber is being
+laid down we can still be some mischief
+so one of the big misconceptions of
+Bitcoin is that well if 51 percent of
+the computers in the network them which
+are run by people called miners the coal
+miners it's the old announcer digging
+for gold so they're digging for a
+Bitcoin but really what they're doing is
+they're laying down that Amber it's 51
+percent of these people collude then
+does that mean they can go back and
+change the ledger no they can't change
+the existing ledger but they can cause
+mischief with the current transaction
+under the current layer that's being
+laid down it's one of the big
+misconceptions so sorry to interrupt
+yeah so that's one of the computer
+science limitations of it and the other
+one is doing software upgrades software
+upgrades kind of change the rules even
+more so yeah and so those two things end
+up getting especially the software
+upgrades end up getting very politicized
+yeah Bitcoin fundamentally what what's
+going on it's a NIC first create a bit
+gold right you want to talk about what
+the innovation in bit gold was or how
+the big goal system worth making later
+on Bitcoin I'm sure I mean big gold was
+inspired by the kind of origins of money
+research and how do I and also there was
+an era called private banking or you
+could take your your bank note and go up
+to bank one knowing it gold and the bank
+the paper money we have today looks very
+much like these bank notes did I'm a
+thing I call authority resemblance or
+sort of faking and pretending too that
+this is still really valuable stuff and
+the illusion works apparently for most
+part but but they used to work very
+differently used to be able to go up to
+window and get actual gold for your
+paper
+yeah and that's not ellipses if you mean
+to green flattened tulips you know if
+debt now it's just the paper itself you
+got to just trust the paper itself in
+the Federal Reserve but in any case I
+was inspired by what peaches of fiat
+currency I right right right
+fiat currency is just a paper that's
+backed by nothing so before it was
+shells then we went to gold then we went
+to gold back paper and now we're down to
+just paper okay
+creating that banknote itself is easy
+enough to do that's basically what
+PayPal and company has working for
+called digital cash with David Chen and
+stuff for doing that trust based paper
+note that was issued by some central
+authority but I became too satisfied
+that because in the end of day you want
+to go to that window and get something
+else that's more what I call trust
+minimized so gold is valuable all over
+the world if you go back to these more
+primitive tribes the gold and the
+shelves and so forth you know you can
+pay them to the next tribe next crime
+over all your neighbors would accept
+them as well they wouldn't accept your
+your IOU because you know you're going
+to trust people you could go war with
+tomorrow but they would accept the
+shells or the copper beads of the gold
+beads the first gold artifact by the
+ways of being the first copper artifact
+so apparently the most important
+earliest uses of metal not knives or
+weapons or tools or so forth any case oh
+so I was looking for this trust
+minimizing like how to do this in
+cyberspace since I had red stuff I know
+it's not just a magical property of gold
+that makes it valuable and other things
+aren't or something or some intrinsic
+you know it started off you can use it
+in let you know electrical circuits or
+so forth no there's something about what
+I call the unforgeable costliness of at
+the scarcity of it the naturally trust
+minimized scarcity of it you don't have
+to trust somebody to keep it scarce I
+try to recreate this in cyberspace using
+proof-of-work atom backs hashcash and so
+basically the bit cool design did that
+and then it used a replication technique
+which it originally developed that I
+apologize backtrack but the proof of
+work would eat what you mean than that
+okay so proof of work is a mathematical
+puzzle a computation that the computer
+does that says okay you have to solve
+this and we know from computer science
+it'll take so long to solve but we also
+know from computer science that it's
+it's a kind of a problem that you can
+improve the hardware which is why
+everybody use design specialized
+hardware for it now because
+unlike normal cryptography it's well
+that it's not even unlike normal
+cryptography in that way but it's
+something that you can do a lot faster
+if you have Hardware proof-of-work is
+basically you have to you you have
+people here who are basically laying
+down layer of amber around the fly right
+and so they have to basically commit
+resources to do it it has to be costly
+to do that you need scarcity in the
+system right so that's the scarcity is
+created by the costliness of the
+computing power that you throw at it so
+basically the more computer power you
+want to throw at the Bitcoin network the
+more seriously the Bitcoin network takes
+your vote and we have to know your
+computing power is dedicated to the
+Bitcoin network it's not you know off
+surfing the internet or doing something
+else so you have to commit it to doing
+work just for the Bitcoin network and
+the proof is through mathematical
+functions so you basically have puzzles
+to solve the Bitcoin network the
+algorithms give the computers puzzles to
+solve if the computer solve the puzzle
+they can prove that yes I put economic
+value time heat power computation into
+solving this problem so now I get a vote
+on what the ledger looks like and I get
+a chance to be paid in coin so that's
+what the miner to do the miners do the
+work to secure the network using
+computers they provide that proof to the
+network the network pays them in new
+coins that it's my this minting got it
+anyway so no Satoshi had an innovation
+where he uses this proof of work as part
+of the security for people who don't
+know who is Satoshi to that name well
+it's some unknown character out there
+that has disappeared yeah our group yeah
+whoever whoever it create a Bitcoin you
+know obviously built on Nick's work
+built on health in his work way there
+were a couple of great computer
+scientists who did this work but whoever
+actually built the working
+implementation because I think Nick you
+had you had the theory of bitgold but
+you're not a serious in a programmer to
+create a bit cold well I'm a serious
+programmer but I have to didn't get
+around to programming bit cold so yeah
+it was a divine and so whoever created
+Bitcoin probably a group because it
+looks like a very sophisticated effort
+did it pseudonymous lee or anonymously
+and the the
+name that they use the satoshi nakamoto
+BIC gold is it's designed on the theory
+to use this proof of work as a like all
+unforgeable costliness or to constrain
+the supply curves you know it's scarce
+and satoshi the big innovation was to
+well let me backtrack and describe a
+little more bit cold so there's a
+protocol design for keep airplanes from
+crashing because you don't want your
+computer to go crash on an airplane and
+cause the airplane to crash right you
+want to be your computer to be able to
+crash an airplane that the airliner
+itself going down so what you need is to
+distribute this rounds you have several
+chips all around the airplane and then
+they talk to each other and then if they
+get contradictory information they do
+what you might call voting they'll take
+the majority and consider it to be to
+the correct one and that turns out to be
+they mathematically prove that this was
+the optimal model given those
+assumptions that you know how many chips
+there are and so forth and this is
+called Byzantine consensus so I took
+that and used it for this replication
+business to replicate the data around
+the ledger round with a Merkel tree for
+the transaction history and so forth
+what Satoshi did was a really big
+innovation besides of course actually
+making software people could use which I
+never did he is the proof of work in
+security subs on the internet you can't
+count your chip securely you don't know
+I have a chip in the tail and the chip
+and the wing and so forth did a sock
+puppet problem people one person can
+pretend to be 100 and wear one computer
+can pretend to be 100 Satoshi based it
+on proof-of-work basis security that
+voting like if the preponderance of the
+hash rate tells me that the transaction
+is histories been updated and such in
+such a way then that's that's it
+and again that's good up to 51% that's
+where the 51% attack comes from maybe
+one computation one vote is the way to
+think about it got it and actually you
+know one of the one of the problems that
+people have with the Bitcoin network of
+design so basically a Bitcoin you have
+all these computers around the world
+that are joining together to create this
+shared blockchain computer they get
+votes in proportion to how much CPU
+power they're allocating they vote on
+what the valid transactions are that
+then go into this ledger and get sealed
+in the amber of the blockchain and the
+whole
+system kind of works but a naive person
+looking from the outside as you said
+like the hippie is coming the
+blockchains
+one of their first objections is you're
+wasting all this computer power you're
+wasting all this energy you're wasting
+all this network resources because
+they're constantly chatting with each
+other and Network these computers are
+broadcasting packets each other all the
+time and they just say it's wasteful but
+and I think that was an argument that a
+lot of people make and even I kind of
+fell for that one where I was like okay
+you know eventually someone will come up
+with a better solution than proof of
+work and go to proof of steak or a few
+other kind of ideas I've been thrown
+around and then Nick just recently wrote
+this brilliant piece on social
+scalability and whether you've got a
+doctorate recently an honorary doctorate
+oh yeah at the university Universidad
+Francisco marroquín yeah and Guatemala
+what is your doctorate in it's in social
+sciences and also an honorary
+professorship as well so yeah that's
+great it's a very long only social
+scientist that could talk at this level
+well I mean that's the kind of honorary
+doctorate they give yeah but yeah it's
+been a great lots of luminary so yeah
+I'm very honored to have that yet they
+cited your social scalability article
+and so the social scalability argument I
+thought it's a really powerful one I
+don't know if you want to try and
+summarize back for the listeners I'm
+sure so the idea basic idea is that if
+you look at a graph of human
+capabilities it's basically flat for the
+same IQs we had you know if there's a
+small thing called the Flynn effect but
+under net you know a hundred thousand
+years ago our brains were the roughly
+the same size they are today and
+computers on the other hand have been
+you know doubling every few years their
+capabilities in various ways their
+memory their CPU power network bandwidth
+and so forth and so and you can think of
+this in the future and get into all
+sorts of speculation about the future
+but what I like to think of it as we
+have this whole surplus we've built up
+of resources and yet we're still doing
+things institutionally with armies of
+bureaucrats and stuff very similar to
+what we were doing you know when
+computers were you know a thousandth of
+the power they are now or a millionth of
+the power they are now or they're doing
+in the Mongol Empire yeah so in any case
+so can we do some substitutions can we
+sub
+to take advantage of this great surplus
+so computer scientists are normally and
+engineers are normally trained to think
+optimize the Machine make the machine
+itself really efficient well what I'm
+saying is that you can think the other
+way are there ways to make the machine a
+lot less efficient and give you some
+greater capability so that such as for
+example the ability of somebody in
+albania to pay some games in bob way
+without going through a trusted
+intermediary or human bureaucracy ways
+to do that you know even if they cost a
+lot more and look really bad - an
+engineer likes to think about efficiency
+so and bitcoin is a great example of
+that it's a proof-of-work as part of its
+security and in my mind to create that
+that scarcity is stepping back for a
+second
+what separates humans from other animals
+is that we are social across genetic
+boundaries so you know even the end
+results you can have 150 Neanderthals on
+a battlefield because they're all
+genetically related but you can have
+5,000 Homo sapiens in the battlefield
+because they believe in the abstract
+idea of Christianity and they can
+communicate that story to each other
+right and so Bitcoin enables the form of
+social scalability where it allows now
+humans who don't know each other who
+don't trust each other who may never see
+each other again and don't even reveal
+their identities or locations to each
+other
+- still transact securely not just with
+money but also in contracts any complex
+logic they can dream up at they can code
+up they can do it through this very slow
+and very inefficient computer but it
+removes all these layers of humans
+bureaucrats and toll takers from
+operation what right so you're able to
+exceed the Dunbar number right exactly
+yeah at 150 people Dunbar numbers so
+you're basically trading computational
+scalability for social scalability
+Wilson just to maybe put it another way
+and I'd love to be corrected this isn't
+right but there's another quote of yours
+Nick that I really like trusted third
+parties or security holes now yeah I
+think relates to this very nicely and
+there's a bit on blockchain computers
+that I think is relevant so why why make
+the trade-off why allow all this
+inefficiency
+and I'm not going to read this entire
+thing but it's the blockchain computer
+this distributed blockchain computers
+much slower more costly than a web
+server by one very rough estimate about
+ten thousand times slower more costly
+but since on the blotching you're
+running the portion of an application
+that needs to be the most reliable and
+secure what you call this the juicy area
+called code because the downside risk is
+so high you can afford to have tons of
+inefficiency particularly with hardware
+that is dropping and cost and increasing
+in capability year round here right now
+we've accumulated this great great
+hardware capacity surplus that that
+we're only starting to take advantage of
+and so you can use that to do like the
+proof of work the very the strong
+security protocols that take some
+computational effort and also the making
+the copies we have lots of memory lots
+of disk space lots of bandwidth not vast
+amounts but enough that you can you can
+take a small transaction and replicate
+it around the world make thousands of
+copies that helps create stuff flying
+amber in fact where you can't deny it
+later because everybody's got copies of
+it in a way like I think you had a
+definition of social scale that in your
+article or it's not precise but close
+enough where you basically said one way
+to estimate how socially scalable
+technology is is by how many people can
+use it right and when it comes to cash
+today like like the US dollar it's you
+know accepted probably the most widely
+accepted currency in the world but we're
+still talking hundreds of millions to
+maybe a billion people can really use it
+in their everyday life whereas Bitcoin
+in theory when it said when it's adopted
+can be used by anyone to pay anyone as
+long as you connect it to the internet
+and everyone's connecting to the
+internet it scales better I'm going to
+ask a question that came up a lot and
+it's one that I don't have any any
+ability to answer is it possible to for
+any government entity to regulate
+Bitcoin or cryptocurrencies out of
+existence if so where would you put the
+likelihood of such a thing happening or
+being able to be implemented by me
+because these copies are all over the
+world they're never going to get rid of
+these copies somebody's always going to
+have the transaction
+Street and can start it up again yeah so
+that good sense makes it very difficult
+to regulate there are easier parts of it
+to regulate such as the exchanging of
+fiat currency your local currency to
+Bitcoin back and forth those still
+happen through centralized exchanges
+which both makes them fairly easy to
+regulate and also makes them insecure
+trusted third parties or security holes
+so if you want to get in and out of
+Bitcoin you're usually doing it through
+these centralized exchanges and that's
+where the vast majority of thefts and
+hacks of a Bitcoin have occurred these
+exchanges essentially end up like banks
+their honeypot so regulators their
+honeypot speed is there how do you buy
+or sell say Bitcoin without going
+through today you do that through a
+central it through an exchange there's
+also sort of local meetups there's like
+there's these sites like local bitcoins
+and there's a few others there's a big
+one coming up in China now where you can
+just sort of coordinate a meet-up with
+somebody in a dark alley and you
+exchange cash for a Bitcoin so people
+can't fall back to that and and the
+volume on those kinds of distributive
+exchanges have gone up a lot if you look
+a bit torrent which is the file sharing
+technology here accounts for like a
+ridiculous amount of Internet traffic
+Bram Cohen invented it you know that
+thing on given day can account for with
+a quarter to half of Internet traffic
+and you can bet the governments that
+have been trying to shut that down
+because right now the government's are
+overzealous and nothing in so much to
+enforce and copyright law we want to
+drive you know you want to drop the full
+weight of the federal government on you
+you either engage in you know terrorist
+activity or evil at copyright oh they're
+like roughly equivalent right they'll
+drop helicopters in your house in New
+Zealand you ask Kim calm for violating
+copyright law even if you've never set
+foot in the you managed such an
+understated lifestyle yeah and I caught
+on to him but yeah so I don't I don't
+think government can really shut it down
+not only that but any government that
+really embraces Bitcoin or any of these
+cryptocurrency doesn't have to be
+Bitcoin they could even kind of start up
+a new one if they wanted to
+is this going to benefit so much from
+really owning the money that's native to
+the Internet
+you know I call Bitcoin the internet of
+money because it's it's really native to
+how code works so if you really want to
+future-proof yourself it's like it's
+like imagine if the u.s. cracked down on
+it and said no more cryptocurrency that
+would be saying like saying no more HTTP
+right and the country that did adopt
+HTTP and by the way this is the HTTP of
+money would end up so much better off
+that used to be shooting yourself in the
+head so I think smart people smart money
+in the u.s. already recognizes that and
+so it's seeping up into the government
+where they're figuring out like yeah we
+could we could be draconian about this
+we'll just drive it out of the country
+it's already happening to some extent a
+lot of the icao that are happening we're
+happening at a switch to energy Balter
+those teams are leaving the US actually
+because especially places like New York
+have been very heavy-handed in their
+regulations so you're just driving out
+innovation what is the incentive for say
+New York to be supportive or at least
+maybe cast a blind eye to development of
+this type of technology just like the
+internet took out Hollywood with Netflix
+and you know Spotify and it took out
+newspapers with publishing and Twitter
+and Facebook and it's taken out you know
+all kinds of industries the internet is
+going to fundamentally change and
+possibly take out the finance industry
+as we know it and the new finance
+industry is going to settle wherever the
+home of innovation is for smart
+contracts and cryptocurrency this is my
+belief obviously not investment advice
+but I think this is so convey lease
+replacement of a lot of the
+infrastructure of Finance and so if New
+York chooses to drive that out then New
+York will no longer be the center of
+finance got it every time I go to New
+York I'm actually highly entertained
+because I see all these huge towers I
+see all these people in suits and I know
+that 90% of them will be obsolete within
+20 years nice horse and buggy oh I like
+that yeah well I would I would not be
+thinking about going into Investment
+Banking right now because a lot of that
+job is going to be automated commercial
+banking automated you know the bankers
+were the minors of the last generation
+they got paid in the currency to secure
+the currency so when the Fed wants to
+yeah they weren't even the miners or the
+traders yeah well the Fed wants to
+distribute currency to give it to the
+banks and guess what the banks the banks
+have sticky fingers and then they
+allocated out to the rest of us very
+sparingly and the new bankers are the
+miners the new Fed is the cryptographers
+but really the new owners of the
+infrastructure are the holders of the
+coin which is everybody or could be
+everybody is cryptocurrency or let's say
+Bitcoin inversely correlated to any
+particular other asset classes for
+instance when people are fearful of say
+currency devaluation they might run the
+gold right it's seen this in places like
+Argentina seen in the US see all over if
+you see that also with Bitcoin in in a
+particular pattern yeah they definitely
+are store of value because Bitcoin
+there's only gonna be 21 million ever
+the whole way the protocol is designed
+you can't create a single one more and a
+bunch of been lost so because they're
+hard to secure hold on they get lost
+well you could lose your key so you call
+I so understand all of it so I really
+can't forget your gut Tim or you kind of
+defend it you're trying to hide it from
+hackers so you come up with some really
+elaborate scheme and how to secure it
+and then you lose it or people have lost
+the computer that it was on you know so
+where's who have you heard any third
+catastrophic stories of people with like
+you know digging through garbage dumps
+with bulldozers trying to find that old
+computer which they threw out which had
+you know 10,000 Bitcoin on it and you
+need to get hardware well if it makes
+encrypted backups so that you're neither
+stolen from nor we lose your king yeah
+so I mean there's a finite number of
+Bitcoin so bitcoin is electronic gold
+there is a generation of kids who will
+grow up that as long as they've been
+alive like my son when he's older as
+long as he's been alive there will have
+been gold and they will have been
+Bitcoin you think the likelihood of
+Bitcoin in any way falling out of reach
+for people like your son is close to
+zero I don't think Bitcoin itself may
+suffer because it has governance issues
+and another currency like we should talk
+about etherium and some of the others
+that are coming up might take its place
+but the idea that blockchain computers
+are going to go away is ridiculous
+that's like saying the Internet's going
+to go away
+just two fundamental of a technology
+barring a total mathematical
+breakthrough that obsoletes all
+encryption which would also be the end
+of the commercial Internet as we know it
+I think that some kind of blockchain
+computer will dominate currency store of
+value contract law and any kind of
+financial instrument prediction markets
+all kinds of things in the future so to
+Mike to my kids they will choose
+electronic gold they will choose big
+gold and its successors over real gold
+Nick what is this is another one of
+these words that comes up at dinner
+parties and various conversations and I
+kind of not long so embarrassed to ask
+questions
+fearing I'm the only one at the party
+kind of like everybody goes to summer
+camp and they all miss their mom but no
+one wants to talk about it and admit
+cerium what is a theorem so so we talked
+about the blockchain computer so Bitcoin
+honor if your audience and hearken back
+to the beginning of Apple Apple Computer
+where Steve Wozniak was working at
+Hewlett Packard on a scientific
+calculator and it had a certain limited
+scripting language that you know
+specialized for that it wasn't a
+full-fledged general-purpose language
+that you could do lots with but what he
+did was he got excited that his
+circuitry
+you know chips were getting cheap enough
+that you could do the full-fledged what
+they call Turing machine after Alan
+Turing because he's one of the inventors
+of it I'm a full-fledged general-purpose
+machine that can do any mathematically
+feasible computation and so bitcoin is
+like a restricted computer does certain
+things specialize like the multi-sig I
+talked about and certain other other
+things that can do but aetherium is a
+much more general-purpose computer and
+it also stores long term state better
+which is that's a technical thing but
+it's an important difference so
+basically a serum has great potential
+for this reason it has potential to do
+smart contracts much better than Bitcoin
+does the drawback going to this is it
+also increases the attack surface it's
+what the serums doing is riskier the
+attack surface attack surface so you can
+think of of your house is having a TAC
+surface there's windows and doors and
+places
+people can get in right well the
+etherium thing has more surfaces that
+people could potentially get in because
+people are doing more things God adjust
+more vulnerabilities that correlate to
+more functionality right so much more
+flexible computer so you can talk to it
+in many many more ways you can inject
+bad code in you can hack it many many
+move another thing that makes it risky
+is that it's newer it's it's not much
+more advanced than where in terms of its
+maturity and getting out all the bugs
+and stuff as Bitcoin was when people are
+paying 10,000 Bitcoin for a pizza and
+and yet what's the theory market cap now
+I think it just crossed like eight or
+nine billion today yeah so the market
+caps are fuzzy because if you calculated
+properly based on the future issues of
+the coin it might actually be
+approaching bitcoins market cap it might
+be in the twenty billion range once you
+take inflation into account anyway even
+with just the ten millions out there or
+eight billion out there now that's
+that's a lot more money than Bitcoin had
+at the same stage of maturity so I
+definitely say it's at a riskier state
+but it's also much greater potential
+yeah I mean this is so now we're I think
+we've done a lot of background in
+and I think what people really want to
+hear from Nick about is a little bit
+more the advanced stuff right because
+you did they call you the smart
+contracts so they kind of want to know
+where you think the future is headed and
+I know the future is impossible to
+predict them against not investment
+advice but very generically what
+platforms are you most excited about
+where would you spend your time if you
+were like a young fresh person walking
+into this space so I am excited about a
+cerium and a theorem classic and there's
+a what's called a sidechain for Bitcoin
+called rootstock that they hope to
+combine together the best of a cerium
+with with Bitcoin on the chain so you
+can trade the Bitcoin currency but do
+the turing-complete full-fledged smart
+contracts the potential there is that
+and there very well could be other
+turing I mean there's a few other
+turing-complete ones out there and yet
+probably quite a bit more in the works
+as well
+anyway the potential for this stuff is
+that doing cross-border things and other
+things we're crossing a trust boundary
+and you don't necessarily have access to
+good legal legal affordable legal
+counsel for financial contracts
+especially as low hanging fruit because
+those are usually very well defined and
+bureaucrats like to make complications
+and add all sorts of epicycles to them
+but really an option and a future and
+stuff they're they're logically and
+temporally pretty simple things to do
+and once you get more of the underlying
+assets you can do options and futures
+you know as for example exchanging
+Bitcoin for a cerium and we're getting
+all these other tokens that are going to
+be on these block chains you'll be able
+to include in that now if you go off
+blockchain
+you got to kind of take a different tack
+the words if you're connecting your
+smart contract to the real world you
+need that you need to know what happened
+in the real world decide whether or not
+to execute you're smart right so if
+you're doing an Apple stock for example
+because that's that's a traditionally
+defined thing that depends on
+traditional systems to make it work
+incentivize Apple to pay the dividends
+and and do what they do in any case if
+you want to do that then all of a sudden
+you're back in the traditional financial
+world and the traditional financial
+people know that right now there's like
+a a cultural disconnect that Bitcoin
+people have a really cool technology and
+but they hate the people in the
+financial community don't want to talk
+to them though and learn from them and
+same to some extent with these Syrian
+people as well and on the other hand the
+financial community people hate and
+don't understand blockchains and
+cryptocurrency fact there was this whole
+bunch of very dubious startups that
+raised a bunch of money to do things
+they call block chains at work they
+didn't have blocks I didn't have chains
+they weren't didn't have security I was
+talking about but the marketing people
+one call them block chains they could
+pretend to be like Bitcoin and you know
+the price going laps just commuting
+dollars by later yeah of these like the
+most of the private blockchain come yeah
+I'm not going to name them yeah yeah so
+the financial people don't understand it
+and they've gotten burned by some of
+these companies so they hate they they
+hate it but what really I think for the
+entrepreneurial opportunity and some of
+your listeners want or looking for none
+for an opportunity is to marry these two
+so take the best of traditional finance
+take the best of the block chains
+aetherium if you're doing sophisticated
+smart contracts and willing to take some
+risks and Bitcoin if your main thing is
+cross-border payments take these and and
+marry them together figure out ways to
+securely reflect assets on the
+blockchain using both traditional
+financial controls and bureaucracy and
+taking advantage technology I think
+that's the that's the opportunity people
+haven't done yet because of this
+cultural disconnect what would you say
+are some of the most important valuable
+components of the traditional finance
+world like where would you start the
+traditional paper world is really good
+it had a thing called separation of
+duties where as we talked about multiple
+people signing off on things and looking
+things you have to go through multiple
+stages like if you get an order the
+salesperson has to give the order to the
+accounting department and they have to
+give the order to the manufacturing
+people and everybody records it so it's
+like a little mini mini paper blockchain
+that that people used to have with
+computers that's kind of gotten messed
+up and hackers can you know what they're
+doing can take advantage that these
+systems don't work as well now but if
+you to a great extent you can make them
+work and people do make them work you
+know with stock clearing and settlement
+and issuance and so forth so anyway yeah
+there there are experts in the financial
+community don't do that if you can if
+you can make them love instead of hate
+block chains then you'll have a great
+great skill set combination if you can
+get the block chain people knows guys
+together yeah you're interesting one
+because you combine law and computer
+science to do unusual things and you're
+basically saying is you can combine
+traditional finance and now computer
+science you do unusual things and right
+somewhere that intersection set you can
+take a process that's entirely paper and
+move the part of it that belongs in the
+blockchain on the blockchain well
+plugging in the paper part or it used to
+be paper and somebody just naively
+ported it in some naive and secure
+fashion the computers and now you can
+use block chains to make it secure more
+secure and trust minimizer yeah on the
+side of educating oneself so let's say
+there are people and I'm sure there are
+listening or part of the traditional
+finance world so that sounds like a
+great idea
+I want to learn how to love Bitcoin in
+crypto currency I want to learn about
+this
+how would you suggest they choose
+reliable sources of information because
+as we've noted before it's a bit of the
+wild wild west in some respects you
+don't have not everyone is making
+disclosures about what they're their own
+portfolio might look like so there are
+there are a lot of barbers telling you
+shouldn't you get a haircut
+and how would you suggest people think
+about that I mean if you're technical
+and want to dive into the engineering
+the technology of it
+the Bitcoin white paper is still by far
+the best place to start and Vitalik
+pewter and cerium white paper also what
+was that naming
+Vitalik petering okay he's a guy who
+created it was any developer honestly
+Ryoga
+he's actually interesting guy young
+prodigy probably like 20 or 21 now
+started when he was 18 absolutely
+brilliant
+there is a guy named aviv zohar was
+written some great papers one of them is
+on ghost which is what etherium is based
+on and he's got a follow up to that his
+name escapes me and he's also written a
+cost and a great paper and attacks
+against bitcoin from the underlying
+network so he's one of the experts on
+the security of bitcoin which is a skill
+and knowledge set and scarce supplies
+yeah one of the one of the problems and
+opportunities here is that you know
+going back to that earlier thing it's
+about money being the bubble that never
+pops bitcoin is kind of a Ponzi scheme
+that starts with smart people so the
+smartest people understand it first then
+they sell it to like the people who need
+the cryptography explain to them like me
+and then we sell it to the people who
+need to the next level down and the
+whole thing could pop and end badly so
+I'm not saying go put all your money in
+Bitcoin but I think to understand
+blockchain computer user you sort of
+have to get into the math and the code
+and the hard stuff but if you wait to
+figure it out by the time everyone can
+figure it out with the same tools it
+will kind of be too late from an
+investment or earning perspective it'll
+be too late from an investment
+perspective or not for me from the
+utilization standpoint no of course
+you'll be able to use money just as we
+use dollars but you're not going to be
+investing in something that is going to
+hockey stick
+yeah the challenge for the industry is
+like today Bitcoin has all these
+advantages or gold you know it's it's
+more easily transmissible it's more
+sub-divisional it's more easily stored
+it can be communicate by computers but
+to the average person that means nothing
+all they need to what they need to
+experience is they need to receive some
+Bitcoin in a transaction and then send
+some Bitcoin transaction had the
+experience be so much better than every
+other experience they've had with money
+or a gold and the tools just aren't
+there yet like right now securing your
+Bitcoin for yourself is still difficult
+the hardware wallets are getting better
+but it's still kind of a nightmare so I
+think the industry still has a decade of
+work to do to make cryptocurrencies live
+up to their potential and the idea space
+is so larger than all these companies
+working on but every year it gets a
+little easier to use it has a few more
+use cases it gets a little easier to
+store and and the smart contracts that
+are built on it become a little more
+interesting so that is a process and
+eventually you'll be able to use Bitcoin
+without knowing anything about it just
+like you can use your thoughts without
+knowing how the Federal Open Reserve
+Open Market Committee works and you know
+does lending and issues Treasury bills
+and all that stuff there's only a few
+geeks you need to know that in the world
+of finance and you can just use money
+like it's money just to clarify one
+thing sex and money is the bubble that
+never pops you're talking about the
+concept of money yeah the concept of
+money because visual currency is closer
+really sure I mean tomorrow I lived in
+Argentina between like 2000 mm yeah
+tomorrow we all believe that the US
+dollar is just a green piece of paper
+and I can't eat it I can't do anything
+with it or if like aliens came and took
+over the world and you know we offered
+them little green pieces of paper this
+is using the start of bonfire or
+something all right so if the money is
+just a concept and you have to agree on
+what that scarce element is and today
+that scarcity is enforced by governments
+with guns and central banks and it
+breaks down national borders and the
+people who secure that money for you
+take a huge tax roughly 1/3 of the
+economy in exchange for it and
+eventually it will be a distributed
+network of computers acting in
+self-interest who are going to secure
+that the scarcity of that money and
+hopefully their tax is going to be a lot
+lower what else would you you're
+obviously much more on the pulse of this
+but what other topics
+it could be beyond my paygrade it
+probably is but should we explore with
+with Nick yeah I think I think you know
+just talking about blockchains in
+general so we started with Bitcoin the
+blockchain which is around transferring
+money
+there's aetherium blockchain and others
+like it which are about computation and
+running like very slow but very trust
+minimized reliable contracts what other
+uses can you see for block chains coming
+up that you think may be a little
+far-fetched maybe 10 years Apple what's
+you know what's the possibility space
+well I mean one of the possibilities is
+that I'm really excited about the
+cross-border thing to have say
+grandmother's in India and teenagers in
+somebody's basement in Indiana doing
+what people normally thought were
+sophisticated financial contracts such
+as options futures etc you know through
+this online vending machine in the cloud
+that's blockchain so that that's an
+exciting and probably many people
+disturbing possibility I think is going
+to be coming up in the next 10 to 20
+years yeah I mean so you could have like
+people loading each other money or
+creating credit instruments or engaging
+in prediction markets and things like
+that yeah blue team of prediction
+markets well I'll talk about one that
+the insurance people are working on
+which is related which is parametric
+contracts so normally an insurance will
+pay out you know if you get damages from
+a flood and have to come estimate your
+damages which is basically a a wet human
+exercise and you know eyeballing how
+moldy your wall is and how much you got
+flooded and stuff but drier way to do
+this is called parametric contracts
+where like if you're a hotel in an area
+got hit by hurricane you can measure how
+much business you lost on your
+accounting books and you can
+parameterize that and basically have
+your smart contract pay off if your
+books go below a certain time or pay you
+more as the fog your books go down so
+that ensures kind of what you really
+want to ensure they tell really want to
+insure which is their business and it's
+also dryer it can be done by software
+verifying you know what the books are so
+you can make a smart contract out of
+that and there are other parameterised
+contracts as well based on others
+things that computers can sense and
+measure in prediction markets are you
+know people can actually make
+predictions and get paid if their
+predictions are correct or lose money if
+their predictions are wrong and then
+these prediction markets can also serve
+as arbitrators of truth and pricing into
+these smart contracts so for example you
+know in next case the next example the
+you tie in directly to the hotel's books
+the hotels lost revenue and so you know
+whether or not to pay the hotel but if
+there's a flood I want to say was the
+hotel in the affected area was the hotel
+itself affected you need now it's called
+an Oracle you need someone who's
+basically going to go in there and say
+like yes this happened no they didn't
+and prediction markets through very
+sophisticated engineering which i think
+is beyond the scope of this conversation
+basically try and pay that person for
+telling the truth in a reliable way
+and so you can use that to cross the
+divide between the wet space and dry
+space or from the real world into
+computers to have them do these things
+you see usually the insurance markets
+being completely overhauled by blotchy
+and computers and insurance the huge
+industry gigantic a lot of it just
+belongs in the blockchain I don't think
+you're going to have like you know
+bankers in Bermuda doing this twenty
+years from now you do nothing I don't
+think - yeah
+because of the technical barriers to
+understanding or challenges let's say
+lead I think the space to be susceptible
+to say charlatans for very smart who can
+fool people who don't understand
+technical aspects a lot of scams in the
+space how do you what are the
+characteristics of charlatans or scams
+in the space you know it used to be
+easier to spot but louder they talk to
+the scanner they were now I think it's
+the scammers have gotten really
+sophisticated
+some of these scammers are like version
+5 of their scam so they'll be selling
+some coin and they'll be talking about
+how it like enables some functionality
+when reality the code doesn't or they
+have some backdoor where they're selling
+your scarce coin but they can print a
+lot of them so in that sense you know
+there's there's a couple of coins that
+are sort of in the top set that are
+regarded as top-flight that'll legit but
+you what is a Bitcoin in theory I'm a
+kind of the best known ones then there's
+sort of a second-tier contender list of
+you know Z cash Manero
+like coin etc you know there's some new
+ones coming up like Tasers then they
+seem more legit but you you have to know
+your stuff and do your homework it's not
+something what I would recommend you
+just run out and buy and then there's a
+long tail of coins where there's a
+diamond in the rough here or there but
+there's a lot of junk - so what's
+attracting people just how much money
+you can make in this space you know
+bitcoin has basically doubled in value
+every year since its founding it's oh
+it's good and you know you do that for
+eight ten years and you end up with a
+very very steep curve something like
+aetherium if you bought it when it was
+sold in original presale today and just
+a few years later you'd be sitting on
+hundreds and hundreds of times your
+money and you'd be fully liquid but this
+is not unrecognized the space has
+increased in value so much the market
+cap of all the cryptocurrencies is more
+than double just in the last quarter so
+there's a lot of hot money flowing in
+will flow back out possibly are we in a
+bubbly environment probably will this
+bubble pop nobody knows would pop across
+the board or will it pops electively or
+will it pop later than a different pop
+so it won't matter it'll be a flight of
+money from one asset class exactly or
+will the value switch from Bitcoin to
+etherium will Bitcoin forking the two
+competing coins because people
+are arguing over whether the block size
+should be increased or not there's so
+much craziness just just to pause on
+that word because this when I was
+attempting to educate myself and doing a
+pretty mediocre job of it this word fork
+came up over and over again it's in my
+mind I'm envisioning something reading a
+lot about dia
+so the making of the modern world in
+jenga's con and all this stuff Imogen
+and I thanks Pam Carlin for the hardcore
+history I you would always you would
+have these internal factions that would
+then split off as two or more cigar
+groups in this context what is for
+coming and how should how should I think
+about it in a coherent way this is this
+is open source code so I can take
+Bitcoin I can create a copy tomorrow and
+it can change it so that all the
+benefits go to the ball and right and
+that's a fork of Bitcoin that I'll call
+navall coin now in reality people
+hopefully do more interesting Forks so
+there's a fork of Bitcoin called
+litecoin which use a different mining
+algorithm a different way to
+authenticate the miners there's another
+for call Z cash which uses different
+privacy routines to basically allow for
+private transactions so other people
+can't look in the ledger know who who
+spoke didn't got it so not every node
+has full ledger
+correct well every note is a full ledger
+but it's cryptographically hidden so you
+can't tell who sent who how much money
+no no in the fork you just talked about
+Z cash and litecoin they started over
+from scratch they started their own
+transaction history and scratch there's
+another more troublesome kind of fork
+where you don't start from scratch
+you're just upgrading the current
+software with the same transact with the
+ongoing transaction history and you're
+trying to convince people to follow and
+come a very political political process
+fighting over the key Angela - and and
+since you know Bitcoin has you know the
+the 20 plus billion dollar value you
+know people would much rather you know
+make put their favorite idea into
+Bitcoin then go off and start their own
+cryptocurrency from scratch it's like
+Bitcoin only better yeah and yeah and so
+there's tremendous political fights over
+over upgrades in the space just those
+are the bad blood comes to a huge debate
+right now and the big
+world where they're fighting over and
+and the basic question is do you
+increase the size of the ledger
+it's the block size debate do you
+increase the size of the blocks to hold
+more transactions so then you can bring
+down the cost of each transaction so
+that I can go and buy coffee and Bitcoin
+or do you leave Bitcoin alone and treat
+it more as like a Swiss bank where you
+only move around money rarely in large
+quantities and the smaller transactions
+are done on another layer on top where
+you create another software layer on top
+they call it like lightning Network as
+an example of that layer they could
+which can be used for very small very
+fast transactions and micro payments or
+not even micro but even like paying five
+dollars for you know at Starbucks
+because Bitcoin literally every time you
+do a transaction there are thousands of
+tens of thousands of computers all over
+the world that are recording that
+replicating that and storing that for
+all the time right that's a lot of work
+yeah where you could probably run all of
+visas computational power on a single
+iPad today but this much more
+centralized systems are much more
+efficient but they're much less secure
+that's kind of the trade-off yeah and so
+this yeah I mean the first choice isn't
+for the blockchain itself really a
+viable choice in terms of scaling is it
+scales from you know ten times the value
+of transactions value per second of
+transactions is today because the
+capacity is limited there's these full
+nodes that are running that require a
+certain band what they have to talk to a
+lot of people make a lot of copies to
+replicate to stuffer em and so there's a
+second layer and of all was talking
+about that really the people buying the
+coffee are going to have to transition
+to and this has caused a lot of friction
+because people are going to have to
+transition for the small everyday
+purchases from Bitcoin the blockchain
+itself to this second layer and there's
+competing designs for the second layer
+and so forth and so there's there's
+plenty of things to call as political
+friction going back to the money
+definition the debate is is Bitcoin
+really a store of value or is it a
+medium of exchange and so Nick I know
+you don't want to get into the middle of
+the politics of it but just from pure
+computer science perspective like if you
+were designing you know if you're
+redesigning a bit gold today and you
+want to incorporate
+these learnings where would you fall in
+on would you go for larger blocks would
+you go for a second layer oh no I
+definitely offer a second layer I mean I
+designed Bick aren't gold with two
+layers because and can you explain just
+I must have lost something just what
+that second layer is one more time the
+first layer is the blockchain itself the
+Bitcoin we call the capital B blockchain
+doing the secure transactions and the
+ones you can do from Albanian ISM Bob
+way without a trusted third party going
+through the blockchain and the second
+layer and the ability to grow the
+transactions per second on that is very
+limited you can grow the value per
+transaction quite substantially but the
+ability to grow transaction per second
+is limited because those have a certain
+size and you have to make copies of them
+around it and so forth I see so the
+second layer would be for the coffee the
+pizza yeah and so as this grows as more
+and more people start using this they're
+competing for that that limited block
+space and the fees are going up and so
+if you want to have a cup of coffee
+without having to pay as much fees you
+paid for the coffee
+you know in two or three or four years
+from now you're going to have to use one
+of these sidechain what I call
+peripheral financial network that it's
+collateralized on the blockchain it's
+almost trust as trust minimized as the
+blockchain itself but it's for lower
+value transactions that only
+periodically settle on the blockchain we
+talked a little bit about the I suppose
+third-party tools of application layer
+exchanges and so on the user experience
+being suboptimal currently but what if
+you could wave a magic wand and make
+certain things happen make certain
+people invest in say Bitcoin what is
+what would be required to help Bitcoin
+across the chasm to become much more
+mainstream maybe it's just inevitable
+and it's a matter of time that could be
+it but if you wanted to accelerate the
+process and it was like okay we can make
+wave a magic wand and you can choose any
+group of people to invest save ten
+billion dollars into Bitcoin or whatever
+the number is and then
+X Y & Z that would help mass adoption
+and the crossing of the chasm what what
+are the things that come to mind well I
+mean currencies of tradition associated
+with government's because especially in
+the modern time they're the largest
+creditor and the largest debtor and so
+they're they have the plurality of the
+say and what is the you know the the
+money other people are going to use so
+right now bitcoin is being used for a
+snitch purposes where the Fiat system
+which is a very what they call
+permission system so blacklist people
+I've met people at Bitcoin conferences
+they've got plenty of money and stuff
+but they've been blacklisted they can't
+open bank accounts and so forth so
+there's actually the heart the hardest
+thing no no not necessarily it could be
+just they're you know they're suspected
+of something or the money laundering
+laws are such that you know if somebody
+does something that look suspicious you
+have to block it yeah and so there's a
+lot of use of that kind of very
+erroneous error-prone permissioning that
+goes on with the bank system that
+doesn't go on with Bitcoin yeah or
+PayPal I was just thinking friend from
+New Zealand for a host of so
+coincidental factors just had a huge
+huge nightmare and it took months to
+result yeah the way I participate in
+cryptocurrency investing these days
+because I don't have to worry about how
+do you procure it how do you secure it
+or even what to buy is I invest in hedge
+fund in the space and I've actually
+joined one loosely the venture partner
+and the biggest problem they have is
+getting bank accounts because the
+regulator's dig in too much if you're
+sending money in and out of Bitcoin or
+theorem exchanges it's just something
+they haven't seen and they don't to deal
+with it because banks don't they don't
+have a sister to charge you more for new
+weird stuff so just plugging into the
+existing banking infrastructure is hard
+and that's probably where if they're if
+countries do crackdowns it'll probably
+happen in that area so how do you fix it
+or if if you had close to infinite
+resources and could just make certain
+things happen - yeah facilitate good
+things or prevent bad things yeah I mean
+first I would
+them into the existing banking system in
+a much better way the existing banks you
+know should accept that if there's a
+legitimate player here they're only
+working with currencies that aren't
+scams maybe they have some you know
+bonded collateral or something like that
+and they're legit actors they should be
+part of the banking system because the
+future of the banking there must be
+banks because bank there are all today
+thanks I do exist they do exist it's
+just they're much harder to find that
+you would think so then they're more in
+Romania down the street from 20 Western
+unions and they're there warming up to
+if the forward-looking ones are warming
+up to it but we're talking about going
+from like one bank in the country to
+like 10 banks in the country you know or
+five so it's still not a large set these
+are small banks generally like Singapore
+should get on that everybody this case
+is why some of these companies are going
+to Singapore actually yeah and actually
+the the the warning trend that I'm
+seeing is a lot of the more interesting
+development teams and companies are all
+locating overseas fleeing overseas one
+thing is that Bitcoin and the other
+cryptocurrencies they operate under such
+different principles of the banking
+system that people in the banking system
+they look at you know these debates
+about block size and the people calling
+each other names in the basics of a low
+level of trust that exists because it
+can exist in the Bitcoin community and
+they're horrified because you couldn't
+run a bank that way you have to you have
+to be much more polite and careful and
+because they're what were right right
+because it's a wet social system rather
+than based primarily on dry computer
+science yeah you have a system here that
+allows anonymous trolls to engage in
+complex financial transactions so they
+can I think in screaming each other in
+college their names while still doing
+business yes exactly that's the power of
+the system but it looks it looks
+horrific they see us from the outside
+and that's why you have this cultural
+gap people the banking system look at
+this and go this is this is terrible
+this can't possibly work but to actually
+answer your question it's like what
+infrastructure needs to exist to make
+this space happen security is a big
+issue I think your average person today
+if they buy coin they don't know how to
+deal with what's called custody which is
+just how do you hold on to it in a way
+that if you if you don't go overboard in
+security you get hacked and if you go
+overboard and security gonna forget your
+password or lose the private energy
+holder thing yeah your
+to a garbage man there you know or your
+your kids playing with the computer and
+website your your wallet file and
+there's no way to get it back yeah so I
+think there's secured the custody has to
+be solved and as Nick mentioned there
+are Hardware wallets that are out there
+they're starting to get pretty good
+they're getting good enough now that you
+know the sophisticated people can use
+them but eventually they'll have to get
+so good that the average person can just
+use them without having to think too
+much yeah one of the interesting things
+here is that Nick's blog is called
+unenumerated and I'm going to let him
+explain what that means well yeah so the
+tagline is an endless variety of topics
+it might going to come to an end someday
+but I don't limit myself basically what
+it means on the topic if I if I think of
+something it'll probably be relevant
+somehow but it doesn't necessarily have
+to be so I don't want to like peg myself
+as a certain into a certain subject
+matter basically is what I mean yeah and
+so everything's a larger point where
+Nick doesn't pigeonhole himself and his
+interests or his identity and so that
+allows it to be more free and explore a
+wider range of intellectual topics and
+so that's why I really enjoyed reading
+the blog and so that gives me sort of
+the next set of questions which are all
+around just random things in your blog
+that I that I've read or things that
+I've heard you talk about which may not
+necessarily relate to Bitcoin or
+blockchains
+now you are the first to really
+convincingly argue and it's goes way
+back about why micro transactions in the
+internet were much less likely than
+people thought because when I was
+growing up on the Internet and then late
+90s everyone thought micro transactions
+were just around the corner what would
+be an example of a micro transaction
+it's like every time I hit a web page
+with a with an article I pay 10 cents to
+read that web page or every time I
+listen to a song I pay a penny goes into
+that song well it goes to a distinction
+I made earlier the computational costs
+versus our mental cost and the
+computational cost have gotten a lot
+cheaper and our brain still the same
+size so when you're doing a transaction
+you're doing a thought in your brain
+about is it worth it and that thought
+itself is costly and this is costly now
+if it's
+ever been modulo you know you get a few
+extra market prices and some more
+information but the our brain is still
+the same size so just because computer
+scientists were thinking well because
+we've reduced the cost so much now we
+can do these really tiny tiny things
+because we can do things much time
+you're in a pending but the trouble is
+about our brains can't handle it
+computer is good but our brains can't so
+that's what the idea of mental
+transaction costs the mental burden
+right and so there's a quote that I
+really enjoyed and I'm going to try to
+not take us too off track but there is
+no track that's the good news actor this
+is Alfred North Whitehead so quote it is
+a profoundly erroneous truism repeated
+by all copy books and by eminent people
+when they're making speeches that we
+should cultivate the habit of thinking
+about what we are doing the precise
+opposite is the case
+civilization advances by extending the
+number of important operations which we
+can perform without thinking about them
+end quote is this applied elsewhere in
+your life outside of watch hands
+thinking about code and so on I mean do
+you other ways that you minimize
+cognitive burden and other ways in your
+life minimize cognitive burden more
+other way making these small decisions
+sort of cognitive microtransactions yeah
+I would have to think about that four
+other things I know what I was thinking
+there also he was being quoted by
+Frederick Hayek who is talking about how
+knowledge is distributed and markets and
+some markets have traditionally been a
+tool where we can communicate what we
+want and how much we have for it and
+stuff and that really economized we're
+only accumulated you know or only using
+a few numbers instead of you know going
+on and on about what we want how much we
+need and how much we did more deserve it
+more than the other guy and so forth so
+that right there is a tool of social
+scalability because it reduces what
+could be a long and drawn-out argument
+over you know and to it to a few numbers
+no it does as asking we don't have to
+get into it because there may not be a
+ready answer but because I was I was
+with a friend a very very successful
+investor close buddy of mine we were
+walking through the airports having a
+conversation and he said no I've
+realized that I opt
+- now I used to optimize everything so
+now I am eyes one or two things and for
+everything else it's just good enough I
+basically D optimize everything else and
+it's made me in his mind incredibly more
+effective by actively D optimizing which
+which I find mission concept yeah I mean
+you just can't focus on everything like
+Charlie Munger is a famously bad driver
+okay he's a probably a menace on the
+road and it's a good he probably takes
+over now hopefully but what's the point
+of being a good driver today right
+especially if you have some other scope
+in your life where you can add unique
+value yeah in fact so reading your blog
+that all these other little gems that
+I've found that can we go back to word
+or a name origin for one second sort of
+does unenumerated have anything to do
+with the ninth amendment of the united
+states constitution it does relate to
+that too because unenumerated rights
+meaning you know there's new things
+going to happen with technology and
+other unexpected things in the future
+and you need just define rights about
+around those and so you don't want to
+limit yourself to just that old list of
+you know we have a right to a free
+printing press but we don't have a right
+to speak freely you know on Facebook or
+Twitter or so forth and so you you have
+to adapt old ideas to the future yeah so
+basically just because the right is not
+explicitly listed there doesn't mean you
+don't have it and like all the
+unenumerated rights you have by default
+and it's only the ones that are actually
+restricted the ones that are restricted
+that's something that I think our
+government and Constitution scholars of
+the day just completely forget as shown
+by the whole surveillance debate and it
+shouldn't even be a debate there's no we
+the right to privacy is very clear and
+even if it's not explicitly spelled out
+our phones are private and our computers
+are private and our conversations are
+private the ways of thinking you know
+the process of thought itself is kind of
+interesting right after a while you get
+introspective enough and you're like how
+am i doing by thinking itself and one of
+the things that we run into online a lot
+is people jump on any little
+contradiction right if I say something
+on Twitter
+and if I said something different a year
+ago or maybe out of context and
+different conversation people jump on me
+and say well that's not what you said
+and someone so it's like a big gotcha
+right so I think we have this false
+consistency that we all try and throw up
+when the reality is we're always
+changing our minds and you know I forget
+who said it was somebody said when the
+facts change I changed my mind what do
+you do right so I've gotten I've got
+okay with this concept of contradicting
+myself right Walt Whitman said like I
+contradict myself very well then I
+contradict myself I am vast I contain
+multitudes right so I've gotten use of
+that but then I encountered a concept in
+your writing Nick that I liked which is
+it which is called quantum thought I
+don't know if you even remember this do
+you do remember imposter so well that
+comes from law school so lost law school
+they teach a very different way of
+thinking in that you need to take you
+know both the defendants and the
+plaintiffs side of the issue both sides
+of the issue and run down the arguments
+as if each one of them is true they
+contradict each other of course or at
+least the conclusions and and some of
+the sub arguments contradict each other
+and so I compare this to Schrodinger's
+cat maybe it's alive maybe instead maybe
+the defendants guilty may be had in the
+bath maybe they're not and you have to
+keep both of these in your mind at once
+yeah so I mean this is not how we are
+socially taught to think socially we're
+taught you have to have a point of view
+you have to have an answer you have to
+pick a side make your tribe fit in and
+then defend it and be consistent but the
+reality is really complicated and so if
+you're really smart and you're operating
+on the edge of any field or trying to
+figure out anything new you probably
+need to have quantum thought you
+probably have to hold both states in
+your head and constantly waiting
+probabilities and if you're not shifting
+back and forth then either you're not
+doing something cutting-edge or you're
+not being intellectually honest with
+yourself mm-hmm so I've questioned for
+you about this and also start with just
+an anecdote which was I was at a
+friend's house recently and it was
+gathering if 20 people or so
+and there was some structure to the
+weekend and people were broken out into
+groups to have various discussions
+everyone there very intelligent normally
+highly rational and politics was the
+topic of the day and it just devolved
+into acid spitting and craziness almost
+immediately with the exception of one
+session and the reason that session was
+different is that the moderator said
+before we get started I want to go
+around the room and everyone needs to
+pick one piece it could be a tiny piece
+of the opposite side the person they
+disagree with and just argue for its
+validity for even 60 seconds and go
+around the room and did that and it took
+ten minutes and then everyone was much
+more open-minded and patient and
+productive in the conversation so my
+question for you leading off of that is
+how have you trained yourself to
+practice quantum thought or how would
+you recommend someone develop that
+because it's not something that most
+folks think about certainly something
+circly I didn't dedicate a lot of time
+thinking about I was always more
+concerned with defending whatever
+position I feel like everyone else
+should be engaging in it I should stick
+to my no I mean it's good it took you
+know quite a few loss takes a few law
+school tests to get used to it so one
+thing you could do is take the first
+year of law school and learn how to do
+this but imagining that you're the other
+person certainly and going through their
+arguments and you might even imagine it
+as a courtroom and you trade places you
+argue for one side and then the other so
+you can think of it as a courtroom in
+your mind I think might help some people
+it seems like people who have either
+self selected by gravitating towards
+debate or taken debate where they're
+forced to take opposite positions and
+counter-arguments helpful as well yeah
+this is a classic Socrates right he
+would always think he would always just
+keep digging and arguing the point and
+you could never pin him down on his
+beliefs because he was always exploring
+the thought space and that's also I mean
+this
+practice disre people are like I don't
+want to be over minded but okay they're
+not going to explicitly say that but if
+you want to be maximally persuasive you
+know Charles Darwin actually did this
+very very well what I'm about to say in
+Origin of Species is instead of straw
+Manning and I think Sam Harris has used
+this expression the steel Manning so in
+other words he would he would try to
+anticipate the objection so that people
+would have and then he would not take
+the sort of weak and flimsy version of
+their argument he would build it up and
+make it as compelling as possible before
+he would counter it in his own writing
+that's the intellectually honest way to
+do it which is pretty honest way it's
+also a very very effective way right
+yeah because then you're actually then
+you're actually arguing on the real
+merits not on what you none of the
+anecdote you pick the right at least of
+it that you pick to attack to Neil
+Strauss isn't a time New York Times
+bestselling authors been on the podcast
+but he said every time he edits his own
+work first he edits for himself it keeps
+he wants to keep an interesting phone
+for himself second he edits first fans
+make sure everything is clear and then
+he edits for his haters absolutely you
+can steal them and bulletproof things
+they expect possible Twitter's taught me
+that I mean you have got 160 characters
+everything you say 140 most the time
+everything you say will be taken out of
+context and are used to attack you so
+you really just have to boil it down you
+have to you have to hone it and I tweet
+mainly because it helps me clarify my
+own thinking mm-hmm it's quite there
+Crusaders actually yeah I think they'd
+be accidental limit from text messaging
+days turned out to be a huge bonus for
+it for Twitter yeah I mean so just kind
+of moving moving on a little bit there
+these other little phrases your coin
+that helped me crystallize my own
+thoughts so there's a there's a class of
+things that people seem to worry a lot
+about these days whether it's an
+asteroid hitting the earth or you know
+apocalyptic scenarios floods China
+Skynet AI you know let's just say even
+like near-term climate change
+predictions like I think we're all
+supposed to be underwater by 2020 or
+something right but there's definitely a
+class of people who will take a
+on the internet and blow it out of
+proportion sometimes it can be a warning
+sometimes can be good sometimes to be
+bad like the general AI thing is another
+one of these and you summarize this
+whole class of statements under what I
+thought was a brilliant little moniker
+Pascal scams and what does that come
+from so that comes from Pascal's wager
+and it can be applied to any any claim
+that there's an infinite or very large
+reward or punishment or outcome of
+positive or negative nature and the
+argument goes that even if it's very
+improbable because this this reward or
+outcome is so large you should pay
+attention to it right and Pascal
+originally basically said you have to
+believe in God because just in case
+because it's right wrong your eternity
+right God doesn't exist who cares right
+God does exist you don't believe exactly
+so you should believe yeah that was the
+audience the basic flaw in this kind of
+thing is there is an infinite number of
+infinite outcomes if you expand your
+space tight Finity there's there's an
+infinite number of things that can
+happen so you can't the the odds of any
+one of them happening are
+infinitesimally right so you don't get a
+large expected value when you multiply
+infinite by infinitesimally
+it's some undefined thing you can't
+really reason about but at but people do
+anyway but people try anyway so they say
+well even you know we so this
+precautionary principle kind of stuff
+you can only take it so far and the
+other problem with improbable things he
+is there are air bars on the probability
+you don't know if it's you know one in a
+billion or one in you know quadrillions
+or something so right there that changes
+your expected value many orders of
+magnitude usually you know people are
+trying to get attention and so forth or
+you know they have a job that depends on
+scaring you and they're trying to
+they're trying to make you believe the
+probabilities higher yeah it's use
+Nassim Taleb language and you should
+definitely get him on the podcast some
+point by the way that's that I can do
+that should happen I've had dinner with
+him a few times I think that would be
+highly entertaining oh yes I want a
+front-row seat
+supervened but if you tell every image
+you know some Black Swan is like that
+happen but any particular Black Swan is
+very unlikely to happen and so people
+are just trying to scare you with a
+particular Black Swan and because it can
+end your world even in fit a small
+probability has to be taken seriously
+and you can waste your entire life
+worrying about these things whether it's
+suitcase nukes or you know another
+financial crisis or the world exploding
+or imploding or cooling off or whatever
+now just to just to touch back on the
+Black Swan though now seem and I first
+met if you can imagine the circumstances
+the day that Lehman Brothers officially
+to be imploded right highly improbable
+at least if you're looking back so a few
+years prior and he has done very very
+well financially by not betting on all
+black swans but betting on a few select
+black swans and bleeding in small chips
+for long periods of time before
+occasionally having some type of
+windfall like that right so in when
+you're considering some of these
+improbable events how do you decide
+which to hedge by certain behaviors or
+not for instance in San Francisco the I
+really went deep didn't did training
+with the Police Department fire
+department for a disaster response
+looking at the potential consequences of
+saying a high magnitude earthquake and
+it's like okay it probably makes sense
+for me to spend a hundred bucks on
+instacart just get mine in reality I get
+a trip on your stairwell and I don't
+know that's more likely but the point
+I'm making is like you most people have
+a fire extinguisher in the kitchen that
+they will never use right you wear your
+seatbelt you've probably never been in a
+high impact collision so there are
+certain classes that are low cost very
+easy yeah in terms of preventative so
+how do you think about how do you
+personally think about this right I mean
+but a not erect not and no that's not
+really a problem that I think happens a
+lot of people not an asteroid destroying
+that's the planet it's a probability
+thing yeah we're we're the probability
+spectrum is it if it's one out of 10,000
+you know you should probably worry about
+it or at least take basic precautions if
+it could if it has never happened yet
+it could happen and would wipe out all
+of humanity or like once a generation
+then it's sort of in the sphere we just
+can't think about it or you just go
+insane oh I second a first law to be
+able to go you know here are some more
+crashing on a magnitude 10 quake in San
+Francisco could happen the odds are low
+but it could happen you could keep that
+fire stinger sure around you could add
+some water you could add some things but
+you know you're the building you're in
+will just collapse on you anyway so well
+yeah I mean there's business oh the
+extreme example of this the one that you
+know a lot of people in our social
+circle or constantly peddling is a
+singularity example the very seductive
+one you know even Elon Musk who's
+otherwise absolutely brilliant seems to
+be taken in by it and and you know I
+give him credit for for worrying about
+it and thinking it through and so on but
+it's just another one of these Pascal
+scams it's using like okay can I come
+back to because I know we're gonna
+that's alright we're about to I really
+does attack the pinata with this uh
+hornet's nest for my exact is FL candy I
+don't know depends like as an egg about
+it but I before we get there Nick is
+there anything that you worry about that
+many other people don't worry about
+things I worry about that many other
+people don't I don't know people worry
+about so many things
+but I mean people worry about privacy
+but that seems to be going the wrong
+direction
+anyway you talked about the singularity
+I heard somebody coined the phrase I
+forgot who it was creepy Lera T that
+were slowly life is getting creepier and
+creepier more strangers are appearing in
+on more and more personal parts of our
+lives so I worry about that goddess I
+did you podcast won't help do you take
+do you take preventive any particular
+preventive measures that other people
+might find helpful I do but a lot of
+them are security through obscurity so I
+can't a guy understood all right so
+singularity we do interval actually
+before we get into that like I think the
+privacy issue is really interesting one
+because physical privacy is being
+utterly destroyed and other than people
+realize the extent to which is going
+away because cameras are essentially
+your big quitters and face rec and
+everyone can track everything
+privacy is possible in one realm where
+it was impossible for was a digital
+privacy and that's encryption that's a
+story of blockchains and Bachchan
+computers washing computers can enable
+digital privacy to a level that you just
+couldn't get otherwise
+so one of the sets of things we didn't
+talk about if things like Z cash and
+Manero and other blockchains that are
+all about privacy and if you want touch
+on that at all yeah there are a couple
+so you can achieve because Bitcoin
+doesn't require identity you can achieve
+some minimal amount of privacy but once
+they track you know go to go to the
+again the Bitcoin Fiat Exchange they can
+tie the address to an identity that way
+and trace it back and there are the
+minimal basically if you buy on an
+exchange they'll know what account that
+it the money was sent to or the coins
+were sent to and then every time the
+coin moves someone can analyze the
+blockchain because they have a copy too
+they can say went from account X to
+account Y account Y to Kanzi and they
+might lose track you somewhere along the
+way but I even heard someone say that
+law enforcement started to refer to
+Bitcoin as prosecution futures sometime
+in the future they will be able to
+unwind that country like we'll do it be
+like analyzing Lance Armstrong's blood
+ten years later yeah like oh we do have
+that we still have a copy and now the
+technology got better right execution a
+guy named David Chum invented mixes and
+applying a mixing tin blinding and
+applying this technique to money I'm
+Torres aversion applying it to
+communications but applying this to
+money so you can do a little bit of
+mixing or tumbling in Bitcoin but Manero
+you can do it quite a bit better and
+then Z cash has an even more advanced
+privacy features yeah essentially the
+Monaro and I don't know the material
+community is very acidic and they fight
+the Z cash community so they get the
+battle to each other but there are
+different approaches like one approach
+is I'm doing a transaction and there
+five other people do a transaction we
+all pull our transactions together and
+then so someone who's trying to analyze
+the blockchain will just see that five
+trans
+we're done these are five participants
+but you've lost they can't tell what
+went to whom and something like z cache
+takes it a step further and just the
+entire ledger is opaque like it's all
+cryptographically protected you can't
+tell who exchanged what and there are
+these crazy complicated proofs that go
+into proving who still has what money
+and in theory the cash is much is very
+private it's sort of the extreme edge of
+privacy but it's computationally
+extremely expensive it's brand-new
+cryptography which hasn't yet withstood
+the test of time what makes a particular
+currency appreciate and value I know
+this is probably stupid sounding
+question but I guess there's because on
+one hand you have these nuanced sort of
+technological features right so someone
+might focus or take as a particular
+currency my focus more on privacy and
+then another might focus more on XY and
+Z then you have supply and demand right
+if Kim car if Kim Kardashian gets up
+tomorrow morning and decides that she's
+read a lot about Bitcoin and wants to
+Instagram about it for the next ten days
+straight I would imagine that would have
+an impact on prices and then you can
+look at a framework of you can say first
+of all is this doing something novel and
+useful like it's as useful it's privacy
+useful is computation useful it's
+exchanging money useful then you can say
+is this the right technology solution
+because it's probably 20 other
+blockchains competing for it then is it
+being adopted
+is there a network effect people have in
+their wallets as the infrastructure
+exists are they using it and then supply
+and demand and and that gets gamed a lot
+sometimes the developers of these coins
+are pumping out more coins in the
+background you don't know where they
+reserve the right to read the source
+code to figure it out so that's why
+investing in some of these extreme
+so-called all coins or app coins is very
+scary but there are other applications
+coming up that are really interesting so
+there's like a one coming out called
+foul coin where I'm a small investors
+our disclaimer but there are others is
+storage storage a and others like that
+also that are basically trying to create
+a network of distributed computers that
+will do storage for you so instead of
+uploading your file to Dropbox or Amazon
+you can upload massive files into these
+distributed storage networks that will
+take your data encrypt it split across
+thousands of machines and then they'll
+test to make sure your files still
+available the network if you ever need
+it back and then you'll pay people in
+the coin and so people who you don't
+know grandmother's in India might be
+holding a piece of your file and waiting
+to serve it back to you when you need it
+as a backup or just for storage or
+serving and you'll be paying them fully
+anonymously and from far away and the
+whole transaction is handled through the
+network there's another one called block
+stack which is building an
+infrastructure for the decentralized
+internet including domain names name
+serving done in the distributed fashion
+today all the name servers are
+controlled by ICANN and Verisign and so
+on but what if you could split that out
+amongst a distributed network of
+computers you could pay people and coin
+on the network for doing that so these
+kinds of applications are coming up and
+for each one of these you look like is
+it novel is it useful what's the
+competition is the code secure other
+developer scammers or their backdoors
+what's the supply and demand
+so it's still completely Wild West which
+is both the opportunity and the terror
+of it I mean I think the average person
+is investing in coins on most of them is
+probably gonna lose their shirts over a
+long enough period of time because the
+scammers are really sophisticated but I
+think they're really smart people who
+know what they're doing and maybe get a
+little bit lucky they're going to make
+generational fortunes Nick what are your
+thoughts on singularity so well I'll get
+back to Pascal I was doing I was going
+to try to do something clever with
+generations and I'd like you know what I
+can do this a lot of the ìiî SEOs are
+scams and Pascal scams are these big
+scams where like you can't calculate the
+probabilities because you're dealing
+with affinities and the most recent of
+the Pascal scams is making the rounds is
+a singularity movement yeah so I mean
+the idea of the singularity they've seen
+this exponential growth and computer
+resources and the fact that computers
+are outstripping humans and then they
+sort of impute from that that and you
+can also see computers take over you
+know things that used to be considered a
+sign of intelligence to be able to add
+and subtract quickly and now computers
+can do that billions of times faster
+than you
+so and and the gap keeps growing and
+growing once the computer can do
+something the gaps just going to keep
+growing and growing
+but the idea the singularity tends to be
+that you get a general intelligence like
+it at some point computers can do
+everything humans can do and also you
+know very quickly they can go faster and
+faster and faster they start designing
+improved versions of themselves and it's
+a runaway effect in humans soon become
+obsolete or pray for terminators and
+what I we can't predict and so one of
+the one of the conceits is the idea that
+I will no longer be able to predict the
+future the thing is that's that's
+basically true today for a lot of things
+you can't you know you know the stock
+market's an ongoing running singularity
+you can't predict day to day if you
+could you could make a fortune so yeah
+you've laid out a lot of arguments
+against it I'm another one it's just
+what is this general intelligence thing
+like humans are highly adaptive
+specialized machines and every other
+animal that's around today for include
+in the cockroach it just as evolved as
+we are it's just different Fitness
+functions and so it has a different
+concept of intelligence that needs to
+survive and machine intelligence that
+we've developed so far two extremely
+specialized so there probably is no such
+thing as general intelligence instead
+what we have is machines that are
+brilliant at calculation but terrible at
+other things and now they're getting
+brilliant face recognition but that
+doesn't mean they're going to be really
+great at me solving my next debate with
+my wife
+well did something else you touched on
+that I appreciated and as a
+non-scientist non-engineering sometimes
+pretends to do such physical performance
+and whatnot quote there is as Fineman
+said so it's richard fineman everybody
+should read surely you're joking mr.
+Feinman but I digress there is a spine
+man said quote plenty of room at the
+bottom end quote but it is by no means
+infinite given actual demonstrated
+physics that means all growth curves
+that look exponential or more in the
+short run turn over and become s curves
+are similar in the long run unless we
+discover physics that we do not now know
+as information data processing under
+physics as we know it are limited by the
+number of particles we have access to
+and that in turn can only increase in
+the long run by it most acute polynomial
+and probably much less than that since
+space is mostly empty
+it seems underlying the singularity is
+the assumption that
+Financial continues during exponential
+indefinitely
+right and we've had exponential growth
+for computers for most the last century
+and so we have this vast resources that
+I've already talked about to take
+advantage of but the future you're going
+to face these physics limits you know
+limits on the heat that your circuits
+give out they turn into toasters and and
+so forth so yeah and it's the limit set
+by quantum mechanics and we're we've
+reached that and some I don't think
+Moore's Law really applies to
+transistors necessarily anymore the
+original Moore's law about the number of
+transistor Bank that's already the
+physical limits of how far transistors
+can go then there's a question of our
+transistors even the right medium like
+maybe to exhibit our kind of variation
+of specialized intelligence it needs to
+be on wetware like it needs to be on
+tissue and we have not yet gotten to
+growing brain tissue and then
+programming it that's a long ways off
+and then you have deal with the fact
+that our brains evolve in our
+intelligence involves in reaction to our
+environment and even genetic algorithms
+evolved in reaction to fitness functions
+so you not only would you have to create
+a computer that could run on our tissue
+to inhibit to exhibit our kind of
+intelligence but then you would also
+have to put it in our kind of
+environment and it's rate of learning
+would be limited by what inputs our
+environment can provide and if you're
+going to go do all that work then just
+have a baby takes nine months and we
+already know how to do anything we're
+high
+well on that point related to
+environment this is and you've written
+quite a bit on this but I underlined one
+portion quote so these evolutionary
+techniques and other machine learning
+techniques are often interesting and
+useful but this is the severely limited
+ability of computers to simulate most
+real-world phenomena means that no
+runway is in store just potentially much
+more incremental improvements which we
+which will be much greater in similar
+bull arenas and much smaller than others
+and will slowly improve as the accuracy
+and completeness of our simulation slow
+improves just to underscore what you
+just said you need access to the
+environment or the ability to create
+right there's also a probabilistic
+argument against general intelligence
+which is the universe is so vast and so
+large that if general it's the same is
+the same people who make
+general intelligence argument also make
+the we're living in the simulation
+argument well the kind of both can't be
+true because if we're living in a
+simulation then that means that at some
+point we already invented a general
+intelligence like when you get the
+technological capability to invent a
+simulation is complexity
+probabilistically and you believe
+general intelligence are possible into
+the mechanism described in the
+singularity then we probably already hit
+that along the way so that means that
+whatever that general in AI is already
+exists we're just living inside it's sim
+so why do we have to worry about it some
+of the emerging here then killing us all
+so the people who are both holding the
+simulation bully hypothesis in their
+head and the singularity being on the
+corner in their head are sort of at a
+deep level contradicting themselves well
+particularly if no I guess be so the
+simulation I wish we had Sam Harris here
+to talk about I don't like mentioned
+something I was just talking about free
+well he's interesting talked about that
+but the the idea that something would
+come to be that is a thousand a million
+times a billion times more generalizable
+intelligent than we are and their
+priority would be killing us yeah it's
+just like my my my directive in life
+being running around killing cockroaches
+it's like knowing cockroaches I don't
+really care so much about them but seems
+odd that that yeah I think that movie
+her actually did it pretty well which is
+you know when the general AI evolved in
+that movie it just left yeah yeah I
+didn't care about this world at all
+soon of all you've mentioned a bunch of
+things you're not worried about I'm
+curious to ask you the same question
+ethnic which is what are the things that
+occupy your mind more than perhaps other
+folks or many other people I try to keep
+a very low level of mental surface
+activity for anything other than
+whatever I'm directly dealing with in
+the moment and one of the ways I'm
+trying to do that is by stripping away
+layers of identity so I don't want to
+over they identify as Indian or American
+or libertarian or Democrat or any of
+those kinds of things because one that
+sort of keeps me from actually engaging
+in thinking as I need to it's all
+preconceived beliefs it makes me more
+defensive because once you
+you can't talk about politics anybody's
+because the tax identity at a core level
+every tweet I put out I now know that
+even if I attack a general class of
+activity all the people who are engaged
+in that activity will respond so like I
+put out a tweet about how you want to
+you know value investing and venture
+investing or both long term investing
+and trading is a good get-rich-quick
+scheme which doesn't work
+and so of course all the people who got
+really angry about that I was quickly to
+the buyer and sure enough their traders
+like that's what they do they trade all
+the time for Wall Street and that's how
+they make a living so if you attack
+someone's identity you're shut down all
+conversation with them that's why
+politic political conversations don't
+work so conversely if you want to be
+rational and open mind that you should
+not have an identity and the less of an
+identity you can absorb can adopt the
+better how do you train yourself to
+identify less as Indian as X as one
+human consistency bias a powerful thing
+so just when someone asked you are you
+libertarian to say I'm not anything
+if they say like religious you know they
+don't say like like Krishnamurti one of
+my favorite philosophers when he met the
+Pope you know the the Pope said to him
+like you know I'm I'm Pope blah blah
+blah you know from this lineage and so
+on who are you and Krishnamurti said I'm
+nobody right but he was being serious
+yeah like I don't even know what I am
+just being that's here right now in this
+environment reacting to the inputs from
+the environment according to my
+conditioning and I'm trying to be as
+unconditioned as possible but that's why
+my my Twitter my Twitter avatar is like
+a sketch of a human face because it's
+trying to remind me to be unconditioned
+you don't want to be over conditioned
+and you don't want to be overly strong
+with your identity you guys mentioned
+Twitter earlier so one of the things
+that you may have noticed I do this but
+I routinely put out things on Twitter
+and Facebook that I used to call my
+audience of hypersensitive people or
+that I know will just kick the hornet's
+nest enough to force people to
+self-select one way or the other
+yeah and I have to be careful not to
+then
+accidentally create a group where they
+all have sort of grew up exactly you
+want to screw link you want to prune the
+trees of the forest not ruin the trees a
+little bit but also what that does is it
+gives me more I see I perceive having
+more freedom of speech or willingness to
+speak my mind because I'm progressively
+creating less and less of a reputation
+to protect something yes and so that's
+right now III do the exact same thing
+which is I would say every every couple
+of months my tweet stream gets a little
+edgier right that's sort of pushed out
+the people who can't deal with what I'm
+saying
+and I've muted them or block them or I
+just say one followed me or what have
+you and I've been used to block but now
+I've had to like it's just cuz there's
+always somebody who's straw man whatever
+you're saying get outraged and try and
+start a fire and assemble a mob around
+it to like burn you at the stake and
+unfortunately a lot of the best people
+on Twitter have left because of that
+issue right like tea market probably
+being the most famous but you know you
+can put out a hundred tweets a day and
+you say one thing wrong and one of them
+and they're trying to burn you at the
+stake it's always the most controversial
+ones of mine to get on put on reddit and
+spread beyond the footer absolutely yeah
+Pete marker for those interested it's
+Marc Andreessen I think this is a
+general phenomenon where society has not
+yet figured out how to deal with social
+media I think like in my kids generation
+they'll be saying all kinds of crazy
+things on Twitter and nobody will care
+nobody will lose a job over it nobody
+will get worked up over because everyone
+was saying everything crazy all the time
+but right now and we're transitioning
+from a world of our thoughts being
+private to our thoughts being public
+people are still getting outraged but to
+me like the people who get outraged are
+sort of the most imaginative least
+intelligent members of society and I'm
+happy to leave them behind the more
+easily outraged you are the less I won't
+have to do with you be gone if you think
+words can hurt you you're going to live
+in a world of misery and pain your
+entire life so on that note I'd like to
+wrap this guy I so I like your shift for
+a second and ask a few questions of unic
+that are not directly related to they
+might be they might edge into it but not
+directly related to cryptocurrency the
+first is if
+people want to explore your blog and you
+have some very extensive writing and
+where might you suggest they start is
+there a particular piece or a few pieces
+that might be a good diving in point for
+people yeah I fell for our blockchains
+and cryptocurrency and smart contracts
+probably the two best ones money
+blockchains and social scalability is a
+recent blog post of mine and then in a
+somewhat older blog post called dawn of
+trustworthy computing what are some of
+the subjects that you enjoy exploring
+outside of the ones that we've already
+heard about in terms of the we
+understand the fascination with money
+currency law what are other interests
+that might not be immediately evident to
+people if they're reading your blog yeah
+we also mentioned the origins of money
+origins of money and big interest in
+related interest mine and history in
+general I read a lot of history any
+particular by economic and legal history
+mostly so are there any particular
+resources or books that you've enjoyed
+in that area
+um so Alfred crosby's the Columbian
+Exchange which is basically what Jared
+Diamond ripped off when he wrote his
+[Music]
+Alfred Crosby wrote the original better
+version I know you just ruined Jared
+Diamond for me that is a popular
+yeah Jared Diamond's hypothesis on what
+happened on Easter Island also turns out
+nah that's right I've heard not huge
+Lapidus
+not that yeah but yeah we all make our
+mistakes be it one of the questions I
+ask guests on the podcast often times is
+what books have you gifted the most
+other people and I don't know if you
+have any that come to mind
+so Richard Dawkins The Selfish Gene is
+sort of on my essential everybody should
+read this list yeah definitely one of
+the classics all the Dawkins is getting
+outraged on the internet a lot these
+days he's good at that's the same kind
+of outrage
+oh my god I saw uh yeah public speak
+public talk of his in Los Angeles not
+too long as foods fantastic but I was
+just like every given second I'm like I
+wonder if this room is going to explode
+like not with outrage applause like
+literally any other books that kind of
+line and I mean Matt relief written
+several good books on evolution social
+evolution and a couple of genetic
+evolution as well these fellows lesson
+Matt our ID le why riddling okay Connor
+yeah I think three or four of my top
+twenty books of all time are all read
+these rational optimist genome Red Queen
+origins of virtue which is your favorite
+or if you had to recommend one if you
+had to recommend one rational optimist
+and here's an evolution of everything
+which I haven't read yet if you were
+teaching a this for you neck if you were
+teaching a let's call it a high school
+freshman class or seminar I'd be on any
+topic what would you teach hmm well I
+just gave some lectures at my honorary
+Doctorate University on related lectures
+on the origins of money and blockchains
+and cryptocurrency so to me those are
+three closely related topics but I like
+to and how have a over what period of
+time did he teach at class or whatever
+like hour-long lecture so I tried to
+cram way too much into there what would
+you hope people would take from those
+lectures if they only remembered two or
+three things is that are there any core
+critical takeaways you could help them
+so money is not arbitrary if you look at
+the history or the money you see all
+sorts of different things textiles and
+Yap stones and that's net and so forth
+but indeed it's not arbitrary they're
+very consistent things like unforgeable
+costliness the demand for scarce supply
+and the durability people choosing
+durable objects so that that sort of
+realizing that by reading that is partly
+what helped me figure out yeah you could
+do this in cyberspace as well um so what
+does in your in your life what does
+money buy you I know that's not like a
+not
+in my life and yeah yeah not as much as
+one would have thought because I find
+myself consuming time to do things that
+I would I would like to substitute money
+for but can't okay I have to take the
+time to do them anyway so what what
+drives you to write as much as you do
+well partly that's what I want to do it
+in life so you enjoy the process okay I
+like the freedom of thought and stuff
+and so I'd much rather sit at home
+thinking my own stuff and then you know
+thinking what my boss wants me to say
+okay what are things you'd like to write
+about that you haven't had a chance to
+explore yet or that you have on deck so
+I've written some things about the
+Industrial Revolution that I have some
+media sites on but I'm so busy with
+other things I'll probably never get to
+and on what I call the exploration
+explosion how European's were able to go
+around the globe and and take over the
+world's trade routes and so forth you
+know after Columbus so and there's all
+sorts of those other two my favorites
+but there's there's plenty of others as
+well never actually I do
+can you can you give any teaser snippets
+or concepts from the Industrial
+Revolution well I don't I don't know if
+this made it on the recording but the
+hourglass was mentioned earlier is an
+underrated invention this humble glass
+thing was sand in it so Europe invented
+like the mechanical clock and which I
+think most people recognize it as an
+important invention but they also at the
+same time and not coincidentally that it
+happened at the same time they invented
+the hourglass and the hourglass keeps
+you know time between one hour and
+another and then the clock which at the
+beginning was only in the bell tower
+you know chimes the hour for the whole
+city and so it's the hourglass that
+people would time their you know their
+activities with and so forth and
+professors would time their lectures and
+people would you know agree to meet at
+certain times and just that temporal
+coordination was happening quite a bit
+more in Europe than than anywhere else
+and they also turned it into a
+navigational technique called dead
+reckoning where you would you
+would look at you're not slipping
+through the water and then you use the
+hourglass to measure the time and then
+you would also use that hourglass to
+record the time record when you made the
+measurement and so you keep track just
+dead reckoning of how far you're going
+that's a technique Columbus used and
+Magellan used and so forth so that
+hourglass we've used in all that stuff
+and underappreciated underappreciated
+yeah there's some for guys job it let's
+flip it every hour exactly on the hour
+if you had a gigantic billboard to put
+anything on instead of a message to get
+out to millions of people or more what
+would you potentially put on that
+anything come to mind I can take
+billboard
+well the phrasing of all quoted me
+earlier trusted third parties or
+security holes anybody in the blockchain
+space I would I would like to get that
+in their head that's basically the key
+to the whole divine why the whole divine
+is like it is and so forth they've all
+you have any other questions before I
+wrap up with a few no I mean I would
+just really encourage people to go read
+Nick's blog he is a true polymath he's
+written about stuff as he mentioned
+ranging from being our glasses and
+clocks the Industrial Revolution to
+blockchain to law and policy and privacy
+and rights and singularity and freedoms
+and it earned something every time I go
+to his blog I'll probably not finished
+about half the pieces on there and
+they're always highly inspirational
+educational yeah people often ask me
+listeners ask me a question related to
+the maxim that you hear in Silicon
+Valley a lot which is you're the average
+of the five people you associate with
+most what do I do if I don't have access
+to five people I want to be the average
+of the answer or one of the answers is
+read choose your reading sources very
+wisely and I would agree the depth and
+breadth of what you cover is really
+really astonishing my smartest teachers
+mentors peers these days are all on
+Twitter and blogs and there is they're
+mostly autodidact like they might have a
+they're self-taught right fancy word but
+they might have degrees and whatever but
+but the reality is they're curious
+people and the Internet is the myth of
+the Library of Alexandria writ large
+like you can find anything and
+everything you can become an expert at
+you can talk to anybody
+so I used to feel guilty about spending
+so much time on the internet but now I
+don't
+long as I'm reading interesting things
+from the people that I think are really
+smart what's the downside
+agreed on Twitter where can people say
+hello what is your Twitter here my
+Twitter handle is at Nick Szabo for okay
+and that's ni ck s Z yes a vo the number
+four number four yeah very cool well
+that I think about covers it for a first
+gathering at cousin of all and you can
+get a twenty five percent discount on
+the volcano if you go to Tim's on vlog
+for lunch - now I'm getting that is that
+as head sizes are going up prices are
+going up but wait that's not all we'll
+have hopefully more for you guys - and
+this is a real blast thanks so much for
+the time Nick thank you this is really
+fun and navall always a pleasure thank
+you for helping put this together thank
+you for having us fantastic and to have
+a great listening we will have show
+notes links to everything we mentioned
+Nick's blog books in many resources we
+can think of probably cryptocurrency 101
+a handful of articles will recommend in
+sequence as well in the show notes you
+can find those at tim log forward slash
+podcast and that will take you to show
+notes for every other episode as well
+and until next time as always thank you
+for listening
+hey guys this is Tim again just a few
+more things before you take off number
+one this is five bullet Friday do you
+want to get a short email from me and
+would you enjoy getting a short email
+from me every Friday is that provides a
+little morsel of fun before the weekend
+and 500 Friday is a very short email
+where I share the coolest things I've
+found or that I've been pondering over
+the week that could include favorite new
+albums that I've discovered it could
+include gizmos and gadgets and all sorts
+of weird that I've somehow dug up
+in the the world of the esoteric
+as I do it could include
+favorite articles that I've read and
+that I've shared with my close friends
+for instance and it's very short it's
+just a little tiny bite of goodness
+before you head off for the weekend so
+if you want to receive that check it out
+just go to 4-hour workweek dot-com
+that's 4-hour workweek com all spelled
+out and just drop in your email and you
+will get the very next one and if you
+sign up I hope you enjoyed this episode
+is brought to you by audible which I
+have used for many many years I
+absolutely love audiobooks and they are
+one of my favorite ways to pass the time
+when I travel I'm on the road all the
+time and audible allows me to consume
+many more books than I possibly could
+otherwise I have two audio books to
+recommend right off the bat the first is
+perhaps my favorite audio book of all
+time it's the only audio book I've
+wanted to listen to twice in a row the
+graveyard book by Neil Gaiman it's
+amazing and you will thank me there are
+a few different versions
+I like the version that Neil narrates
+himself one of the most soothing voices
+of all time the second book is
+vagabonding by Ralph Hawks Pio tts which
+had a huge impact on my life and formed
+the basis for a lot of what would later
+become the 4-hour workweek so go to
+audible.com for word slash Tim and you
+can choose one of these two books or any
+of many many other options that could be
+books magazines and much more as a
+listener of the Tim Ferriss show you can
+also access a free 30-day trial just go
+to audible.com forward slash to him you
+can't make more time but you can make
+the most of it so turn your travel or
+your commute into something more with a
+free trial at audible.com forward slash
+Tim to start now and get your free
+30-day trial this episode is brought to
+you by fresh books man oh man do a lot
+of listeners of this podcast readers of
+mine love fresh books to the extent that
+I end up meeting with the CEO not very
+long ago why are they so popular well
+they are the number one cloud accounting
+software designed exclusively for
+self-employed professionals that's many
+of you and used by more than 10 million
+people you can send invoices track your
+time and get paid very very quickly
+which suits the needs of a lot of
+freelancers are lots of thoughts
+kind of Oz and beyond you can take
+pictures of receipts you can link your
+credit card and debit card so all the
+things you buy automatically appear in
+your fresh books in the right category
+so on and so forth makes taxes easy
+makes invoices easy makes your life
+easier and also in fact I recommend a
+PDF they didn't ask me to read this part
+by the way they put the other PDF a
+while back called breaking the time
+barrier subtitle how to unlock your true
+earning potential so you can search for
+breaking the time barrier a lot of
+people ask me how can I get a 4-hour
+workweek with a service business and the
+story in that we book its PDF is the
+short answer it's really really good so
+I think you should also check that out
+so breaking the time error check it out
+but also why not test out fresh books
+claim your 30-day unrestricted free
+trial at fresh ebooks.com forward slash
+tim and enter tim ferriss two hours in
+two S's in me how did you hear about us
+section that sounds like we're going to
+get very little tracking that's a lot of
+work but just go to fresh books comm
+forward slash tim and try it out because
+it is a very good product and i think
+you will find it simplifies your life
+enjoy
+[Applause]
+you
