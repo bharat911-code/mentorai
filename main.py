@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-Standalone Yapper RAG Server with HuggingFace Inference API
-Runs on port 8001 to avoid conflicts
-"""
+
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -17,7 +13,7 @@ import faiss
 import nltk
 from nltk.tokenize import sent_tokenize
 
-# Download NLTK punkt tokenizer if not already downloaded
+
 try:
     nltk.data.find('tokenizers/punkt')
     print("✅ NLTK punkt tokenizer already available")
@@ -28,16 +24,6 @@ except LookupError:
 
 app = FastAPI(title="Yapper RAG Server", version="1.0.0")
 
-# Add CORS middleware
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Allow all origins for testing
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Personality configuration
 PERSONALITIES = {
     "naval": {
         "name": "Naval Ravikant",
@@ -165,7 +151,7 @@ def search_similar_chunks(query, personality_key, k=3):
     if embedding_model is None:
         raise Exception("Embedding model not initialized")
     
-    # Get embeddings for the query
+    
     query_embedding = embedding_model.encode([query], convert_to_numpy=True).astype('float32')
     
     # Get FAISS index and chunks for this personality
@@ -214,19 +200,11 @@ async def startup_event():
     # Load embedding model (much lighter than full LLM)
     print("📥 Loading embedding model...")
     try:
-        # Use a smaller model for Render's free tier
+        # Use a smaller model 
         embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
         print("✅ Loaded all-MiniLM-L6-v2 (smaller model)")
     except Exception as e:
         print(f"❌ Failed to load embedding model: {e}")
-        # Fallback to even smaller model
-        try:
-            embedding_model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
-            print("✅ Loaded paraphrase-MiniLM-L3-v2 (fallback model)")
-        except Exception as e2:
-            print(f"❌ Failed to load fallback model: {e2}")
-            model_initialized = False
-            return
     
     if embedding_model is None:
         print("❌ No embedding model loaded")
